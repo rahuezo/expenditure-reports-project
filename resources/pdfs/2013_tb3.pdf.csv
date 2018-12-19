@@ -1,0 +1,375 @@
+Mammals,,7,,"Bat, Indiana (Myotis sodalis)",,E,,"$3,720,796",,"$6,250,100",,"$9,970,896",,$0,,"$9,970,896"
+,,6,,"Bear, grizzly (Ursus arctos",,T,,"$6,617,089",,$0,,"$6,617,089",,"$4,400,000",,"$11,017,089"
+,,,,,,,,,,,,,,,,
+,,,"horribilis) - lower 48 States,",,,,,,,,,,,,,
+,,,,except where EXPN or delisted,,,,,,,,,,,,
+,,4,,"Bear, Louisiana black (Ursus",,T,,$0,,"$14,811,361",,"$14,811,361",,$0,,"$14,811,361"
+,,,,,,,,,,,,,,,,
+,,,americanus luteolus),,,,,,,,,,,,,
+,,111,,"Bear, polar (Ursus maritimus)",,T,,"$24,000",,$0,,"$24,000",,$0,,"$24,000"
+,,,,,,,,,,,,,,,,
+,,37,,"Fox, San Joaquin kit (Vulpes",,E,,"$90,625",,"$1,449,583",,"$1,540,208",,$0,,"$1,540,208"
+,,,,,,,,,,,,,,,,
+,,,macrotis mutica) - CA,,,,,,,,,,,,,
+,,68,,"Kangaroo rat, giant (Dipodomys",,E,,$0,,"$482,633",,"$482,633",,$0,,"$482,633"
+,,,,,,,,,,,,,,,,
+,,,ingens),,,,,,,,,,,,,
+,,84,,"Kangaroo rat, Tipton",,E,,"$90,625",,"$82,000",,"$172,625",,$0,,"$172,625"
+,,,,,,,,,,,,,,,,
+,,,(Dipodomys nitratoides,,,,,,,,,,,,,
+,,,,nitratoides),,,,,,,,,,,,
+,,24,,"Lynx, Canada (Lynx canadensis)",,T,,"$3,153,256",,$0,,"$3,153,256",,$0,,"$3,153,256"
+,,,,,,,,,,,,,,,,
+,,,- Contiguous U.S. DPS,,,,,,,,,,,,,
+,,69,,"Manatee, West Indian",,E,,"$445,740",,$0,,"$445,740",,$0,,"$445,740"
+,,,,,,,,,,,,,,,,
+,,,(Trichechus manatus),,,,,,,,,,,,,
+,,73,,"Otter, Northern Sea (Enhydra",,T,,"$338,800",,$0,,"$338,800",,$0,,"$338,800"
+,,,,,,,,,,,,,,,,
+,,,lutris kenyoni) - southwest,,,,,,,,,,,,,
+,,,,Alaska DPS,,,,,,,,,,,,
+,,28,,"Panther, Florida (Puma (=Felis)",,E,,$0,,"$2,350,000",,"$2,350,000",,$0,,"$2,350,000"
+,,,,,,,,,,,,,,,,
+,,,concolor coryi),,,,,,,,,,,,,
+,,39,,"Rabbit, riparian brush",,E,,"$573,924",,"$807,000",,"$1,380,924",,$0,,"$1,380,924"
+,,,,,,,,,,,,,,,,
+,,,(Sylvilagus bachmani riparius) -,,,,,,,,,,,,,
+,,,,CA,,,,,,,,,,,,
+,,85,,"Seal, Hawaiian monk",,E,,"$162,213",,$0,,"$162,213",,$0,,"$162,213"
+,,,,,,,,,,,,,,,,
+,,,(Monachus schauinslandi),,,,,,,,,,,,,
+,,117,,"Sea-lion, Steller (Eumetopias",,T,,$0,,$750,,$750,,$0,,$750
+,,,,,,,,,,,,,,,,
+,,,jubatus) - Eastern DPS,,,,,,,,,,,,,
+,,117,,"Sea-lion, Steller (Eumetopias",,E,,$0,,$750,,$750,,$0,,$750
+,,,,,,,,,,,,,,,,
+,,,jubatus) - Western DPS,,,,,,,,,,,,,
+,,107,,"Shrew, Buena Vista Lake ornate",,E,,"$29,375",,$0,,"$29,375",,$0,,"$29,375"
+,,,,,,,,,,,,,,,,
+,,(Sorex ornatus relictus),,,,,,,,,,,,,,
+,,59.0,,"Squirrel, Delmarva Peninsula",,E,,"$536,500",,$0,,"$536,500",,$0,,"$536,500"
+,,,,,,,,,,,,,,,,
+,,,fox (Sciurus niger cinereus) -,,,,,,,,,,,,,
+,,,,"except Sussex Co., DE",,,,,,,,,,,,
+,,103.0,,"Vole, Florida salt marsh",,E,,"$49,200",,$0,,"$49,200",,$0,,"$49,200"
+,,,,,,,,,,,,,,,,
+,,,(Microtus pennsylvanicus,,,,,,,,,,,,,
+,,,,dukecampbelli),,,,,,,,,,,,
+,,111.0,,"Whale, bowhead (Balaena",,E,,"$24,000",,$0,,"$24,000",,$0,,"$24,000"
+,,,,,,,,,,,,,,,,
+,,,mysticetus),,,,,,,,,,,,,
+,,109.0,,"Whale, gray (Eschrichtius",,E,,"$24,000",,$784,,"$24,784",,$0,,"$24,784"
+,,,,,,,,,,,,,,,,
+,,,robustus) - Western North,,,,,,,,,,,,,
+,,,,Pacific DPS,,,,,,,,,,,,
+,,110.0,,"Whale, humpback (Megaptera",,E,,"$24,000",,$122,,"$24,122",,$0,,"$24,122"
+,,,,,,,,,,,,,,,,
+,,,novaeangliae),,,,,,,,,,,,,
+,,111.0,,"Whale, North Pacific Right",,E,,"$24,000",,$0,,"$24,000",,$0,,"$24,000"
+,,,,,,,,,,,,,,,,
+,,,(Eubalaena japonica),,,,,,,,,,,,,
+,,17.0,,"Wolf, gray (Canis lupus) - AL,",,E,,$0,,$0,,$0,,"$4,400,000",,"$4,400,000"
+,,,,,,,,,,,,,,,,
+,,,"AR, CA, CO, CT, DE, FL, GA,",,,,,,,,,,,,,
+,,,,"KS, KY, LA, MA, MD, ME,",,,,,,,,,,,,
+,,,,"MO, MS, NC, NE, NH, NJ, NV,",,,,,,,,,,,,
+,,,,"NY, OK, PA, RI, SC, TN, VA,",,,,,,,,,,,,
+,,,,"VT, WV;  portions of AZ, NM,",,,,,,,,,,,,
+,,,,TX not included in an EXPN;,,,,,,,,,,,,
+,,,,"portions of IA, IN, IL, ND, OH,",,,,,,,,,,,,
+,,,,"OR, SD, UT, WA; Mexico.",,,,,,,,,,,,
+,,62.0,,"Wolf, gray (Canis lupus) -",,EXPN,,"$523,795",,$0,,"$523,795",,$0,,"$523,795"
+,,,,,,,,,,,,,,,,
+,,,Mexican gray wolf EXPN,,,,,,,,,,,,,
+,,104.0,,"Wolf, red (Canis rufus) - except",,E,,"$45,167",,$0,,"$45,167",,$0,,"$45,167"
+,,,,,,,,,,,,,,,,
+,,,EXPN,,,,,,,,,,,,,
+,,57.0,,"Woodrat, riparian (=San Joaquin",,E,,"$573,924",,$0,,"$573,924",,$0,,"$573,924"
+,,,,,,,,,,,,,,,,
+,,,Valley) (Neotoma fuscipes,,,,,,,,,,,,,
+,,,,riparia),,,,,,,,,,,,
+Mammals,,,,,,,,"$17,071,029",,"$26,235,083",,"$43,306,112",,"$8,800,000",,"$52,106,112"
+,,,,,,,,,,,,,,,,
+subtotal,,,,,,,,,,,,,,,,
+Birds,,111.0,,"Albatross, short-tailed",,E,,"$24,000",,$0,,"$24,000",,$0,,"$24,000"
+,,,(Phoebastria (=Diomedea),,,,,,,,,,,,,
+,albatrus),,,,,,,,,,,,,,,
+,,3,,"Caracara, Audubon's crested",,T,,$692,,"$18,200,000",,"$18,200,692",,$0,,"$18,200,692"
+,,,,,,,,,,,,,,,,
+,,,(Polyborus plancus audubonii) -,,,,,,,,,,,,,
+,,,,FL pop.,,,,,,,,,,,,
+,,85,,"Coot, Hawaiian (Fulica",,E,,"$162,213",,$0,,"$162,213",,$0,,"$162,213"
+,,,,,,,,,,,,,,,,
+,,,americana alai),,,,,,,,,,,,,
+,,19,,"Crane, whooping (Grus",,E,,"$573,676",,"$3,418,000",,"$3,991,676",,$0,,"$3,991,676"
+,,,,,,,,,,,,,,,,
+,,,americana) - except where,,,,,,,,,,,,,
+,,,,EXPN,,,,,,,,,,,,
+,,89,,"Crane, whooping (Grus",,EXPN,,"$144,167",,$0,,"$144,167",,$0,,"$144,167"
+,,,,,,,,,,,,,,,,
+,,,"americana) - CO, ID, FL, NM,",,,,,,,,,,,,,
+,,,,"UT, western WY",,,,,,,,,,,,
+,,85,,"Duck, Hawaiian (=koloa) (Anas",,E,,"$162,213",,$0,,"$162,213",,$0,,"$162,213"
+,,,,,,,,,,,,,,,,
+,,,wyvilliana),,,,,,,,,,,,,
+,,81,,"Eider, spectacled (Somateria",,T,,"$229,000",,$0,,"$229,000",,$0,,"$229,000"
+,,,,,,,,,,,,,,,,
+,,,fischeri),,,,,,,,,,,,,
+,,51,,"Eider, Steller's (Polysticta",,T,,"$677,300",,$0,,"$677,300",,$0,,"$677,300"
+,,,,,,,,,,,,,,,,
+,,,stelleri) - AK breeding pop.,,,,,,,,,,,,,
+,,50,,"Falcon, northern aplomado",,E,,"$769,525",,$0,,"$769,525",,$0,,"$769,525"
+,,,,,,,,,,,,,,,,
+,,,(Falco femoralis septentrionalis),,,,,,,,,,,,,
+,,,,- except where EXPN,,,,,,,,,,,,
+,,29,,"Flycatcher, southwestern willow",,E,,"$1,485,714",,"$799,000",,"$2,284,714",,"$53,055",,"$2,337,769"
+,,,,,,,,,,,,,,,,
+,,,(Empidonax traillii extimus),,,,,,,,,,,,,
+,,1,,"Gnatcatcher, coastal California",,T,,"$18,000",,"$167,875,000",,"$167,893,000",,$0,,"$167,893,000"
+,,,,,,,,,,,,,,,,
+,,,(Polioptila californica,,,,,,,,,,,,,
+,,,,californica),,,,,,,,,,,,
+,,42,,"Kite, Everglade snail",,E,,$0,,"$1,000,000",,"$1,000,000",,$0,,"$1,000,000"
+,,,,,,,,,,,,,,,,
+,,,(Rostrhamus sociabilis,,,,,,,,,,,,,
+,,,,plumbeus) - FL pop.,,,,,,,,,,,,
+,,85,,"Moorhen, Hawaiian common",,E,,"$162,213",,$0,,"$162,213",,$0,,"$162,213"
+,,,,,,,,,,,,,,,,
+,,,(Gallinula chloropus,,,,,,,,,,,,,
+,,,,sandvicensis),,,,,,,,,,,,
+,,58,,"Murrelet, marbled",,T,,"$550,833",,$0,,"$550,833",,$0,,"$550,833"
+,,,,,,,,,,,,,,,,
+,,,(Brachyramphus marmoratus) -,,,,,,,,,,,,,
+,,,,"CA, OR, WA",,,,,,,,,,,,
+,,20,,"Owl, northern spotted (Strix",,T,,$0,,"$3,678,200",,"$3,678,200",,$0,,"$3,678,200"
+,,,,,,,,,,,,,,,,
+,,occidentalis caurina),,,,,,,,,,,,,,
+,,98,,"Plover, piping (Charadrius",,E,,"$72,250",,"$3,800",,"$76,050",,$0,,"$76,050"
+,,,,,,,,,,,,,,,,
+,,,melodus) - Great Lakes,,,,,,,,,,,,,
+,,,,watershed,,,,,,,,,,,,
+,,9,,"Plover, piping (Charadrius",,T,,"$5,136,643",,"$3,417,000",,"$8,553,643",,$0,,"$8,553,643"
+,,,,,,,,,,,,,,,,
+,,,melodus) - except Great Lakes,,,,,,,,,,,,,
+,,,,watershed,,,,,,,,,,,,
+,,58,,"Plover, western snowy",,T,,"$550,833",,$0,,"$550,833",,$0,,"$550,833"
+,,,,,,,,,,,,,,,,
+,,,(Charadrius alexandrinus,,,,,,,,,,,,,
+,,,,nivosus) - Pacific coast pop.,,,,,,,,,,,,
+,,106,,"Rail, California clapper (Rallus",,E,,$0,,"$30,000",,"$30,000",,$0,,"$30,000"
+,,,,,,,,,,,,,,,,
+,,,longirostris obsoletus),,,,,,,,,,,,,
+,,114,,"Rail, Yuma clapper (Rallus",,E,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,longirostris yumanensis) -,,,,,,,,,,,,,
+,,,,U.S.A. only,,,,,,,,,,,,
+,,102,,"Scrub-jay, Florida (Aphelocoma",,T,,"$49,892",,$0,,"$49,892",,$0,,"$49,892"
+,,,,,,,,,,,,,,,,
+,,,coerulescens),,,,,,,,,,,,,
+,,32,,"Sparrow, Florida grasshopper",,E,,$0,,"$2,000,000",,"$2,000,000",,$0,,"$2,000,000"
+,,,,,,,,,,,,,,,,
+,,,(Ammodramus savannarum,,,,,,,,,,,,,
+,,,,floridanus),,,,,,,,,,,,
+,,85,,"Stilt, Hawaiian (Himantopus",,E,,"$162,213",,$0,,"$162,213",,$0,,"$162,213"
+,,,,,,,,,,,,,,,,
+,,,mexicanus knudseni),,,,,,,,,,,,,
+,,2,,"Stork, wood (Mycteria",,E,,"$394,766",,"$17,830,000",,"$18,224,766",,$0,,"$18,224,766"
+,,,,,,,,,,,,,,,,
+,,,"americana) - AL, FL, GA, MS,",,,,,,,,,,,,,
+,,,,"NC, SC",,,,,,,,,,,,
+,,21,,"Tern, least (Sterna antillarum) -",,E,,$0,,"$3,468,000",,"$3,468,000",,$0,,"$3,468,000"
+,,,,,,,,,,,,,,,,
+,,,interior pop.,,,,,,,,,,,,,
+,,108,,"Tern, roseate (Sterna dougallii",,E,,"$26,000",,$0,,"$26,000",,$0,,"$26,000"
+,,,,,,,,,,,,,,,,
+,,,dougallii) - northeast U.S.,,,,,,,,,,,,,
+,,,,nesting pop.,,,,,,,,,,,,
+,,53,,"Vireo, black-capped (Vireo",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,atricapilla),,,,,,,,,,,,,
+,,55,,"Vireo, least Bell's (Vireo bellii",,E,,"$591,924",,$0,,"$591,924",,$0,,"$591,924"
+,,,,,,,,,,,,,,,,
+,,,pusillus),,,,,,,,,,,,,
+,,100,,"Warbler, Kirtland's (Setophaga",,E,,"$72,250",,$0,,"$72,250",,$0,,"$72,250"
+,,,,,,,,,,,,,,,,
+,,kirtlandii (= Dendroica,,,,,,,,,,,,,,
+,kirtlandii)),,,,,,,,,,,,,,,
+,,53,,"Warbler (=wood), golden-",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,cheeked (Dendroica,,,,,,,,,,,,,
+,,,,chrysoparia),,,,,,,,,,,,
+,,71,,"Woodpecker, ivory-billed",,E,,"$431,286",,$0,,"$431,286",,$0,,"$431,286"
+,,,,,,,,,,,,,,,,
+,,,(Campephilus principalis),,,,,,,,,,,,,
+,,26,,"Woodpecker, red-cockaded",,E,,"$2,563,762",,$0,,"$2,563,762",,"$42,000",,"$2,605,762"
+,,,,,,,,,,,,,,,,
+,,,(Picoides borealis),,,,,,,,,,,,,
+Birds subtotal,,,,,,,,"$15,027,079",,"$221,719,000",,"$236,746,079",,"$1,322,139",,"$238,068,218"
+,,,,,,,,,,,,,,,,
+Reptiles,,75,,"Alligator, American (Alligator",,SAT,,$0,,"$325,000",,"$325,000",,$0,,"$325,000"
+,,,mississippiensis),,,,,,,,,,,,,
+,,52,,"Lizard, blunt-nosed leopard",,E,,"$90,625",,"$523,833",,"$614,458",,$0,,"$614,458"
+,,,,,,,,,,,,,,,,
+,,,(Gambelia silus),,,,,,,,,,,,,
+,,66,,Plymouth Red-Bellied Turtle,,E,,$0,,$0,,$0,,"$500,000",,"$500,000"
+,,,,,,,,,,,,,,,,
+,,,(Pseudemys rubriventris bangsi),,,,,,,,,,,,,
+,,89,,"Sea turtle, green (Chelonia",,E,,"$144,167",,$0,,"$144,167",,$0,,"$144,167"
+,,,,,,,,,,,,,,,,
+,,,"mydas) - FL, Mexico nesting",,,,,,,,,,,,,
+,,,,pops.,,,,,,,,,,,,
+,,115,,"Sea turtle, green (Chelonia",,T,,"$9,857",,$0,,"$9,857",,$0,,"$9,857"
+,,,,,,,,,,,,,,,,
+,,,mydas) - Except where,,,,,,,,,,,,,
+,,,,endangered,,,,,,,,,,,,
+,,45,,"Sea turtle, Kemp's ridley",,E,,"$913,692",,$0,,"$913,692",,$0,,"$913,692"
+,,,,,,,,,,,,,,,,
+,,,(Lepidochelys kempii),,,,,,,,,,,,,
+,,89,,"Sea turtle, leatherback",,E,,"$144,167",,$0,,"$144,167",,$0,,"$144,167"
+,,,,,,,,,,,,,,,,
+,,,(Dermochelys coriacea),,,,,,,,,,,,,
+,,44,,"Sea turtle, loggerhead (Caretta",,T,,"$923,549",,$0,,"$923,549",,$0,,"$923,549"
+,,,,,,,,,,,,,,,,
+,,,caretta) - Northwest Atlantic,,,,,,,,,,,,,
+,,,,Ocean DPS,,,,,,,,,,,,
+,,118,,"Skink, bluetail mole (Eumeces",,T,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,egregius lividus),,,,,,,,,,,,,
+,,118,,"Skink, sand (Neoseps reynoldsi)",,T,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,96,,"Snake, copperbelly water",,T,,$0,,"$84,700",,"$84,700",,$0,,"$84,700"
+,,,,,,,,,,,,,,,,
+,,,(Nerodia erythrogaster,,,,,,,,,,,,,
+,,,,"neglecta) - IN, MI, OH",,,,,,,,,,,,
+,,5,,"Snake, eastern indigo",,T,,"$49,892",,"$12,620,000",,"$12,669,892",,$0,,"$12,669,892"
+,,,,,,,,,,,,,,,,
+,,(Drymarchon corais couperi),,,,,,,,,,,,,,
+,,41,,"Snake, giant garter (Thamnophis",,T,,"$202,489",,"$1,024,300",,"$1,226,789",,$0,,"$1,226,789"
+,,,,,,,,,,,,,,,,
+,,,gigas),,,,,,,,,,,,,
+,,11,,"Tortoise, desert (Gopherus",,SAT,,$0,,"$7,000,000",,"$7,000,000",,$0,,"$7,000,000"
+,,,,,,,,,,,,,,,,
+,,,agassizii) - outside/taken from,,,,,,,,,,,,,
+,,,,Sonoran Desert,,,,,,,,,,,,
+,,101,,"Tortoise, gopher (Gopherus",,T,,"$63,325",,$0,,"$63,325",,$0,,"$63,325"
+,,,,,,,,,,,,,,,,
+,,,polyphemus) - W of,,,,,,,,,,,,,
+,,,,Mobile/Tombigbee Rs.,,,,,,,,,,,,
+,,16,,"Turtle, bog (=Muhlenberg)",,T,,"$647,500",,"$4,303,853",,"$4,951,353",,$0,,"$4,951,353"
+,,,,,,,,,,,,,,,,
+,,,(Clemmys muhlenbergii) -,,,,,,,,,,,,,
+,,,,northern,,,,,,,,,,,,
+,,101,,"Turtle, ringed map (Graptemys",,T,,"$63,325",,$0,,"$63,325",,$0,,"$63,325"
+,,,,,,,,,,,,,,,,
+,,,oculifera),,,,,,,,,,,,,
+Reptiles,,,,,,,,"$3,253,972",,"$25,881,686",,"$29,135,658",,"$500,000",,"$29,635,658"
+,,,,,,,,,,,,,,,,
+subtotal,,,,,,,,,,,,,,,,
+Amphibians,,56,,"Frog, California red-legged",,T,,$0,,"$577,420",,"$577,420",,$0,,"$577,420"
+,,,(Rana draytonii),,,,,,,,,,,,,
+,,99,,"Salamander, California tiger",,E,,$0,,"$72,560",,"$72,560",,$0,,"$72,560"
+,,,,,,,,,,,,,,,,
+,,,(Ambystoma californiense) - CA,,,,,,,,,,,,,
+,,,,- Santa Barbara Co.,,,,,,,,,,,,
+,,105,,"Salamander, California tiger",,E,,$0,,"$42,560",,"$42,560",,$0,,"$42,560"
+,,,,,,,,,,,,,,,,
+,,,(Ambystoma californiense) - CA,,,,,,,,,,,,,
+,,,,- Sonoma County,,,,,,,,,,,,
+,,38,,"Salamander, California tiger",,T,,"$202,489",,"$1,208,860",,"$1,411,349",,$0,,"$1,411,349"
+,,,,,,,,,,,,,,,,
+,,,(Ambystoma californiense) -,,,,,,,,,,,,,
+,,,,Central CA DPS,,,,,,,,,,,,
+,,87,,"Salamander, frosted flatwoods",,T,,"$154,024",,$0,,"$154,024",,$0,,"$154,024"
+,,,,,,,,,,,,,,,,
+,,,(Ambystoma cingulatum),,,,,,,,,,,,,
+,,53,,"Salamander, San Marcos",,T,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,(Eurycea nana),,,,,,,,,,,,,
+,,53,,"Salamander, Texas blind",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,(Typhlomolge rathbuni),,,,,,,,,,,,,
+,,48,,"Toad, arroyo (=arroyo",,E,,"$18,000",,"$875,000",,"$893,000",,$0,,"$893,000"
+,,,,,,,,,,,,,,,,
+,,southwestern) (Anaxyrus,,,,,,,,,,,,,,
+,californicus),,,,,,,,,,,,,,,
+Amphibians,,,,,,,,"$374,513",,"$2,776,400",,"$3,150,913",,"$1,227,084",,"$4,377,997"
+,,,,,,,,,,,,,,,,
+subtotal,,,,,,,,,,,,,,,,
+Fishes,,23,,"Chub, Oregon (Oregonichthys",,T,,$0,,"$3,291,726",,"$3,291,726",,$0,,"$3,291,726"
+,,,crameri),,,,,,,,,,,,,
+,,114,,"Dace, Ash Meadows speckled",,E,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,(Rhinichthys osculus,,,,,,,,,,,,,
+,,,,nevadensis),,,,,,,,,,,,
+,,53,,"Darter, fountain (Etheostoma",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,fonticola),,,,,,,,,,,,,
+,,58,,"Eulachon, Pacific (Thaleichthys",,T,,"$550,833",,$0,,"$550,833",,$0,,"$550,833"
+,,,,,,,,,,,,,,,,
+,,,pacificus) - Southern DPS,,,,,,,,,,,,,
+,,95,,"Gambusia, Pecos (Gambusia",,E,,$0,,"$100,000",,"$100,000",,$0,,"$100,000"
+,,,,,,,,,,,,,,,,
+,,,nobilis),,,,,,,,,,,,,
+,,53,,"Gambusia, San Marcos",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,(Gambusia georgei),,,,,,,,,,,,,
+,,79,,"Madtom, Neosho (Noturus",,T,,"$243,250",,$0,,"$243,250",,$0,,"$243,250"
+,,,,,,,,,,,,,,,,
+,,,placidus),,,,,,,,,,,,,
+,,13,,"Minnow, Rio Grande silvery",,E,,$0,,"$5,400,000",,"$5,400,000",,$0,,"$5,400,000"
+,,,,,,,,,,,,,,,,
+,,,(Hybognathus amarus) - except,,,,,,,,,,,,,
+,,,,EXPN,,,,,,,,,,,,
+,,34,,"Pikeminnow (=squawfish),",,E,,$0,,"$1,800,000",,"$1,800,000",,$0,,"$1,800,000"
+,,,,,,,,,,,,,,,,
+,,,Colorado (Ptychocheilus lucius),,,,,,,,,,,,,
+,,,,- except Salt and Verde R.,,,,,,,,,,,,
+,,,,"drainages, AZ",,,,,,,,,,,,
+,,114,,"Pupfish, Ash Meadows",,E,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,Amargosa (Cyprinodon,,,,,,,,,,,,,
+,,,,nevadensis mionectes),,,,,,,,,,,,
+,,112,,"Pupfish, Comanche Springs",,E,,$0,,"$20,000",,"$20,000",,$0,,"$20,000"
+,,,,,,,,,,,,,,,,
+,,,(Cyprinodon elegans),,,,,,,,,,,,,
+,,114,,"Pupfish, Devils Hole",,E,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,(Cyprinodon diabolis),,,,,,,,,,,,,
+,,114,,"Pupfish, Warm Springs",,E,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,(Cyprinodon nevadensis,,,,,,,,,,,,,
+,,,,pectoralis),,,,,,,,,,,,
+,,108,,"Salmon, Atlantic (Salmo salar) -",,E,,"$26,000",,$0,,"$26,000",,$0,,"$26,000"
+,,,,,,,,,,,,,,,,
+,,Gulf of Maine DPS,,,,,,,,,,,,,,
+,,80,,"Salmon, chinook (Oncorhynchus",,T,,$0,,"$238,000",,"$238,000",,$0,,"$238,000"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) tshawytscha) - Snake,,,,,,,,,,,,,
+,,,,River fall-run ESU,,,,,,,,,,,,
+,,64,,"Salmon, chinook (Oncorhynchus",,T,,$0,,"$514,357",,"$514,357",,$0,,"$514,357"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) tshawytscha) - Snake,,,,,,,,,,,,,
+,,,,River spring/summer-run ESU,,,,,,,,,,,,
+,,46,,"Salmon, chinook (Oncorhynchus",,E,,"$573,924",,"$333,000",,"$906,924",,$0,,"$906,924"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) tshawytscha) -,,,,,,,,,,,,,
+,,,,Sacramento River winter-run,,,,,,,,,,,,
+,,,,ESU,,,,,,,,,,,,
+,,30,,"Salmon, chinook (Oncorhynchus",,T,,$0,,"$2,313,479",,"$2,313,479",,$0,,"$2,313,479"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) tshawytscha) - Lower,,,,,,,,,,,,,
+,,,,Columbia River ESU,,,,,,,,,,,,
+,,15,,"Salmon, chinook (Oncorhynchus",,T,,$0,,"$4,979,838",,"$4,979,838",,$0,,"$4,979,838"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) tshawytscha) - Upper,,,,,,,,,,,,,
+,,,,Willamette River ESU,,,,,,,,,,,,
+,,35,,"Salmon, chinook (Oncorhynchus",,E,,$0,,"$1,744,803",,"$1,744,803",,$0,,"$1,744,803"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) tshawytscha) - Upper,,,,,,,,,,,,,
+,,,,Columbia spring-run ESU,,,,,,,,,,,,
+,,92,,"Salmon, chinook (Oncorhynchus",,T,,$0,,"$136,000",,"$136,000",,$0,,"$136,000"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) tshawytscha) - Central,,,,,,,,,,,,,
+,,,,Valley spring-run ESU,,,,,,,,,,,,
+,,36,,"Salmon, coho (Oncorhynchus",,T,,$0,,"$1,739,000",,"$1,739,000",,$0,,"$1,739,000"
+,,,,,,,,,,,,,,,,

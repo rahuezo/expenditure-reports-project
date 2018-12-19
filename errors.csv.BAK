@@ -1,0 +1,40 @@
+File,Error
+E:/expenditure-reports-project/resources/pdfs/2016_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2015_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2014_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2013_tb3.pdf,'ascii' codec can't encode character u'\u2013' in position 18: ordinal not in range(128)
+E:/expenditure-reports-project/resources/pdfs/2013_tb2.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2012_tb3.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2012_tb2.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2011_tb3.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2011_tb2.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2010_tb3.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2010_tb2.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2009_tb3.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2009_tb2.pdf,'int' object has no attribute 'is_integer'
+E:/expenditure-reports-project/resources/pdfs/2008_tb3.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2008_tb2.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2007_tb3.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2007_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2006_tb3.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2006_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2005_tb3.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2005_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2004_tb3.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2004_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2003_tb3.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2003_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2002_tb3.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2002_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2001_tb3.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2001_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2000_tb3.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/2000_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/1999_tb3.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/1999_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/1998_tb3.pdf,argument of type 'float' is not iterable
+E:/expenditure-reports-project/resources/pdfs/1998_tb2.pdf,argument of type 'long' is not iterable
+E:/expenditure-reports-project/resources/pdfs/1997_tb3.pdf,'int' object has no attribute 'is_integer'
+E:/expenditure-reports-project/resources/pdfs/1997_tb2.pdf,'int' object has no attribute 'is_integer'
+E:/expenditure-reports-project/resources/pdfs/1996_tb3.pdf,'int' object has no attribute 'is_integer'
+E:/expenditure-reports-project/resources/pdfs/1996_tb2.pdf,'int' object has no attribute 'is_integer'

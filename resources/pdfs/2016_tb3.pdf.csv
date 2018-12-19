@@ -1,21 +1,3 @@
-Group Name,Rank,Species (50 CFR Part 17),Status,FWS Total,Other Fed,Federal Total,States Total,Species Total
-Mammals,100,"Bat, gray (Myotis grisescens) -Wherever found",E,$0,$0,$0,"$10,000","$10,000"
-,38,"Bat, Indiana (Myotis sodalis) -Wherever found",E,"$336,756","$216,748","$553,504","$10,000","$563,504"
-,1,"Bat, Northern long-eared (Myotisseptentrionalis) - Wherever found",T,$0,"$10,003,000","$10,003,000","$10,000","$10,013,000"
-,39,"Bear, Louisiana black (Ursusamericanus luteolus) - Whereverfound",T,"$551,343",$0,"$551,343",$0,"$551,343"
-,94,"Bear, polar (Ursus maritimus) -Wherever found",T,"$21,333",$0,"$21,333",$0,"$21,333"
-,40,"Fox, San Joaquin kit (Vulpesmacrotis mutica) - wherever found",E,"$188,103","$360,500","$548,603",$0,"$548,603"
-,71,"Jaguarundi, Gulf Coast (Herpailurus(=Felis) yagouaroundi cacomitli) -Wherever found",E,"$125,000",$0,"$125,000",$0,"$125,000"
-,40,"Kangaroo rat, Tipton (Dipodomysnitratoides nitratoides) - Whereverfound",E,"$188,103","$360,500","$548,603",$0,"$548,603"
-,32,"Lynx, Canada (Lynx canadensis) -Contiguous U.S. DPS",T,"$140,544","$722,716","$863,260",$0,"$863,260"
-,82,"Manatee, West Indian (Trichechusmanatus) - Wherever found",E,"$48,571",$0,"$48,571",$0,"$48,571"
-,71,"Ocelot (Leopardus (=Felis) pardalis)- wherever found",E,"$125,000",$0,"$125,000",$0,"$125,000"
-,106,"Otter, Northern Sea (Enhydra lutriskenyoni) - Southwest Alaska DPS",T,"$5,333",$0,"$5,333",$0,"$5,333"
-,46,"Otter, southern sea (Enhydra lutrisnereis) - Wherever found",T,$0,"$375,000","$375,000",$0,"$375,000"
-,17,"Panther, Florida (Puma (=Felis)concolor coryi) - Wherever found",E,"$12,000","$1,650,000","$1,662,000",$0,"$1,662,000"
-,103,"Sea lion, Steller (Eumetopiasjubatus) - Western DPS",E,"$5,333","$2,000","$7,333",$0,"$7,333"
-,16,"Squirrel, Delmarva Peninsula fox(Sciurus niger cinereus) - Whereverfound, except where listed as anexperimental population",E,"$1,948,000",$0,"$1,948,000",$0,"$1,948,000"
-,112,"Whale, beluga (Delphinapterusleucas) - Cook Inlet DPS",E,$0,"$1,500","$1,500",$0,"$1,500"
 Mammals,100,"Bat, gray (Myotis grisescens) -Wherever found",E,$0,$0,$0,"$10,000","$10,000"
 ,38,"Bat, Indiana (Myotis sodalis) -Wherever found",E,"$336,756","$216,748","$553,504","$10,000","$563,504"
 ,1,"Bat, Northern long-eared (Myotisseptentrionalis) - Wherever found",T,$0,"$10,003,000","$10,003,000","$10,000","$10,013,000"
@@ -43,7 +25,7 @@ Mammals,100,"Bat, gray (Myotis grisescens) -Wherever found",E,$0,$0,$0,"$10,000
 ,106.0,"Whale, sperm (Physeter catodon(=macrocephalus)) - Whereverfound",E,"$5,333",$0,"$5,333",$0,"$5,333"
 ,55.0,"Wolf, gray (Canis lupus) - U.S.A.:All of AL, AR, CA, CO, CT, DE, FL,GA, IA, IN, IL, KS, KY, LA, MA, MD,ME, MI, MO, MS, NC, ND, NE, NH,NJ, NV, NY, OH, OK, PA, RI, SC,SD, TN, TX, VA, VT, WI, and WV;and portions of AZ, NM, OR, UT,and WA. Mexico.",E,$0,$0,$0,"$244,000","$244,000"
 ,82.0,"Wolf, red (Canis rufus) - Whereverfound, except where listed as anexperimental population",E,"$48,571",$0,"$48,571",$0,"$48,571"
-"Mammalssubtotal",,,,"$3,802,654","$13,693,464","$17,496,118","$274,000","$17,770,118"
+Mammals subtotal,,,,"$3,802,654","$13,693,464","$17,496,118","$274,000","$17,770,118"
 Birds,106.0,"Albatross, short-tailed (Phoebastria(=Diomedea) albatrus) - Whereverfound",E,"$5,333",$0,"$5,333",$0,"$5,333"
 ,95.0,"Bobwhite, masked (quail) (Colinusvirginianus ridgwayi) - Whereverfound",E,"$20,375",$0,"$20,375",$0,"$20,375"
 ,23.0,"Caracara, Audubon's crested(Polyborus plancus audubonii) - FLpop.",T,"$12,370","$1,200,000","$1,212,370",$0,"$1,212,370"
@@ -78,12 +60,12 @@ Reptiles,40.0,"Lizard, blunt-nosed leopard(Gambelia silus) - Wherever found",E,
 ,2.0,"Tortoise, desert (Gopherusagassizii) - Wherever found, exceptAZ south and east of Colorado R.,and Mexico",T,$0,"$8,500,000","$8,500,000",$0,"$8,500,000"
 ,91.0,"Tortoise, gopher (Gopheruspolyphemus) - West of Mobile andTombigbee Rivers",T,"$27,273",$0,"$27,273",$0,"$27,273"
 ,9.0,"Turtle, bog (Clemmys muhlenbergii)- Wherever found, except GA, NC,SC, TN, VA",T,"$180,000","$2,396,808","$2,576,808",$0,"$2,576,808"
-"Reptilessubtotal",,,,"$2,698,917","$11,845,610","$14,544,527","$2,000,000","$16,544,527"
+Reptiles subtotal,,,,"$2,698,917","$11,845,610","$14,544,527","$2,000,000","$16,544,527"
 Amphibians,95.0,"Frog, Chiricahua leopard (Ranachiricahuensis) - Wherever found",T,"$20,375",$0,"$20,375",$0,"$20,375"
 ,99.0,"Salamander, California tiger(Ambystoma californiense) - U.S.A.(CA - Santa Barbara County)",E,$0,"$12,000","$12,000",$0,"$12,000"
 ,81.0,"Salamander, California tiger(Ambystoma californiense) - U.S.A.(Central CA DPS)",T,"$53,571",$0,"$53,571",$0,"$53,571"
 ,20.0,"Salamander, Salado (Euryceachisholmensis) - Wherever found",T,$0,$0,$0,"$1,519,892","$1,519,892"
-"Amphibianssubtotal",,,,"$73,946","$12,000","$85,946","$1,519,892","$1,605,838"
+Amphibians subtotal,,,,"$73,946","$12,000","$85,946","$1,519,892","$1,605,838"
 Fishes,15.0,"Chub, bonytail (Gila elegans) -Wherever found",E,$0,"$2,075,000","$2,075,000",$0,"$2,075,000"
 ,26.0,"Cui-ui (Chasmistes cujus) -Wherever found",E,"$1,157,875",$0,"$1,157,875",$0,"$1,157,875"
 ,97,"Dace, blackside (Phoxinuscumberlandensis) - Wherever found",T,$0,"$15,000","$15,000",$0,"$15,000"
@@ -119,7 +101,7 @@ Fishes,15.0,"Chub, bonytail (Gila elegans) -Wherever found",E,$0,"$2,075,000","
 ,14.0,"Trout, bull (Salvelinus confluentus) -U.S.A., conterminous, lower 48states",T,$0,"$2,160,964","$2,160,964",$0,"$2,160,964"
 ,26.0,"Trout, Lahontan cutthroat(Oncorhynchus clarkii henshawi) -Wherever found",T,"$1,157,875",$0,"$1,157,875",$0,"$1,157,875"
 ,93.0,"Woundfin (Plagopterusargentissimus) - Wherever found,except where listed as anexperimental population",E,$0,"$25,000","$25,000",$0,"$25,000"
-"Fishessubtotal",,,,"$4,041,217","$17,952,043","$21,993,260","$6,790,797","$28,784,057"
+Fishes subtotal,,,,"$4,041,217","$17,952,043","$21,993,260","$6,790,797","$28,784,057"
 Clams,57.0,"Bean, rayed (Villosa fabalis) -Wherever found",E,$0,"$229,000","$229,000",$0,"$229,000"
 ,86.0,"Higgins eye (pearlymussel)(Lampsilis higginsii) - Whereverfound",E,"$32,567",$0,"$32,567",$0,"$32,567"
 ,96.0,"Mucket, Neosho (Lampsilisrafinesqueana) - Wherever found",E,$0,"$18,200","$18,200",$0,"$18,200"
@@ -131,9 +113,9 @@ Clams,57.0,"Bean, rayed (Villosa fabalis) -Wherever found",E,$0,"$229,000","$22
 ,80.0,"Rabbitsfoot (Quadrula cylindricacylindrica) - Wherever found",T,$0,"$56,800","$56,800",$0,"$56,800"
 ,92.0,"Spectaclecase (mussel)(Cumberlandia monodonta) -Wherever found",E,"$25,067",$0,"$25,067",$0,"$25,067"
 ,70.0,"Wedgemussel, dwarf (Alasmidontaheterodon) - Wherever found",E,"$140,544",$0,"$140,544",$0,"$140,544"
-"Clamssubtotal",,,,"$2,029,645","$517,124","$2,546,769",$0,"$2,546,769"
+Clams subtotal,,,,"$2,029,645","$517,124","$2,546,769",$0,"$2,546,769"
 Snails,54.0,"Lioplax, cylindrical (snail) (Lioplaxcyclostomaformis) - Wherever found",E,$0,"$244,500","$244,500",$0,"$244,500"
-"Snailssubtotal",,,,$0,"$244,500","$244,500",$0,"$244,500"
+Snails subtotal,,,,$0,"$244,500","$244,500",$0,"$244,500"
 Insects,69.0,"Beetle, American burying(Nicrophorus americanus) - Ex Pop,SW Missouri",EXPN,$0,"$145,167","$145,167",$0,"$145,167"
 ,101.0,"Beetle, valley elderberry longhorn(Desmocerus californicusdimorphus) - Wherever found",T,"$7,800",$0,"$7,800",$0,"$7,800"
 ,47.0,"Butterfly, bay checkerspot(Euphydryas editha bayensis) -Wherever found",T,$0,"$342,716","$342,716",$0,"$342,716"
@@ -142,14 +124,14 @@ Insects,69.0,"Beetle, American burying(Nicrophorus americanus) - Ex Pop,SW Mis
 ,73.0,"Butterfly, Quino checkerspot(Euphydryas editha quino (=E. e.wrighti)) - Wherever found",E,"$102,308",$0,"$102,308",$0,"$102,308"
 ,70.0,"Tiger beetle, Puritan (Cicindelapuritana) - Wherever found",T,"$140,544",$0,"$140,544",$0,"$140,544"
 ,63.0,"Tiger beetle, Salt Creek (Cicindelanevadica lincolniana) - Whereverfound",E,$0,$0,$0,"$175,000","$175,000"
-"Insectssubtotal",,,,"$250,652","$737,883","$988,535","$182,500","$1,171,035"
+Insects subtotal,,,,"$250,652","$737,883","$988,535","$182,500","$1,171,035"
 Crustaceans,81.0,"Fairy shrimp, Conservancy(Branchinecta conservatio) -Wherever found",E,"$53,571",$0,"$53,571",$0,"$53,571"
 ,81.0,"Fairy shrimp, longhorn(Branchinecta longiantenna) -Wherever found",E,"$53,571",$0,"$53,571",$0,"$53,571"
 ,73.0,"Fairy shrimp, San Diego(Branchinecta sandiegonensis) -Wherever found",E,"$102,308",$0,"$102,308",$0,"$102,308"
 ,56.0,"Fairy shrimp, vernal pool(Branchinecta lynchi) - Whereverfound",T,"$241,674",$0,"$241,674",$0,"$241,674"
 ,81.0,"Tadpole shrimp, vernal pool(Lepidurus packardi) - Whereverfound",E,"$53,571",$0,"$53,571",$0,"$53,571"
-"Crustaceanssubtotal",,,,"$504,695",$0,"$504,695",$0,"$504,695"
-"FloweringPlants",89.0,"Amaranth, seabeach (Amaranthuspumilus) - Wherever found",T,$0,"$30,000","$30,000",$0,"$30,000"
+Crustaceans subtotal,,,,"$504,695",$0,"$504,695",$0,"$504,695"
+Flowering Plants,89.0,"Amaranth, seabeach (Amaranthuspumilus) - Wherever found",T,$0,"$30,000","$30,000",$0,"$30,000"
 ,73.0,"Ambrosia, San Diego (Ambrosiapumila) - Wherever found",E,"$102,308",$0,"$102,308",$0,"$102,308"
 ,100.0,"Arrowhead, bunched (Sagittariafasciculata) - Wherever found",E,$0,"$10,000","$10,000",$0,"$10,000"
 ,66.0,"Aster, decurrent false (Boltoniadecurrens) - Wherever found",T,"$156,000",$0,"$156,000",$0,"$156,000"
@@ -207,12 +189,12 @@ Crustaceans,81.0,"Fairy shrimp, Conservancy(Branchinecta conservatio) -Whereve
 ,113.0,"Whitlow-wort, papery (Paronychiachartacea) - Wherever found",T,$370,$0,$370,$0,$370
 ,113.0,"Wireweed (Polygonella basiramia) -Wherever found",E,$370,$0,$370,$0,$370
 ,113.0,"Ziziphus, Florida (Ziziphus celata) -Wherever found",E,$370,$0,$370,$0,$370
-"FloweringPlantssubtotal",,,,"$3,405,308","$8,745,242","$12,150,550","$406,887","$12,557,437"
-"Ferns andAllies",106.0,"Fern, Aleutian shield (Polystichumaleuticum) - Wherever found",E,"$5,333",$0,"$5,333",$0,"$5,333"
-"Ferns andAllies subtotal",,,,"$5,333",$0,"$5,333",$0,"$5,333"
+Flowering Plants subtotal,,,,"$3,405,308","$8,745,242","$12,150,550","$406,887","$12,557,437"
+Ferns and Allies,106.0,"Fern, Aleutian shield (Polystichumaleuticum) - Wherever found",E,"$5,333",$0,"$5,333",$0,"$5,333"
+Ferns and Allies subtotal,,,,"$5,333",$0,"$5,333",$0,"$5,333"
 Lichens,113.0,"Cladonia, Florida perforate(Cladonia perforata) - Whereverfound",E,$370,$0,$370,$0,$370
-"Lichenssubtotal",,,,$370,$0,$370,$0,$370
+Lichens subtotal,,,,$370,$0,$370,$0,$370
 Multi-species,,,,$0,"$308,500","$308,500","$1,079,600","$1,388,100"
 ,,,,"$27,277,490","$63,167,646","$90,445,136","$12,708,467","$103,153,603"
-"Multi-speciessubtotal",,,,$0,"$308,500","$308,500","$1,079,600","$1,388,100"
-"Total LandExpenditures",,,,"$27,277,490","$63,167,646","$90,445,136","$12,708,467","$103,153,603"
+Multi-species subtotal,,,,$0,"$308,500","$308,500","$1,079,600","$1,388,100"
+Total Land Expenditures,,,,"$27,277,490","$63,167,646","$90,445,136","$12,708,467","$103,153,603"
