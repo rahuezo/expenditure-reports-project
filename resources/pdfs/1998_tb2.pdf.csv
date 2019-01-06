@@ -1,0 +1,1167 @@
+RANK,SPECIES NAME (50 CFR PART 17),SCIENTIFIC NAME,STATUS,"SPECIESTOTAL ($000)","CUMULATIVETOTAL","CUMULATIVEPERCENT"
+1,"Salmon, coho",Oncorhynchus (=Salmo) kisutch,T,"34,944.97","$34,944.97",9.13%
+2,"Salmon, chinook, Snake R. spring/summer run",Oncorhynchus tshawytscha,T,"29,036.67","$63,981.64",16.72%
+3,"Salmon, chinook, Snake R. fall run",Oncorhynchus tshawytscha,T,"27,045.34","$91,026.98",23.79%
+4,"Salmon, sockeye (=red, =blueback), Snake R.",Oncorhynchus nerka,E,"24,720.00","$115,746.97",30.25%
+5,Steelhead (Snake R. Basin),Oncorhynchus (=Salmo) mykiss gilberti,T,"22,549.22","$138,296.19",36.14%
+6,Steelhead (lower Columbia R.),Oncorhynchus (=Salmo) mykiss gilberti,T,"19,738.99","$158,035.18",41.30%
+7,Steelhead (southern CA coast),Oncorhynchus (=Salmo) mykiss gilberti,E,"18,201.86","$176,237.04",46.06%
+8,"Woodpecker, red-cockaded",Picoides borealis,E,"11,262.99","$187,500.02",49.00%
+9,"Owl, northern spotted",Strix occidentalis caurina,T,"9,510.03","$197,010.06",51.49%
+10,"Flycatcher, southwestern willow",Empidonax traillii extimus,E,"7,260.46","$204,270.52",53.38%
+11,"Murrelet, marbled",Brachyramphus marmoratus marmoratus,T,"7,090.35","$211,360.86",55.24%
+12,"Sucker, razorback",Xyrauchen texanus,E,"6,382.81","$217,743.67",56.90%
+13,"Eagle, bald",Haliaeetus leucocephalus,T,"5,999.43","$223,743.11",58.47%
+14,"Trout, bull (Columbia R. pop.)",Salvelinus confluentus,T,"5,590.16","$229,333.27",59.93%
+15,"Bear, grizzly",Ursus arctos,T,"5,009.31","$234,342.58",61.24%
+16,"Tortoise, desert",Gopherus agassizii,T,"4,903.29","$239,245.87",62.52%
+17,"Panther, Florida",Felis concolor coryi,E,"4,803.42","$244,049.30",63.78%
+18,"Squawfish, Colorado",Ptychocheilus lucius,E,"4,678.14","$248,727.44",65.00%
+19,"Crane, whooping",Grus americana,E,"4,589.12","$253,316.56",66.20%
+20,"Wolf, gray",Canis lupus,"E, T","4,454.25","$257,770.81",67.36%
+21,"Rush-pea, slender",Hoffmannseggia tenella,E,"4,006.00","$261,776.81",68.41%
+22,"Sturgeon, white (Kootenai River pop.)",Acipenser transmontanus,E,"3,589.47","$265,366.28",69.35%
+23,"Sea-lion, Steller",Eumetopias jubatus,"E, T","3,079.18","$268,445.46",70.15%
+24,Cui-ui,Chasmistes cujus,E,"3,026.00","$271,471.46",70.94%
+25,"Owl, Mexican spotted",Strix occidentalis lucida,T,"2,955.85","$274,427.31",71.72%
+26,"Falcon, American peregrine",Falco peregrinus anatum,E,"2,759.09","$277,186.39",72.44%
+27,"Sucker, Lost River",Deltistes luxatus,E,"2,528.84","$279,715.23",73.10%
+28,"Sucker, shortnose",Chasmistes brevirostris,E,"2,524.71","$282,239.95",73.76%
+29,"Trout, Umpqua River cutthroat",Oncorhynchus clarki clarki,E,"2,429.52","$284,669.47",74.39%
+30,"Plover, piping",Charadrius melodus,"E, T","2,419.95","$287,089.42",75.03%
+31,Steelhead (upper Columbia R. Basin),Oncorhynchus (=Salmo) mykiss gilberti,E,"2,294.84","$289,384.26",75.63%
+32,"Vireo, least Bell's",Vireo bellii pusillus,E,"1,899.98","$291,284.24",76.12%
+33,"Bat, Indiana",Myotis sodalis,E,"1,854.12","$293,138.36",76.61%
+34,"Gnatcatcher, coastal California",Polioptila californica californica,T,"1,812.50","$294,950.86",77.08%
+35,"Ferret, black-footed",Mustela nigripes,E,"1,734.42","$296,685.28",77.53%
+36,"Salmon, chinook, Sacramento R. winter run",Oncorhynchus tshawytscha,T,"1,700.79","$298,386.08",77.98%
+37,"Turtle, loggerhead sea",Caretta caretta,T,"1,681.12","$300,067.20",78.42%
+38,"Shrike, San Clemente loggerhead",Lanius ludovicianus mearnsi,E,"1,657.34","$301,724.53",78.85%
+39,"Manatee, West Indian (=Florida)",Trichechus manatus,E,"1,564.68","$303,289.22",79.26%
+40,"Seal, Hawaiian monk",Monachus schauinslandi,E,"1,516.00","$304,805.22",79.66%
+41,"Whale, right",Balaena glacialis (incl. australis),E,"1,459.65","$306,264.87",80.04%
+42,"Chub, humpback",Gila cypha,E,"1,430.04","$307,694.91",80.41%
+43,"Turtle, green sea",Chelonia mydas,"E, T","1,361.92","$309,056.83",80.77%
+44,"Turtle, olive ridley sea",Lepidochelys olivacea,"E, T","1,286.20","$310,343.03",81.10%
+45,"Sucker, June",Chasmistes liorus,E,"1,242.00","$311,585.03",81.43%
+46,"Sturgeon, pallid",Scaphirhynchus albus,E,"1,180.32","$312,765.35",81.74%
+47,"Chub, bonytail",Gila elegans,E,"1,177.94","$313,943.29",82.04%
+48,"Mouse, Preble's meadow jumping",Zapus hudsonius preblei,T,"1,174.06","$315,117.35",82.35%
+49,"Parrot, Puerto Rican",Amazona vittata,E,"1,163.80","$316,281.15",82.65%
+50,"Vireo, black-capped",Vireo atricapillus,E,"1,127.90","$317,409.05",82.95%
+51,"Turtle, Kemp's ridley sea",Lepidochelys kempii,E,"1,113.40","$318,522.45",83.24%
+52,"Minnow, Rio Grande silvery",Hybognathus amarus,E,"1,103.00","$319,625.45",83.53%
+53,"Condor, California",Gymnogyps californianus,E,"1,058.00","$320,683.45",83.81%
+54,"Turtle, leatherback sea",Dermochelys coriacea,E,"1,056.21","$321,739.66",84.08%
+55,"Warbler, golden-cheeked",Dendroica chrysoparia,E,"1,033.50","$322,773.16",84.35%
+56,"Tern, California least",Sterna antillarum browni,E,982.04,"$323,755.19",84.61%
+57,"Topminnow, Gila (incl. Yaqui)",Poeciliopsis occidentalis,E,979.20,"$324,734.39",84.86%
+58,"Tern, least",Sterna antillarum,E,978.75,"$325,713.15",85.12%
+59,"Wolf, red",Canis rufus,E,978.50,"$326,691.65",85.38%
+60,"Turtle, hawksbill sea (=carey)",Eretmochelys imbricata,E,948.60,"$327,640.25",85.62%
+61,"Crane, Mississippi sandhill",Grus canadensis pulla,E,933.70,"$328,573.95",85.87%
+62,"Sparrow, Cape Sable seaside",Ammodramus maritimus mirabilis,E,873.90,"$329,447.85",86.10%
+63,"Toad, Arroyo southwestern",Bufo microscaphus californicus,E,872.90,"$330,320.75",86.32%
+64,"Bobwhite, masked (quail)",Colinus virginianus ridgwayi,E,811.60,"$331,132.35",86.54%
+65,"Fox, San Joaquin kit",Vulpes macrotis mutica,E,801.86,"$331,934.20",86.75%
+66,"Sturgeon, shortnose",Acipenser brevirostrum,E,791.64,"$332,725.84",86.95%
+67,"Gambusia, Pecos",Gambusia nobilis,E,775.50,"$333,501.34",87.15%
+68,"Pygmy-owl, cactus ferruginous",Glaucidium brasilianum cactorum,E,773.00,"$334,274.34",87.36%
+69,"Darter, Okaloosa",Etheostoma okaloosae,E,767.0,"$335,041.34",87.56%
+70,"Plover, western snowy",Charadrius alexandrinus nivosus,T,758.55,"$335,799.89",87.76%
+71,"Butterfly, Karner blue",Lycaeides melissa samuelis,E,711.76,"$336,511.65",87.94%
+72,Steelhead (Central Valley CA),Oncorhynchus (=Salmo) mykiss gilberti,T,659.92,"$337,171.57",88.11%
+73,"Pronghorn, Sonoran",Antilocapra americana sonoriensis,E,625.3,"$337,796.87",88.28%
+74,"Frog, California red-legged",Rana aurora draytonii,T,601.62,"$338,398.49",88.43%
+75,"Warbler, Kirtland's",Dendroica kirtlandii,E,591.52,"$338,990.01",88.59%
+76,"Trout, Lahontan cutthroat",Oncorhynchus clarki henshawi,T,587.94,"$339,577.95",88.74%
+77,"Stork, wood",Mycteria americana,E,566.1,"$340,144.05",88.89%
+78,"Bat, gray",Myotis grisescens,E,541.2,"$340,685.25",89.03%
+79,"Duck, Hawaiian (=koloa)",Anas wyvilliana,E,535.56,"$341,220.81",89.17%
+80,Steelhead (central CA coast),Oncorhynchus (=Salmo) mykiss gilberti,T,520.06,"$341,740.87",89.31%
+81,"Jay, Florida scrub",Aphelocoma coerulescens coerulescens,T,512.09,"$342,252.96",89.44%
+82,"Otter, southern sea",Enhydra lutris nereis,T,495.0,"$342,747.96",89.57%
+83,"Falcon, northern aplomado",Falco femoralis septentrionalis,E,494.9,"$343,242.86",89.70%
+84,Steelhead (south central CA coast),Oncorhynchus (=Salmo) mykiss gilberti,T,482.36,"$343,725.21",89.83%
+85,"Sunflower, Eggert's",Helianthus eggertii,T,452.7,"$344,177.91",89.94%
+86,"Snake, giant garter",Thamnophis gigas,T,450.38,"$344,628.29",90.06%
+87,"Bear, Louisiana black",Ursus americanus luteolus,T,446.67,"$345,074.96",90.18%
+88,"Shiner, Pecos bluntnose",Notropis simus pecosensis,T,425.0,"$345,499.96",90.29%
+89,"Tortoise, gopher",Gopherus polyphemus,T,422.49,"$345,922.45",90.40%
+90,"Sturgeon, Gulf",Acipenser oxyrhynchus desotoi,T,412.86,"$346,335.31",90.51%
+91,"Chub, Virgin River",Gila robusta semidnuda,E,404.75,"$346,740.06",90.61%
+92,Woundfin,Plagopterus argentissimus,E,395.95,"$347,136.01",90.72%
+93,"Fairy shrimp, vernal pool",Branchinecta lynchi,T,390.98,"$347,526.98",90.82%
+94,"Butterfly, Mitchell's satyr",Neonympha mitchellii mitchellii,E,381.5,"$347,908.48",90.92%
+95,"Whale, humpback",Megaptera novaeangliae,E,361.02,"$348,269.50",91.01%
+96,"Ladies'-tresses, Ute",Spiranthes diluvialis,T,353.58,"$348,623.08",91.11%
+97,"Rail, California clapper",Rallus longirostris obsoletus,E,350.85,"$348,973.93",91.20%
+98,"Caribou, woodland",Rangifer tarandus caribou,E,350.23,"$349,324.16",91.29%
+99,"Eider, spectacled",Somateria fischeri,T,346.45,"$349,670.61",91.38%
+100,"Prairie dog, Utah",Cynomys parvidens,T,326.27,"$349,996.87",91.47%
+101,"Prairie-chicken, Attwater's greater",Tympanuchus cupido attwateri,E,319.29,"$350,316.17",91.55%
+102,"Trout, greenback cutthroat",Oncorhynchus clarki stomias,T,309.17,"$350,625.33",91.63%
+103,"Bat, lesser long-nosed",Leptonycteris curasoae yerbabuenae,E,305.0,"$350,930.33",91.71%
+104,"Eider, Steller's",Polysticta stelleri,T,304.45,"$351,234.78",91.79%
+105,"Pearlymussel, Higgins' eye",Lampsilis higginsi,E,301.61,"$351,536.39",91.87%
+106,"Rail, Guam",Rallus owstoni,E,290.5,"$351,826.89",91.94%
+107,"Goose, Aleutian Canada",Branta canadensis leucopareia,T,289.34,"$352,116.23",92.02%
+108,"Cactus, Mesa Verde",Sclerocactus mesae-verdae,T,288.8,"$352,405.03",92.09%
+109,"Snails, Oahu tree",Achatinella^ spp. (all species),E,281.82,"$352,686.85",92.17%
+110,"Darter, Cherokee",Etheostoma (Ulocentra) sp.,T,281.25,"$352,968.10",92.24%
+111,"Toad, Wyoming",Bufo hemiophrys baxteri,E,277.99,"$353,246.09",92.31%
+112,"Milk-vetch, Mancos",Astragalus humillimus,E,275.5,"$353,521.59",92.39%
+113,"Tadpole shrimp, vernal pool",Lepidurus packardi,E,269.3,"$353,790.89",92.46%
+114,"Crow, Mariana",Corvus kubaryi,E,265.2,"$354,056.09",92.53%
+115,"Snail, Utah valvata",Valvata utahensis,E,261.16,"$354,317.25",92.59%
+116,"Kangaroo rat, San Bernardino Merriam's",Dipodomys merriami parvus,E,257.0,"$354,574.25",92.66%
+117,"Crow, Hawaiian (=`alala)",Corvus hawaiiensis,E,249.0,"$354,823.25",92.73%
+118,"Deer, key",Odocoileus virginianus clavium,E,243.8,"$355,067.05",92.79%
+119,"Pearlymussel, white cat's paw",Epioblasma obliquata perobliqua,E,238.0,"$355,305.05",92.85%
+120,"Stilt, Hawaiian (=ae`o)",Himantopus mexicanus knudseni,E,235.8,"$355,540.85",92.91%
+121,"Orchid, western prairie fringed",Platanthera praeclara,T,225.64,"$355,766.49",92.97%
+122,Spikedace,Meda fulgida,T,225.3,"$355,991.79",93.03%
+123,"Mouse, Pacific pocket",Perognathus longimembris pacificus,E,223.0,"$356,214.79",93.09%
+124,"Beetle, valley elderberry longhorn",Desmocerus californicus dimorphus,T,219.99,"$356,434.79",93.15%
+125,"Pupfish, Devils Hole",Cyprinodon diabolis,E,210.75,"$356,645.54",93.20%
+126,"Button-celery, San Diego",Eryngium aristulatum var. parishii,E,205.2,"$356,850.74",93.26%
+127,"Squirrel, Mount Graham red",Tamiasciurus hudsonicus grahamensis,E,196.1,"$357,046.84",93.31%
+128,"Checker-mallow, Nelson's",Sidalcea nelsoniana,T,192.18,"$357,239.01",93.36%
+129,"Minnow, loach",Rhinichthys cobitis,T,190.97,"$357,429.98",93.41%
+130,"Beetle, American burying (=giant carrion)",Nicrophorus americanus,E,189.61,"$357,619.59",93.46%
+131,"Rail, Yuma clapper",Rallus longirostris yumanensis,E,189.4,"$357,808.99",93.51%
+132,"Blackbird, yellow-shouldered",Agelaius xanthomus,E,185.26,"$357,994.25",93.56%
+133,"Mussel, dwarf wedge",Alasmidonta heterodon,E,181.54,"$358,175.78",93.60%
+134,"Fairy shrimp, San Diego",Branchinecta sandiegoensis,E,180.5,"$358,356.28",93.65%
+135,"Howellia, water",Howellia aquatilis,T,179.83,"$358,536.11",93.70%
+136,"Chub, Oregon",Oregonichthys crameri,E,178.14,"$358,714.25",93.74%
+137,"Lizard, blunt-nosed leopard",Gambelia silus,E,174.2,"$358,888.45",93.79%
+138,"Snake, eastern indigo",Drymarchon corais couperi,T,173.99,"$359,062.44",93.83%
+139,Ocelot,Felis pardalis,E,173.2,"$359,235.64",93.88%
+140,"Goose, Hawaiian (=nene)",Nesochen sandvicensis,E,170.18,"$359,405.83",93.92%
+141,"Tern, roseate",Sterna dougallii dougallii,"E, T",165.23,"$359,571.05",93.97%
+142,"Dragonfly, Hine's (=Ohio) emerald",Somatochlora hineana,E,163.72,"$359,734.77",94.01%
+143,"Pupfish, desert",Cyprinodon macularius,E,163.49,"$359,898.26",94.05%
+144,Po`ouli (honeycreeper),Melamprosops phaeosoma,E,158.5,"$360,056.76",94.09%
+145,"Sumac, Michaux's",Rhus michauxii,E,156.67,"$360,213.43",94.14%
+146,"Mussel, winged mapleleaf",Quadrula fragosa,E,156.01,"$360,369.44",94.18%
+147,"Orchid, eastern prairie fringed",Platanthera leucophaea,T,155.24,"$360,524.68",94.22%
+148,"Kangaroo rat, Tipton",Dipodomys nitratoides nitratoides,E,153.3,"$360,677.98",94.26%
+149,"Kangaroo rat, giant",Dipodomys ingens,E,151.9,"$360,829.88",94.30%
+150,"Goby, tidewater",Eucyclogobius newberryi,E,150.0,"$360,979.88",94.34%
+151,"Squirrel, Delmarva Peninsula fox",Sciurus niger cinereus,E,148.22,"$361,128.11",94.37%
+152,"Trout, bull (Klamath R. pop.)",Salvelinus confluentus,T,147.93,"$361,276.04",94.41%
+153,"Trout, Gila",Oncorhynchus gilae,E,147.83,"$361,423.87",94.45%
+154,"Fairy shrimp, riverside",Streptocephalus woottoni,E,147.7,"$361,571.57",94.49%
+155,"Pelican, brown",Pelecanus occidentalis,E,147.57,"$361,719.14",94.53%
+156,"Smelt, delta",Hypomesus transpacificus,T,143.61,"$361,862.76",94.57%
+157,"Chaffseed, American",Schwalbea americana,E,143.28,"$362,006.03",94.60%
+158,"Cactus, Pima pineapple",Coryphantha scheeri var. robustispina,E,142.3,"$362,148.33",94.64%
+159,"Amaranth, seabeach",Amaranthus pumilus,T,139.08,"$362,287.41",94.68%
+160,"Stickleback, unarmored threespine",Gasterosteus aculeatus williamsoni,E,137.0,"$362,424.41",94.71%
+161,"Deer, Columbian white-tailed",Odocoileus virginianus leucurus,E,136.06,"$362,560.47",94.75%
+162,"Mouse, salt marsh harvest",Reithrodontomys raviventris,E,135.52,"$362,695.99",94.78%
+163,"Loosestrife, rough-leaved",Lysimachia asperulaefolia,E,132.6,"$362,828.59",94.82%
+164,"Rabbit, Lower Keys",Sylvilagus palustris hefneri,E,132.0,"$362,960.59",94.85%
+165,"Bird's beak, palmate-bracted",Cordylanthus palmatus,E,130.3,"$363,090.89",94.89%
+165,"Layia, beach",Layia carnosa,E,130.3,"$363,221.19",94.92%
+167,`Ohai,Sesbania tomentosa,E,129.5,"$363,350.69",94.96%
+168,"Whale, gray",Eschrichtius robustus,E,128.25,"$363,478.94",94.99%
+169,"Wallflower, Menzies'",Erysimum menziesii,E,126.0,"$363,604.94",95.02%
+170,"Kangaroo rat, Stephens'",Dipodomys stephensi,E,124.9,"$363,729.84",95.05%
+171,"Coot, Hawaiian (=`alae-ke`oke`o)",Fulica americana alai,E,124.8,"$363,854.64",95.09%
+172,"Spinedace, Little Colorado",Lepidomeda vittata,T,124.0,"$363,978.64",95.12%
+173,"Logperch, Roanoke",Percina rex,E,123.6,"$364,102.24",95.15%
+174,"Kangaroo rat, Fresno",Dipodomys nitratoides exilis,E,122.3,"$364,224.54",95.18%
+175,"Lomatium, Bradshaw's",Lomatium bradshawii,E,121.6,"$364,346.14",95.22%
+176,Nukupu`u (honeycreeper),Hemignathus lucidus,E,119.5,"$364,465.64",95.25%
+177,"Butterfly, Oregon silverspot",Speyeria zerene hippolyta,T,119.0,"$364,584.64",95.28%
+178,"Vole, Hualapai Mexican",Microtus mexicanus hualpaiensis,E,117.5,"$364,702.14",95.31%
+179,"Pearlymussel, pink mucket",Lampsilis abrupta,E,114.17,"$364,816.31",95.34%
+180,"Butterweed, Layne's",Senecio layneae,T,114.0,"$364,930.31",95.37%
+181,"Parrotbill, Maui (honeycreeper)",Pseudonestor xanthophrys,E,112.43,"$365,042.75",95.40%
+182,"Chub, Pahranagat roundtail (=bonytail)",Gila robusta jordani,E,112.0,"$365,154.75",95.43%
+183,"Sparrow, Florida grasshopper",Ammodramus savannarum floridanus,E,111.33,"$365,266.08",95.46%
+184,"Turtle, bog (=Muhlenberg)",Clemmys muhlenbergii,T,111.04,"$365,377.12",95.48%
+185,"Mouse, Alabama beach",Peromyscus polionotus ammobates,E,110.17,"$365,487.29",95.51%
+186,Palila (honeycreeper),Loxioides bailleui,E,105.79,"$365,593.08",95.54%
+187,"Trout, bull (Jarbridge R. pop.)",Salvelinus confluentus,E,105.64,"$365,698.73",95.57%
+188,"Spineflower, slender-horned",Dodecahema leptoceras,E,105.4,"$365,804.13",95.60%
+189,"Salamander, Barton Springs",Eurycea sosorum,E,105.0,"$365,909.13",95.62%
+190,"Toad, Houston",Bufo houstonensis,E,103.0,"$366,012.13",95.65%
+191,"Madtom, Neosho",Noturus placidus,T,102.25,"$366,114.38",95.68%
+192,"Woolly-star, Santa Ana River",Eriastrum densifolium ssp. sanctorum,E,102.0,"$366,216.38",95.70%
+193,"Pitcher-plant, green",Sarracenia oreophila,E,99.35,"$366,315.73",95.73%
+194,"Ambersnail, Kanab",Oxyloma haydeni kanabensis,E,97.3,"$366,413.03",95.76%
+195,"Rock-pocketbook, Ouachita (=Wheeler's pearly",Arkansia wheeleri,E,97.05,"$366,510.08",95.78%
+196,"Moorhen, Hawaiian common",Gallinula chloropus sandvicensis,E,96.86,"$366,606.94",95.81%
+197,Clubshell,Pleurobema clava,E,95.99,"$366,702.93",95.83%
+198,"Pogonia, small whorled",Isotria medeoloides,T,94.74,"$366,797.67",95.86%
+199,"Butterfly, Quino checkerspot",Euphydryas editha quino (=E. e. wrighti),E,94.5,"$366,892.17",95.88%
+200,"Megapode, Micronesian (=La Perouse's)",Megapodius laperouse,E,88.5,"$366,980.67",95.90%
+201,"Darter, Niangua",Etheostoma nianguae,T,86.0,"$367,066.67",95.93%
+201,"Butterfly, Palos Verdes blue",Glaucopsyche lygdamus palosverdesensis,E,86.0,"$367,152.67",95.95%
+203,"Springfish, White River",Crenichthys baileyi baileyi,E,84.9,"$367,237.57",95.97%
+204,"Thrush, small Kauai (=puaiohi)",Myadestes palmeri,E,84.0,"$367,321.57",95.99%
+204,"Mesa-mint, Otay",Pogogyne nudiuscula,E,84.0,"$367,405.57",96.02%
+206,"Kite, Everglade snail",Rostrhamus sociabilis plumbeus,E,83.78,"$367,489.35",96.04%
+207,"Heelsplitter, Carolina",Lasmigona decorata,E,83.3,"$367,572.65",96.06%
+208,"Shiner, blue",Cyprinella caerulea,T,80.99,"$367,653.64",96.08%
+209,"Bat, Ozark big-eared",Plecotus townsendii ingens,E,80.6,"$367,734.24",96.10%
+210,"Springfish, Hiko White River",Crenichthys baileyi grandis,E,77.69,"$367,811.93",96.12%
+211,"Mesa-mint, San Diego",Pogogyne abramsii,E,77.3,"$367,889.23",96.14%
+212,"Penstemon, blowout",Penstemon haydenii,E,75.5,"$367,964.73",96.16%
+213,"Ladies'-tresses, Navasota",Spiranthes parksii,E,75.0,"$368,039.73",96.18%
+214,"Cactus, Kuenzler hedgehog",Echinocereus fendleri var. kuenzleri,E,74.7,"$368,114.43",96.20%
+215,"Crocodile, American",Crocodylus acutus,E,73.8,"$368,188.23",96.22%
+216,"Bladderpod, Missouri",Lesquerella filiformis,E,72.3,"$368,260.53",96.24%
+217,"Snail, Bliss Rapids",Taylorconcha serpenticola,T,72.1,"$368,332.62",96.26%
+218,"Milk-vetch, Applegate's",Astragalus applegatei,E,72.0,"$368,404.62",96.28%
+219,"Snail, Snake River physa",Physa natricina,E,71.66,"$368,476.29",96.29%
+219,"Springsnail, Idaho",Fontelicella idahoensis,E,71.66,"$368,547.95",96.31%
+221,"`Akepa, Maui (honeycreeper)",Loxops coccineus ochraceus,E,71.5,"$368,619.45",96.33%
+222,"Sucker, Warner",Catostomus warnerensis,T,70.47,"$368,689.92",96.35%
+223,"Salamander, Red Hills",Phaeognathus hubrichti,T,70.0,"$368,759.92",96.37%
+224,"Butterfly, bay checkerspot",Euphydryas editha bayensis,T,69.3,"$368,829.22",96.39%
+225,"Chub, Sonora",Gila ditaenia,T,68.1,"$368,897.32",96.40%
+226,"Darter, leopard",Percina pantherina,T,67.9,"$368,965.21",96.42%
+227,"Snake, copperbelly water (northern pop.)",Nerodia erythrogaster neglecta,T,67.16,"$369,032.37",96.44%
+228,"Coneflower, smooth",Echinacea laevigata,E,67.13,"$369,099.50",96.46%
+229,Jaguarundi,Felis yagouaroundi cacomitli,E,66.0,"$369,165.50",96.47%
+230,"Rattlesnake, New Mexican ridge-nosed",Crotalus willardi obscurus,T,65.68,"$369,231.18",96.49%
+231,"Dace, Clover Valley speckled",Rhinichthys osculus oligoporus,E,65.0,"$369,296.18",96.51%
+231,"Dace, Independence Valley speckled",Rhinichthys osculus lethoporus,E,65.0,"$369,361.18",96.53%
+233,"Spinedace, Big Spring",Lepidomeda mollispinis pratensis,T,64.7,"$369,425.88",96.54%
+234,"Pigeon, Puerto Rican plain",Columba inornata wetmorei,E,64.6,"$369,490.48",96.56%
+235,"Clubshell, southern",Pleurobema decisum,E,64.47,"$369,554.94",96.58%
+236,"Aster, decurrent false",Boltonia decurrens,T,63.72,"$369,618.66",96.59%
+237,"Mallow, Kern",Eremalche kernensis,E,63.3,"$369,681.96",96.61%
+238,"Cavefish, Ozark",Amblyopsis rosae,T,63.25,"$369,745.21",96.63%
+239,"Fairy shrimp, longhorn",Branchinecta longiantenna,E,62.3,"$369,807.51",96.64%
+240,"Pocketbook, fat",Potamilus capax,E,60.8,"$369,868.31",96.66%
+241,"Trout, Apache (=Arizona)",Oncorhynchus apache,T,60.5,"$369,928.81",96.67%
+242,"Mustard, slender-petaled",Thelypodium stenopetalum,E,59.7,"$369,988.51",96.69%
+243,"Snake, San Francisco garter",Thamnophis sirtalis tetrataenia,E,59.3,"$370,047.81",96.71%
+243,"Shrimp, California freshwater",Syncaris pacifica,E,59.3,"$370,107.11",96.72%
+245,"Grass, California Orcutt",Orcuttia californica,E,59.0,"$370,166.11",96.74%
+246,"Bat, Hawaiian hoary",Lasiurus cinereus semotus,E,58.5,"$370,224.61",96.75%
+247,"Dace, blackside",Phoxinus cumberlandensis,T,58.3,"$370,282.91",96.77%
+248,"Checker-mallow, pedate",Sidalcea pedata,E,58.0,"$370,340.91",96.78%
+249,"Turtle, yellow-blotched map (=sawback)",Graptemys flavimaculata,T,57.25,"$370,398.16",96.80%
+250,"Honeycreeper, crested (=`akohekohe)",Palmeria dolei,E,56.43,"$370,454.60",96.81%
+251,"Pearlymussel, little-wing",Pegias fabula,E,55.77,"$370,510.36",96.83%
+252,"Jewelflower, California",Caulanthus californicus,E,55.3,"$370,565.66",96.84%
+253,"Towhee, Inyo California (=brown)",Pipilo crissalis eremophilus,T,55.0,"$370,620.66",96.86%
+254,"Moccasinshell, Alabama",Medionidus acutissimus,T,54.86,"$370,675.52",96.87%
+255,"Creeper, Hawaii",Oreomystis mana,E,54.79,"$370,730.31",96.88%
+256,"Monkshood, northern wild",Aconitum noveboracense,T,54.04,"$370,784.35",96.90%
+257,"Bat, Mariana fruit",Pteropus mariannus mariannus,E,54.0,"$370,838.35",96.91%
+258,"`Akepa, Hawaii (honeycreeper)",Loxops coccineus coccineus,E,53.79,"$370,892.14",96.93%
+258,`Akiapola`au (honeycreeper),Hemignathus munroi,E,53.79,"$370,945.94",96.94%
+260,Pondberry,Lindera melissifolia,E,53.13,"$370,999.06",96.95%
+261,"Lizard, Coachella Valley fringe-toed",Uma inornata,T,53.09,"$371,052.16",96.97%
+262,"Butterfly, El Segundo blue",Euphilotes battoides allyni,E,53.0,"$371,105.16",96.98%
+263,"Darter, Etowah",Etheostoma etowahae,E,52.95,"$371,158.11",97.00%
+264,"Trout, Little Kern golden",Oncorhynchus aguabonita whitei,T,52.8,"$371,210.91",97.01%
+265,"Moorhen, Mariana common",Gallinula chloropus guami,E,52.5,"$371,263.41",97.02%
+266,"Sandwort, Marsh",Arenaria paludicola,E,51.7,"$371,315.11",97.04%
+267,"Riffleshell, northern",Epioblasma torulosa rangiana,E,51.56,"$371,366.66",97.05%
+268,"Clubshell, ovate",Pleurobema perovatum,E,51.47,"$371,418.13",97.06%
+269,"Butterfly, Saint Francis' satyr",Neonympha mitchellii francisci,E,51.2,"$371,469.33",97.08%
+270,"Springsnail, Bruneau Hot",Pyrgulopsis bruneauensis,E,50.94,"$371,520.27",97.09%
+271,"Squirrel, Virginia northern flying",Glaucomys sabrinus fuscus,E,50.16,"$371,570.43",97.10%
+272,Jaguar,Panthera onca,E,49.72,"$371,620.15",97.12%
+273,"Kingfisher, Guam Micronesian",Halcyon cinnamomina cinnamomina,E,49.5,"$371,669.65",97.13%
+274,"Cactus, Winkler",Pediocactus winkleri,T,48.7,"$371,718.35",97.14%
+275,"Riffleshell, tan",Epioblasma walkeri,E,47.82,"$371,766.17",97.15%
+276,"Monkey-flower, Michigan",Mimulus glabratus var. michiganensis,E,47.0,"$371,813.17",97.17%
+277,"Mucket, orange-nacre",Lampsilis perovalis,T,45.76,"$371,858.93",97.18%
+278,"Goldenrod, Houghton's",Solidago houghtonii,T,45.7,"$371,904.63",97.19%
+279,"Kidneyshell, triangular",Ptychobranchus greeni,E,45.36,"$371,949.99",97.20%
+280,"Woolly-star, Hoover's",Eriastrum hooveri,T,45.3,"$371,995.29",97.21%
+281,"Pearlymussel, orange-foot pimpleback",Plethobasus cooperianus,E,44.6,"$372,039.89",97.23%
+282,"Turtle, Alabama redbelly (=red-bellied)",Pseudemys alabamensis,E,44.5,"$372,084.39",97.24%
+283,"Boa, Puerto Rican",Epicrates inornatus,E,44.3,"$372,128.69",97.25%
+284,"Pupfish, Ash Meadows Amargosa",Cyprinodon nevadensis mionectes,E,44.06,"$372,172.75",97.26%
+285,Jaguarundi,Felis yagouaroundi tolteca,E,43.6,"$372,216.35",97.27%
+286,"Potato-bean, Price's",Apios priceana,T,43.2,"$372,259.55",97.28%
+287,"Sucker, Modoc",Catostomus microps,E,43.17,"$372,302.72",97.29%
+288,"Spineflower, Orcutt's",Chorizanthe orcuttiana,E,42.7,"$372,345.42",97.31%
+289,"Poppy, Sacramento prickly",Argemone pleiacantha ssp. pinnatisecta,E,42.6,"$372,388.02",97.32%
+290,"Spinedace, White River",Lepidomeda albivallis,E,42.5,"$372,430.52",97.33%
+290,"Milkweed, Mead's",Asclepias meadii,T,42.5,"$372,473.02",97.34%
+290,"Watercress, Gambel's",Rorippa gambellii,E,42.5,"$372,515.52",97.35%
+293,"Butterfly, mission blue",Icaricia icarioides missionensis,E,42.3,"$372,557.82",97.36%
+294,Neraudia angulata (=Sci name),Neraudia angulata,E,42.02,"$372,599.85",97.37%
+295,"Dawn-flower, Texas prairie",Hymenoxys texana,E,42.0,"$372,641.85",97.38%
+296,"Trillium, relict",Trillium reliquum,E,41.85,"$372,683.70",97.39%
+297,"Paintbrush, golden",Castilleja levisecta,T,41.51,"$372,725.21",97.41%
+298,"Thistle, Pitcher's",Cirsium pitcheri,T,41.0,"$372,766.21",97.42%
+299,"Darter, amber",Percina antesella,E,40.99,"$372,807.19",97.43%
+300,"Wooly-threads, San Joaquin",Lembertia congdonii,E,40.3,"$372,847.49",97.44%
+301,"Salamander, Santa Cruz long-toed",Ambystoma macrodactylum croceum,E,40.0,"$372,887.49",97.45%
+302,"Hawk, Hawaiian (=io)",Buteo solitarius,E,39.75,"$372,927.24",97.46%
+303,"Thistle, Chorro Creek",Cirsium fontinale var. obispoense,E,39.5,"$372,966.74",97.47%
+304,"Beetle, northeastern beach tiger",Cicindela dorsalis dorsalis,T,38.9,"$373,005.64",97.48%
+305,"Cactus, Bakersfield",Opuntia treleasei,E,38.8,"$373,044.44",97.49%
+306,"Bat, Virginia big-eared",Plecotus townsendii virginianus,E,38.77,"$373,083.21",97.50%
+307,"Pearlymussel, Curtis'",Epioblasma florentina curtisi,E,38.4,"$373,121.61",97.51%
+308,"Orcutt grass, slender",Orcuttia tenuis,T,38.3,"$373,159.91",97.52%
+309,"Bush-clover, prairie",Lespedeza leptostachya,T,37.13,"$373,197.04",97.53%
+310,"Butterfly, Schaus swallowtail",Heraclides aristodemus ponceanus,E,36.64,"$373,233.68",97.54%
+311,"Four-o'clock, MacFarlane's",Mirabilis macfarlanei,E,36.6,"$373,270.28",97.55%
+311,"Gardenia, Hawaiian (na`u)",Gardenia brighamii,E,36.6,"$373,306.88",97.56%
+313,"Darter, fountain",Etheostoma fonticola,E,36.5,"$373,343.38",97.57%
+313,"Wild-rice, Texas",Zizania texana,E,36.5,"$373,379.88",97.58%
+315,"Milkweed, Welsh's",Asclepias welshii,T,36.4,"$373,416.28",97.59%
+316,"Hawk, Puerto Rican broad-winged",Buteo platypterus brunnescens,E,36.3,"$373,452.58",97.60%
+317,"Fly, Delhi Sands flower-loving",Rhaphiomidas terminatus abdominalis,E,36.0,"$373,488.58",97.60%
+317,"Rock-cress, McDonald's",Arabis mcdonaldiana,E,36.0,"$373,524.58",97.61%
+319,"Ladies'-tresses, Canelo Hills (=Madrean)",Spiranthes delitescens,E,35.8,"$373,560.38",97.62%
+320,"Limpet, Banbury Springs",Lanx sp.,E,35.8,"$373,596.18",97.63%
+321,"Snail, Stock Island tree",Orthalicus reses,T,35.5,"$373,631.68",97.64%
+322,"Quillwort, Louisiana",Isoetes louisianensis,E,35.23,"$373,666.90",97.65%
+323,"Crayfish, Shasta (=placid)",Pacifastacus fortis,E,35.04,"$373,701.94",97.66%
+324,"Indian paintbrush, San Clemente Island",Castilleja grisea,E,34.9,"$373,736.84",97.67%
+325,"Gambusia, San Marcos",Gambusia georgei,E,34.5,"$373,771.34",97.68%
+325,"Lily, Western",Lilium occidentale,E,34.5,"$373,805.84",97.69%
+327,Kulu`i,Nototrichium humile,E,34.42,"$373,840.27",97.70%
+328,"Pigtoe (mussel), oval",Pleurobema pyriforme,E,34.2,"$373,874.47",97.71%
+329,"Mouse, Perdido Key beach",Peromyscus polionotus trissyllepsis,E,34.1,"$373,908.57",97.71%
+330,"Kuahiwi, laukahi",Plantago princeps,E,34.0,"$373,942.57",97.72%
+330,"Rockcress, Santa Cruz Island",Sibara filifolia,E,34.0,"$373,976.57",97.73%
+330,"Woodland-star, San Clemente Island",Lithophragma maximum,E,34.0,"$374,010.57",97.74%
+333,"Fairy shrimp, Conservancy",Branchinecta conservatio,E,33.3,"$374,043.87",97.75%
+333,"Dwarf-flax, Marin",Hesperolinon congestum,T,33.3,"$374,077.17",97.76%
+333,"Paintbrush, Tiburon",Castilleja affinis ssp. neglecta,E,33.3,"$374,110.47",97.77%
+336,"Darter, boulder (=Elk River)",Etheostoma wapiti,E,33.2,"$374,143.67",97.78%
+337,"Ma` ohau hele (=biscus, native yellow)",Hibiscus brackenridgei,E,32.8,"$374,176.47",97.78%
+338,"Butterfly, Uncompahgre fritillary",Boloria acrocnema,E,32.7,"$374,209.17",97.79%
+338,Bonamia menziesii (=Sci name),Bonamia menziesii,E,32.7,"$374,241.87",97.80%
+340,Lobelia niihauensis (=Sci name),Lobelia niihauensis,E,32.5,"$374,274.37",97.81%
+341,"Elktoe, Appalachian",Alasmidonta raveneliana,E,32.24,"$374,306.61",97.82%
+342,"Cactus, Sneed pincushion",Coryphantha sneedii var. sneedii,E,32.0,"$374,338.61",97.83%
+343,Sanicula purpurea (=Sci. name),Sanicula purpurea,E,31.75,"$374,370.36",97.84%
+344,"Dace, desert",Eremichthys acros,T,31.5,"$374,401.86",97.84%
+344,Nanu,Gardenia mannii,E,31.5,"$374,433.36",97.85%
+346,"Bird's-beak, Pennell's",Cordylanthus tenuis ssp. capillaris,E,31.3,"$374,464.66",97.86%
+346,"Ceanothus, coyote (=California-lilac, Coyote",Ceanothus ferrisae,E,31.3,"$374,495.96",97.87%
+346,"Clarkia, Presidio",Clarkia franciscana,E,31.3,"$374,527.26",97.88%
+346,"Dudleya, Santa Clara Valley",Dudleya setchellii,E,31.3,"$374,558.56",97.88%
+346,"Jewelflower, Metcalf Canyon",Streptanthus albidus ssp. albidus,E,31.3,"$374,589.86",97.89%
+346,"Jewelflower, Tiburon",Streptanthus niger,E,31.3,"$374,621.16",97.90%
+346,"Mariposa lily, Tiburon",Calochortus tiburonensis,T,31.3,"$374,652.46",97.91%
+346,"Pentachaeta, white-rayed",Pentachaeta bellidiflora,E,31.3,"$374,683.76",97.92%
+346,"Sunflower, San Mateo woolly",Eriophyllum latilobum,E,31.3,"$374,715.06",97.93%
+346,"Thistle, fountain",Cirsium fontinale var. fontinale,E,31.3,"$374,746.36",97.93%
+356,"Clover, running buffalo",Trifolium stoloniferum,E,31.24,"$374,777.60",97.94%
+357,"Sand-verbena, large-fruited",Abronia macrocarpa,E,31.0,"$374,808.60",97.95%
+357,"Thornmint, San Mateo",Acanthomintha obovata ssp. duttonii,E,31.0,"$374,839.60",97.96%
+359,Mehamehame,Flueggea neowawraea,E,30.8,"$374,870.40",97.97%
+360,Hesperomannia arborescens (=Sci name),Hesperomannia arborescens,E,30.6,"$374,901.00",97.97%
+360,"Joint-vetch, sensitive",Aeschynomene virginica,T,30.6,"$374,931.60",97.98%
+362,"Amphianthus, little",Amphianthus pusillus,T,30.54,"$374,962.13",97.99%
+363,"Mountain beaver, Point Arena",Aplodontia rufa nigra,E,30.5,"$374,992.63",98.00%
+363,"Broadbill, Guam",Myiagra freycineti,E,30.5,"$375,023.13",98.01%
+363,"Monarch, Tinian (old world flycatcher)",Monarcha takatsukasae,T,30.5,"$375,053.63",98.01%
+363,"Swiftlet, Mariana gray (=vanikoro)",Aerodramus vanikorensis bartschi,E,30.5,"$375,084.13",98.02%
+363,"White-eye, bridled",Zosterops conspicillatus conspicillatus,E,30.5,"$375,114.63",98.03%
+368,"Gambusia, Big Bend",Gambusia gaigei,E,30.09,"$375,144.73",98.04%
+369,"Creeper, Oahu (=alauwahio)",Paroreomyza maculata,E,29.62,"$375,174.35",98.05%
+370,Haha,Cyanea koolauensis,E,29.6,"$375,203.95",98.05%
+370,Lobelia oahuensis (=Sci name),Lobelia oahuensis,E,29.6,"$375,233.55",98.06%
+372,"Iris, dwarf lake",Iris lacustris,T,29.4,"$375,262.95",98.07%
+373,`Oha wai,Clermontia lindseyana,E,29.3,"$375,292.25",98.08%
+374,"Shiner, Cape Fear",Notropis mekistocholas,E,29.1,"$375,321.35",98.08%
+375,"Shrimp, Alabama cave",Palaemonias alabamae,E,29.0,"$375,350.35",98.09%
+375,`Akoko,Chamaesyce rockii,E,29.0,"$375,379.35",98.10%
+377,"Heelsplitter, inflated",Potamilus inflatus,T,28.86,"$375,408.21",98.11%
+378,`Anaunau,Lepidium arbuscula,E,28.8,"$375,437.01",98.11%
+379,"Spinymussel, James River (=Virginia)",Pleurobema collina,E,28.7,"$375,465.71",98.12%
+380,Cyanea superba (=Sci name),Cyanea superba,E,28.6,"$375,494.31",98.13%
+381,"Combshell, upland",Epioblasma metastriata,E,28.5,"$375,522.81",98.14%
+382,"Spinymussel, Tar River",Elliptio steinstansana,E,28.39,"$375,551.20",98.14%
+383,Sanicula mariversa (=Sci name),Sanicula mariversa,E,28.32,"$375,579.53",98.15%
+384,"Springfish, Railroad Valley",Crenichthys nevadae,T,28.12,"$375,607.65",98.16%
+385,"Cactus, Tobusch fishhook",Ancistrocactus tobuschii,E,28.1,"$375,635.75",98.17%
+386,"Salamander, San Marcos",Eurycea nana,T,28.0,"$375,663.75",98.17%
+386,"Salamander, Texas blind",Typhlomolge rathbuni,E,28.0,"$375,691.75",98.18%
+386,"Beetle, Comal Springs dryopid",Stygoparnus comalensis,E,28.0,"$375,719.75",98.19%
+386,"Beetle, Comal Springs riffle",Heterelmis comalensis,E,28.0,"$375,747.75",98.20%
+386,"Amphipod, Peck's cave",Stygobromus pecki (=Stygonectes p.),E,28.0,"$375,775.75",98.20%
+386,Daphnopsis hellerana (=Sci name),Daphnopsis hellerana,E,28.0,"$375,803.75",98.21%
+392,Hedyotis parvula (=Sci name),Hedyotis parvula,E,27.82,"$375,831.57",98.22%
+392,Na`ena`e,Dubautia herbstobatae,E,27.82,"$375,859.39",98.22%
+394,Tetramolopium filiforme (=Sci name),Tetramolopium filiforme,E,27.72,"$375,887.12",98.23%
+395,"Water-umbel, Huachuca",Lilaeopsis schaffneriana ssp. recurva,E,27.6,"$375,914.72",98.24%
+396,"Warbler, nightingale reed",Acrocephalus luscinia,E,27.5,"$375,942.22",98.25%
+397,"Pocketbook, fine-lined",Lampsilis altilis,T,27.31,"$375,969.53",98.25%
+398,Schiedea hookeri (=Sci. name),Schiedea hookeri,E,27.3,"$375,996.83",98.26%
+399,`Akoko,Euphorbia haeleeleana,E,27.2,"$376,024.03",98.27%
+400,"Pearlymussel, Cumberland bean",Villosa trabalis,E,27.12,"$376,051.15",98.27%
+401,"Logperch, Conasauga",Percina jenkinsi,E,26.95,"$376,078.10",98.28%
+402,Diellia falcata (=Sci name),Diellia falcata,E,26.8,"$376,104.90",98.29%
+403,"Snail, Morro shoulderband (=Banded dune)",Helminthoglypta walkeriana,E,26.5,"$376,131.40",98.30%
+404,`Ohe `ohe,Tetraplasandra gymnocarpa,E,26.4,"$376,157.80",98.30%
+405,"Campion, fringed",Silene polypetala,E,26.3,"$376,184.10",98.31%
+406,"Hawk, Puerto Rican sharp-shinned",Accipiter striatus venator,E,26.2,"$376,210.30",98.32%
+407,Alsinidendron obovatum (=Sci name),Alsinidendron obovatum,E,26.0,"$376,236.30",98.32%
+408,Spermolepis hawaiiensis (=Sci name),Spermolepis hawaiiensis,E,25.9,"$376,262.20",98.33%
+409,"Milk-vetch, Jesup's",Astragalus robbinsii var. jesupi,E,25.8,"$376,288.00",98.34%
+410,"Butterfly, Myrtle's silverspot",Speyeria zerene myrtleae,E,25.31,"$376,313.30",98.34%
+411,Ha`iwale,Cyrtandra dentata,E,25.3,"$376,338.60",98.35%
+411,Schiedea nuttallii (=Sci. name),Schiedea nuttallii,E,25.3,"$376,363.90",98.36%
+413,"Cactus, San Rafael",Pediocactus despainii,E,25.2,"$376,389.10",98.36%
+413,Pauoa,Ctenitis squamigera,E,25.2,"$376,414.30",98.37%
+415,"Chub, Hutton tui",Gila bicolor ssp.,T,25.0,"$376,439.30",98.38%
+415,"Dace, Foskett speckled",Rhinichthys osculus ssp.,T,25.0,"$376,464.30",98.38%
+417,"Dace, Moapa",Moapa coriacea,E,24.8,"$376,489.10",98.39%
+418,"Meadowrue, Cooley's",Thalictrum cooleyi,E,24.7,"$376,513.80",98.40%
+419,"Bat, Mexican long-nosed",Leptonycteris nivalis,E,24.6,"$376,538.40",98.40%
+420,"Avens, spreading",Geum radiatum,E,24.5,"$376,562.90",98.41%
+421,"Caracara, Audubon's crested",Polyborus plancus audubonii,T,24.4,"$376,587.30",98.41%
+422,"Lizard, Island night",Xantusia riversiana,T,24.4,"$376,611.71",98.42%
+423,"Darter, snail",Percina tanasi,T,24.35,"$376,636.06",98.43%
+424,"Sandbur, agrimony or Kamanomano",Cenchrus agrimonioides,E,24.2,"$376,660.26",98.43%
+425,"Salamander, Sonoran tiger",Ambystoma tigrinum stebbinsi,E,24.1,"$376,684.36",98.44%
+425,"Chub, Owens tui",Gila bicolor snyderi,E,24.1,"$376,708.46",98.45%
+427,"Gecko, Monito",Sphaerodactylus micropithecus,E,24.0,"$376,732.46",98.45%
+427,"Pupfish, Leon Springs",Cyprinodon bovinus,E,24.0,"$376,756.46",98.46%
+427,Nioi,Eugenia koolauensis,E,24.0,"$376,780.46",98.47%
+430,"Lampmussel, Alabama (=Pearly mussel, Alabama",Lampsilis virescens,E,24.0,"$376,804.45",98.47%
+431,"Mouse, southeastern beach",Peromyscus polionotus niveiventris,T,23.9,"$376,828.35",98.48%
+432,"Pitcher-plant, mountain sweet",Sarracenia rubra ssp. jonesii,E,23.6,"$376,851.95",98.48%
+433,"Pentachaeta, Lyon's",Pentachaeta lyonii,E,23.5,"$376,875.45",98.49%
+433,"Spineflower, Ben Lomond",Chorizanthe pungens var. hartwegiana,E,23.5,"$376,898.95",98.50%
+433,"Spineflower, Robust (incl. Scotts Valley)",Chorizanthe robusta (incl. vars. robusta & hartwe,E,23.5,"$376,922.45",98.50%
+436,"Baccharis, Encinitis",Baccharis vanessae,T,23.4,"$376,945.85",98.51%
+437,"Manzanita, Del Mar (=Costa Baja, =Eastwood's)",Arctostaphylos glandulosa ssp. crassifolia,E,22.4,"$376,968.25",98.51%
+438,Tetramolopium lepidotum ssp. lepidotum (=Sci,Tetramolopium lepidotum ssp. lepidotum,E,22.39,"$376,990.65",98.52%
+439,Uhiuhi,Caesalpinia kavaiense,E,21.9,"$377,012.55",98.53%
+440,"Moccasinshell, Gulf",Medionidus penicillatus,E,21.82,"$377,034.36",98.53%
+441,Harperella,Ptilimnium nodosum,E,21.79,"$377,056.15",98.54%
+442,Phyllostegia hirsuta (=Sci. name),Phyllostegia hirsuta,E,21.7,"$377,077.85",98.54%
+443,Haha,Cyanea grimesiana ssp. grimesiana,E,21.6,"$377,099.45",98.55%
+444,Silene lanceolata (=Sci name),Silene lanceolata,E,21.24,"$377,120.70",98.55%
+445,Haha,Cyanea acuminata,E,21.1,"$377,141.80",98.56%
+445,Pteris lidgatei (=Sci name),Pteris lidgatei,E,21.1,"$377,162.90",98.56%
+447,"Amphipod, Illinois cave",Gammarus acherondytes,E,20.8,"$377,183.70",98.57%
+448,"Thistle, Sacramento Mountains",Cirsium vinaceum,T,20.6,"$377,204.30",98.58%
+448,Viola oahuensis (=Sci. Name),Viola oahuensis,E,20.6,"$377,224.90",98.58%
+450,"Dudleyea, Santa Monica Mountains",Dudleya cymosa ssp. ovatifolia,T,20.5,"$377,245.40",98.59%
+450,"Milk-vetch, Braunton's",Astragalus brauntonii,E,20.5,"$377,265.90",98.59%
+450,"Pinkroot, gentian",Spigelia gentianoides,E,20.5,"$377,286.40",98.60%
+450,"Rhododendron, Chapman",Rhododendron chapmanii,E,20.5,"$377,306.90",98.60%
+454,"Bladderpod, white",Lesquerella pallida,E,20.3,"$377,327.20",98.61%
+455,"Pupfish, Owens",Cyprinodon radiosus,E,20.2,"$377,347.40",98.61%
+456,"Pearlymussel, purple cat's paw",Epioblasma obliquata obliquata,E,20.0,"$377,367.40",98.62%
+457,"Squirrel, Carolina northern flying",Glaucomys sabrinus coloratus,E,19.99,"$377,387.39",98.62%
+458,"Combshell, southern (=penitent mussel)",Epioblasma penita,E,19.88,"$377,407.27",98.63%
+459,"Shearwater, Newell's Townsend's (formerly Man",Puffinus auricularis newelli,T,19.81,"$377,427.08",98.63%
+460,"Lupine, clover",Lupinus tidestromii,E,19.8,"$377,446.88",98.64%
+460,"Spineflower, Sonoma",Chorizanthe valida,E,19.8,"$377,466.68",98.64%
+462,Fanshell,Cyprogenia stegaria,E,19.7,"$377,486.38",98.65%
+463,"Chub, spotfin (=turquoise shiner)",Cyprinella monacha,T,19.56,"$377,505.94",98.65%
+464,"Lily, Minnesota trout",Erythronium propullans,E,19.52,"$377,525.46",98.66%
+465,"Grasshopper, Zayante band-winged",Trimerotropis infantilis,E,19.5,"$377,544.96",98.66%
+465,"Clarkia, Pismo",Clarkia speciosa ssp. immaculata,E,19.5,"$377,564.46",98.67%
+465,"Dudleya, Conejo",Dudleya abramsii ssp. parva,T,19.5,"$377,583.96",98.67%
+465,"Dudleya, Marcescent",Dudleya cymosa ssp. marcescens,T,19.5,"$377,603.46",98.68%
+465,"Dudleya, Verity's",Dudleya verityi,E,19.5,"$377,622.96",98.69%
+465,"Gilia, Monterey",Gilia tenuiflora ssp. arenaria,E,19.5,"$377,642.46",98.69%
+465,"Manzanita, Morro",Arctostaphylos morroensis,T,19.5,"$377,661.96",98.70%
+465,"Wallflower, Ben Lomond",Erysimum teretifolium,E,19.5,"$377,681.46",98.70%
+465,"Cypress, Santa Cruz",Cupressus abramsiana,E,19.5,"$377,700.96",98.71%
+474,"Orcutt grass, Greene's",Tuctoria greenei,E,19.3,"$377,720.26",98.71%
+475,"Pigtoe, southern",Pleurobema georgianum,E,19.06,"$377,739.31",98.72%
+476,"Toad, Puerto Rican crested",Peltophryne lemur,T,19.0,"$377,758.31",98.72%
+476,"Phlox, Texas trailing",Phlox nivalis ssp. texensis,E,19.0,"$377,777.31",98.73%
+476,Silene hawaiiensis (=Sci name),Silene hawaiiensis,T,19.0,"$377,796.31",98.73%
+479,Alsinidendron trinerve (=Sci name),Alsinidendron trinerve,E,18.9,"$377,815.21",98.74%
+480,"Bankclimber (mussel), purple",Elliptoideus sloatianus,T,18.82,"$377,834.03",98.74%
+481,"Beetle, Puritan tiger",Cicindela puritana,T,18.65,"$377,852.68",98.75%
+482,"Daisy, Maguire",Erigeron maguirei var. maguirei,E,18.6,"$377,871.28",98.75%
+483,"Gerardia, sandplain",Agalinis acuta,E,18.56,"$377,889.83",98.75%
+484,"Skullcap, large-flowered",Scutellaria montana,E,18.51,"$377,908.35",98.76%
+485,Ha`iwale,Cyrtandra viridiflora,E,18.5,"$377,926.85",98.76%
+486,"Turtle, ringed map (=sawback)",Graptemys oculifera,T,18.45,"$377,945.30",98.77%
+487,"Mouse, Key Largo cotton",Peromyscus gossypinus allapaticola,E,18.3,"$377,963.60",98.77%
+487,"Cactus, Unita Basin hookless",Sclerocactus glaucus,T,18.3,"$377,981.90",98.78%
+487,"Orcutt grass, hairy (=pilose)",Orcuttia pilosa,E,18.3,"$378,000.20",98.78%
+487,Rollandia crispa (=Sci name),Rollandia crispa,E,18.3,"$378,018.50",98.79%
+487,"Spurge, Hoover's",Chamaesyce hooveri,T,18.3,"$378,036.80",98.79%
+492,"`O`o, Kauai (=`o`o `a`a) (honeyeater)",Moho braccatus,E,18.2,"$378,055.00",98.80%
+492,"Fleabane, Rhizome",Erigeron rhizomatus,T,18.2,"$378,073.20",98.80%
+494,"Rail, light-footed clapper",Rallus longirostris levipes,E,18.14,"$378,091.34",98.81%
+495,"Beetle, Hungerford's crawling water",Brychius hungerfordi,E,18.0,"$378,109.34",98.81%
+495,"Skipper, Laguna Mountains",Pyrgus ruralis lagunae,E,18.0,"$378,127.34",98.82%
+495,Haha,Cyanea (=Rollandia) st-johnii,E,18.0,"$378,145.34",98.82%
+495,"Spineflower, Howell's",Chorizanthe howellii,E,18.0,"$378,163.34",98.83%
+499,"Cactus, Brady pincushion",Pediocactus bradyi,E,17.9,"$378,181.24",98.83%
+500,"Koki`o, Cooke's",Kokia cookei,E,17.8,"$378,199.04",98.84%
+501,"Spiraea, Virginia",Spiraea virginiana,T,17.53,"$378,216.57",98.84%
+502,"Bat, little Mariana fruit",Pteropus tokudae,E,17.5,"$378,234.07",98.84%
+502,"Mallard, Mariana",Anas oustaleti,E,17.5,"$378,251.57",98.85%
+502,"Lagu, Hyan",Serianthes nelsonii,E,17.5,"$378,269.07",98.85%
+502,"Mountain balm, Indian Knob",Eriodictyon altissimum,E,17.5,"$378,286.57",98.86%
+506,"Aster, Ruth's golden",Pityopsis ruthii,E,17.3,"$378,303.87",98.86%
+507,Lysimachia maxima (=ternifolia) (=Sci. name),Lysimachia maxima (=tenrnifolia),E,17.1,"$378,320.97",98.87%
+508,"Diellia , asplenium-leaved",Diellia erecta,E,17.03,"$378,338.00",98.87%
+509,"Salamander, Cheat Mountain",Plethodon nettingi,T,16.87,"$378,354.87",98.88%
+510,Liliwai,Acaena exigua,E,16.85,"$378,371.72",98.88%
+511,"Hau kuahiwi, Hualalai",Hibiscadelphus hualalaiensis,E,16.8,"$378,388.52",98.89%
+512,"Pink, swamp",Helonias bullata,T,16.75,"$378,405.27",98.89%
+513,"Mussel, oyster",Epioblasma capsaeformis,E,16.66,"$378,421.92",98.89%
+514,"Koki`o, Kaua`i",Kokia kauaiensis,E,16.6,"$378,438.52",98.90%
+514,"Lobelia gaudichaudii ssp. koolauensis , (=Sci. na",Lobelia gaudichaudii var. koolauensis,E,16.6,"$378,455.12",98.90%
+516,"Woodrat, Key Largo",Neotoma floridana smalli,E,16.5,"$378,471.62",98.91%
+516,"Acornshell, southern",Epioblasma othcaloogensis,E,16.5,"$378,488.12",98.91%
+516,"Silversword, Ka`u",Argyroxiphium kauense,E,16.5,"$378,504.62",98.92%
+519,Ha`iwale,Cyrtandra subumbellata,E,16.4,"$378,521.02",98.92%
+520,"Pearlshell, Louisiana",Margaritifera hembeli,T,16.32,"$378,537.34",98.92%
+521,"Finch, Laysan (honeycreeper)",Telespyza cantans,E,16.3,"$378,553.64",98.93%
+521,Haha,Cyanea remyi,E,16.3,"$378,569.94",98.93%
+521,Hau kuahiwi,Hibiscadelphus woodii,E,16.3,"$378,586.24",98.94%
+521,Koki`o (=hau-hele`ula or Hawaii tree cotton),Kokia drynarioides,E,16.3,"$378,602.54",98.94%
+525,Phyllostegia kaalaensis (=Sci. name),Phyllostegia kaalaensis,E,16.1,"$378,618.64",98.95%
+525,Phyllostegia parviflora (=Sci. name),Phyllostegia parviflora,E,16.1,"$378,634.74",98.95%
+527,"Pennyroyal, Todsen's",Hedeoma todsenii,E,16.0,"$378,650.74",98.95%
+527,Wawa`iole,Lycopodium nutans,E,16.0,"$378,666.74",98.96%
+529,Hala pepe,Pleomele hawaiiensis,E,15.8,"$378,682.54",98.96%
+529,"Bear-poppy, dwarf",Arctomecon humilis,E,15.8,"$378,698.34",98.97%
+531,"Madtom, yellowfin",Noturus flavipinnis,T,15.76,"$378,714.10",98.97%
+532,"Snail, tulotoma (=Alabama live-bearing)",Tulotoma magnifica,E,15.7,"$378,729.80",98.97%
+532,"Ground-plum, Guthrie's",Astragalus bibullatus,E,15.7,"$378,745.50",98.98%
+534,"Mussel, ring pink (=golf stick pearly)",Obovaria retusa,E,15.63,"$378,761.13",98.98%
+535,"Bladderpod, kodachrome",Lesquerella tumulosa,E,15.6,"$378,776.73",98.99%
+536,"`Akialoa, Kauai (honeycreeper)",Hemignathus procerus,E,15.5,"$378,792.23",98.99%
+536,`O`u (honeycreeper),Psittirostra psittacea,E,15.5,"$378,807.73",98.99%
+536,"Creeper, Molokai (=kakawahie)",Paroreomyza flammea,E,15.5,"$378,823.23",99.00%
+536,"Finch, Nihoa (honeycreeper)",Telespyza ultima,E,15.5,"$378,838.73",99.00%
+536,"Millerbird, Nihoa (old world warbler)",Acrocephalus familiaris kingi,E,15.5,"$378,854.23",99.01%
+536,"Thrush, large Kauai",Myadestes myadestinus,E,15.5,"$378,869.73",99.01%
+536,"Thrush, Molokai (=oloma`o)",Myadestes lanaiensis rutha,E,15.5,"$378,885.23",99.02%
+536,`Oha,Delissea subcordata,E,15.5,"$378,900.73",99.02%
+544,"Phyllostegia knudsenii , (=Sci. name)",Phyllostegia knudsenii,E,15.4,"$378,916.13",99.02%
+545,Kauila,Colubrina oppositifolia,E,15.3,"$378,931.43",99.03%
+545,Loulu,Pritchardia viscosa,E,15.3,"$378,946.73",99.03%
+547,Opuhe,Urera kaalae,E,15.2,"$378,961.93",99.04%
+548,Haha,Cyanea grimesiana spp. obatae,E,15.1,"$378,977.03",99.04%
+548,Hesperomannia arbuscula (=Sci name),Hesperomannia arbuscula,E,15.1,"$378,992.13",99.04%
+548,Phyllostegia mollis (=Sci name),Phyllostegia mollis,E,15.1,"$379,007.23",99.05%
+551,"Sunflower, Schweinitz's",Helianthus schweinitzii,E,15.04,"$379,022.27",99.05%
+552,Alani,Melicope lydgatei,E,15.0,"$379,037.27",99.05%
+553,Kamakahala,Labordia cyrtandrae,E,14.8,"$379,052.07",99.06%
+553,Mariscus pennatiformis (=Sci name),Mariscus pennatiformis,E,14.8,"$379,066.87",99.06%
+553,Schiedea kaalae (=Sci name),Schiedea kaalae,E,14.8,"$379,081.67",99.07%
+556,Pu`uka`a,Cyperus trachysanthos,E,14.6,"$379,096.27",99.07%
+556,Diplazium molokaiense (=Sci name),Diplazium molokaiense,E,14.6,"$379,110.87",99.07%
+558,`Akoko,Chamaesyce celastroides var. kaenana,E,14.5,"$379,125.37",99.08%
+558,`Awiwi,Centaurium sebaeoides,E,14.5,"$379,139.87",99.08%
+558,Aupaka,Isodendrion laurifolium,E,14.5,"$379,154.37",99.09%
+558,Ma`oli`oli,Schiedea kealiae,E,14.5,"$379,168.87",99.09%
+558,"Silversword, `Ahinahina Mauna Kea",Argyroxiphium sandwicense ssp. sandwicense,E,14.5,"$379,183.37",99.09%
+563,"Pearlymussel, birdwing",Conradilla caelata,E,14.36,"$379,197.72",99.10%
+564,"Bird's-beak, soft",Cordylanthus mollis ssp. mollis,E,14.3,"$379,212.02",99.10%
+564,Ha`iwale,Cyrtandra polyantha,E,14.3,"$379,226.32",99.10%
+564,Haha,Cyanea truncata,E,14.3,"$379,240.62",99.11%
+567,Hau kuahiwi,Hibiscadelphus giffardianus,E,14.25,"$379,254.87",99.11%
+568,Lobelia monostachya (=Sci. name),Lobelia monostachya,E,14.2,"$379,269.07",99.12%
+568,Silene perlmanii (=Sci name),Silene perlmanii,E,14.2,"$379,283.27",99.12%
+570,"Shrew, Dismal Swamp southeastern",Sorex longirostris fisheri,T,14.1,"$379,297.37",99.12%
+570,"Darter, duskytail",Etheostoma (Catonotus) sp.,E,14.1,"$379,311.47",99.13%
+570,"Arrowhead, bunched",Sagittaria fasciculata,E,14.1,"$379,325.57",99.13%
+570,"Cactus, Knowlton",Pediocactus knowltonii,E,14.1,"$379,339.67",99.13%
+570,Kamakahala,Labordia tinifolia var. wahiawaensis,E,14.1,"$379,353.77",99.14%
+570,"Locoweed, Fassett's",Oxytropis campestris var. chartacea,T,14.1,"$379,367.87",99.14%
+570,"Paintbrush, soft-leaved",Castilleja mollis,E,14.1,"$379,381.97",99.14%
+570,"Popolo, ku mai (=Popolo, thorny)",Solanum incompletum,E,14.1,"$379,396.07",99.15%
+570,Vigna o-wahuensis (=Sci name),Vigna o-wahuensis,E,14.1,"$379,410.17",99.15%
+579,"Mouse, Choctawahatchee beach",Peromyscus polionotus allophrys,E,14.0,"$379,424.17",99.16%
+579,"Turtle, Plymouth redbelly (=red-bellied)",Pseudemys rubriventris bangsi,E,14.0,"$379,438.17",99.16%
+579,"Beetle, Coffin Cave mold",Batrisodes texanus,E,14.0,"$379,452.17",99.16%
+579,"Beetle, Kretschmarr Cave mold",Texamaurops reddelli,E,14.0,"$379,466.17",99.17%
+579,"Beetle, Tooth Cave ground",Rhadine persephone,E,14.0,"$379,480.17",99.17%
+579,"Harvestman, Bee Creek Cave",Texella reddelli,E,14.0,"$379,494.17",99.17%
+579,"Harvestman, Bone Cave",Texella reyesi,E,14.0,"$379,508.17",99.18%
+579,"Pseudoscorpion, Tooth Cave",Microcreagris texana,E,14.0,"$379,522.17",99.18%
+579,"Spider, Tooth Cave",Leptoneta myopica,E,14.0,"$379,536.17",99.19%
+579,`Oha,Delissea rivularis,E,14.0,"$379,550.17",99.19%
+579,Haha,Cyanea (=Rollandia) humboldtiana,E,14.0,"$379,564.17",99.19%
+579,Haha,Cyanea longiflora,E,14.0,"$379,578.17",99.20%
+579,Kolea,Myrsine juddii,E,14.0,"$379,592.17",99.20%
+579,"Fern, pendant kihi",Adenophorus periens,E,14.0,"$379,606.17",99.20%
+593,Nehe,Lipochaeta tenuifolia,E,13.9,"$379,620.07",99.21%
+594,Alsinodendron viscosum (=Sci. name),Alsinidendron viscosum,E,13.8,"$379,633.87",99.21%
+595,"Frankenia, Johnston's",Frankenia johnstonii,E,13.7,"$379,647.57",99.21%
+595,Loulu,Pritchardia schattaueri,E,13.7,"$379,661.27",99.22%
+595,Platanthera holochila (=Sci. name),Platanthera holochila,E,13.7,"$379,674.97",99.22%
+598,Achyranthes mutica (=Sci. name),Achyranthes mutica,E,13.65,"$379,688.62",99.23%
+598,Phyllostegia velutina (=Sci. name),Phyllostegia velutina,E,13.65,"$379,702.27",99.23%
+598,Phyllostegia warshaueri (=Sci. name),Phyllostegia warshaueri,E,13.65,"$379,715.92",99.23%
+601,Gouania vitifolia (=Sci name),Gouania vitifolia,E,13.6,"$379,729.52",99.24%
+601,Haha,Cyanea recta,T,13.6,"$379,743.12",99.24%
+601,Kolea,Myrsine linearifolia,T,13.6,"$379,756.72",99.24%
+604,Ha`iwale,Cyrtandra crenata,E,13.55,"$379,770.27",99.25%
+605,"Moccasinshell, Coosa",Medionidus parvulus,E,13.5,"$379,783.77",99.25%
+605,`Akoko,Chamaesyce deppeana,E,13.5,"$379,797.27",99.25%
+605,A`e,Zanthoxylum dipetalum var. tomentosum,E,13.5,"$379,810.77",99.26%
+605,Alani,Melicope saint-johnii,E,13.5,"$379,824.27",99.26%
+605,Aupaka,Isodendrion longifolium,T,13.5,"$379,837.77",99.26%
+605,"Cactus, Wright fishhook",Sclerocactus wrightiae,E,13.5,"$379,851.27",99.27%
+605,Gouania meyenii (=Sci name),Gouania meyenii,E,13.5,"$379,864.77",99.27%
+605,Haha,Cyanea platyphylla,E,13.5,"$379,878.27",99.27%
+605,Koki`oke`oke`o,Hibiscus waimeae ssp. hannerae,E,13.5,"$379,891.77",99.28%
+605,Kuawawaenohu,Alsinidendron lychnoides,E,13.5,"$379,905.27",99.28%
+605,Laulihilihi (=Ma`oli`oli),Schiedea stellarioides,E,13.5,"$379,918.77",99.29%
+605,Mapele,Cyrtandra cyaneoides,E,13.5,"$379,932.27",99.29%
+605,Nani wai`ale`ale,Viola kauaiensis var. wahiawaensis,E,13.5,"$379,945.77",99.29%
+605,"Phyllostegia wawrana , (=Sci. name)",Phyllostegia wawrana,E,13.5,"$379,959.27",99.30%
+605,"Schiedea helleri , (=Sci. name)",Schiedea helleri,E,13.5,"$379,972.77",99.30%
+605,"Schiedea membranacea , (=Sci. name)",Schiedea membranacea,E,13.5,"$379,986.27",99.30%
+605,Trematolobelia singularis (=Sci. name),Trematolobelia singularis,E,13.5,"$379,999.77",99.31%
+622,"Ma`aloa, Big Island",Neraudia ovata,E,13.4,"$380,013.17",99.31%
+623,"Pigtoe, Cumberland (=Cumberland pigtoe mussel",Pleurobema gibberum,E,13.3,"$380,026.47",99.31%
+623,"Crayfish, Nashville",Orconectes shoupi,E,13.3,"$380,039.77",99.32%
+623,"Agave, Arizona",Agave arizonica,E,13.3,"$380,053.07",99.32%
+626,"Rabbitsfoot, rough",Quadrula cylindrica strigillata,E,13.26,"$380,066.33",99.32%
+627,Kiponapona,Phyllostegia racemosa,E,13.2,"$380,079.53",99.33%
+628,Hedyotis degeneri (=Sci name),Hedyotis degeneri,E,13.15,"$380,092.68",99.33%
+629,Haha,Cyanea pinnatifida,E,13.1,"$380,105.78",99.33%
+629,Loulu,Pritchardia napaliensis,E,13.1,"$380,118.88",99.34%
+631,Haha,Cyanea dunbarii,E,13.05,"$380,131.93",99.34%
+631,"Love grass, Fosberg's",Eragrostis fosbergii,E,13.05,"$380,144.98",99.34%
+631,Stenogyne kanehoana (=Sci name),Stenogyne kanehoana,E,13.05,"$380,158.03",99.35%
+634,`Anunu,Sicyos alba,E,13.0,"$380,171.03",99.35%
+634,`Oha wai,Clermontia drepanomorpha,E,13.0,"$380,184.03",99.35%
+634,Alani,Melicope zahlbruckneri,E,13.0,"$380,197.03",99.36%
+634,"Goldenrod, white-haired",Solidago albopilosa,T,13.0,"$380,210.03",99.36%
+634,Lau `ehu,Panicum niihauense,E,13.0,"$380,223.03",99.36%
+634,Schiedea kauaiensis (=Sci. name),Schiedea kauaiensis,E,13.0,"$380,236.03",99.37%
+640,"Combshell, Cumberlandian",Epioblasma brevidens,E,12.98,"$380,249.01",99.37%
+641,"Pearlymussel, Cumberland monkeyface",Quadrula intermedia,E,12.76,"$380,261.77",99.37%
+642,Loulu,Pritchardia kaalae,E,12.6,"$380,274.37",99.38%
+643,`Akoko,Chamaesyce herbstii,E,12.5,"$380,286.87",99.38%
+643,`Akoko,Chamaesyce kuwaleana,E,12.5,"$380,299.37",99.38%
+643,Abutilon sandwicense (=Sci name),Abutilon sandwicense,E,12.5,"$380,311.87",99.39%
+643,"Ipomopsis, Holy Ghost",Ipomopsis sancti-spiritus,E,12.5,"$380,324.37",99.39%
+643,Nehe,Lipochaeta lobata var. leptophylla,E,12.5,"$380,336.87",99.39%
+643,Neraudia sericea (=Sci name),Neraudia sericea,E,12.5,"$380,349.37",99.40%
+643,Pamakani,Viola chamissoniana ssp. chamissoniana,E,12.5,"$380,361.87",99.40%
+643,"Roseroot, Leedy's",Sedum integrifolium ssp. leedyi,T,12.5,"$380,374.37",99.40%
+643,Schiedea sarmentosa (=Sci. name),Schiedea sarmentosa,E,12.5,"$380,386.87",99.41%
+643,Asplenium fragile var. insulare (=Sci name),Asplenium fragile var. insulare,E,12.5,"$380,399.37",99.41%
+643,Diellia unisora (=Sci name),Diellia unisora,E,12.5,"$380,411.87",99.41%
+654,"Pigtoe, fine-rayed",Fusconaia cuneolus,E,12.46,"$380,424.32",99.42%
+655,"Darter, goldline",Percina aurolineata,T,12.45,"$380,436.77",99.42%
+656,"Cliff-rose, Arizona",Purshia subintegra,E,12.4,"$380,449.17",99.42%
+657,"Lichen, rock gnome",Gymnoderma lineare,E,12.2,"$380,461.37",99.43%
+658,"Clarkia, Springville",Clarkia springvillensis,T,12.1,"$380,473.47",99.43%
+658,"Chub, Yaqui",Gila purpurea,E,12.1,"$380,485.57",99.43%
+660,"Coqui, golden",Eleutherodactylus jasperi,T,12.0,"$380,497.57",99.44%
+660,"Moccasinshell, Ochlockonee",Medionidus simpsonianus,E,12.0,"$380,509.57",99.44%
+660,"Evening-primrose, Eureka Valley",Oenothera avita ssp. eurekensis,E,12.0,"$380,521.57",99.44%
+660,"Grass, Eureka Dune",Swallenia alexandrae,E,12.0,"$380,533.57",99.45%
+660,Kauai hau kuahiwi,Hibiscadelphus distans,E,12.0,"$380,545.57",99.45%
+665,"Sedge, Navajo",Carex specuicola,T,11.9,"$380,557.47",99.45%
+666,"Pocketbook (mussel), shinyrayed",Lampsilis subangulata,E,11.87,"$380,569.35",99.46%
+667,"Blazingstar, Heller's",Liatris helleri,T,11.6,"$380,580.95",99.46%
+668,"Petrel, Hawaiian dark-rumped",Pterodroma phaeopygia sandwichensis,E,11.5,"$380,592.45",99.46%
+668,"Pupfish, Comanche Springs",Cyprinodon elegans,E,11.5,"$380,603.95",99.46%
+668,"Cinquefoil, Robbins'",Potentilla robbinsiana,E,11.5,"$380,615.45",99.47%
+671,"Cactus, Arizona hedgehog",Echinocereus triglochidiatus var. arizonicus,E,11.3,"$380,626.75",99.47%
+672,"Madtom, Smoky",Noturus baileyi,E,11.2,"$380,637.95",99.47%
+673,"Madtom, Scioto",Noturus trautmani,E,11.0,"$380,648.95",99.48%
+673,"Whitlow-wort, papery",Paronychia chartacea,T,11.0,"$380,659.95",99.48%
+675,"Turtle, flattened musk",Sternotherus depressus,T,10.89,"$380,670.83",99.48%
+676,"Trout, Paiute cutthroat",Oncorhynchus clarki seleniris,T,10.8,"$380,681.63",99.48%
+677,"Elktoe, Cumberland",Alasmidonta atropurpurea,E,10.67,"$380,692.30",99.49%
+678,"Pearlymussel, Appalachian monkeyface",Quadrula sparsa,E,10.6,"$380,702.90",99.49%
+678,"Pearlymussel, dromedary",Dromus dromas,E,10.6,"$380,713.50",99.49%
+680,"Pearlymussel, tubercled-blossom",Epioblasma torulosa torulosa,E,10.5,"$380,724.00",99.50%
+680,"Pitcher-plant, Alabama canebrake",Sarracenia rubra ssp. alabamensis,E,10.5,"$380,734.50",99.50%
+682,"Pigtoe, shiny",Fusconaia cor,E,10.36,"$380,744.86",99.50%
+683,"Milk-vetch, Sentry",Astragalus cremnophylax var. cremnophylax,E,10.3,"$380,755.16",99.50%
+684,"Poolfish, Pahrump",Empetrichthys latos,E,10.26,"$380,765.42",99.51%
+685,"Torreya, Florida",Torreya taxifolia,E,10.2,"$380,775.62",99.51%
+686,"Fern, American hart's-tongue",Asplenium scolopendrium var. americanum,T,10.04,"$380,785.65",99.51%
+687,"Nightjar, Puerto Rican",Caprimulgus noctitherus,E,10.0,"$380,795.65",99.51%
+687,"Cactus, bunched cory",Coryphantha ramillosa,T,10.0,"$380,805.65",99.52%
+687,"Cactus, Lee pincushion",Coryphantha sneedii var. leei,T,10.0,"$380,815.65",99.52%
+690,Kio`ele,Hedyotis coriacea,E,9.99,"$380,825.65",99.52%
+691,"Isopod, Socorro",Thermosphaeroma thermophilus,E,9.83,"$380,835.48",99.52%
+692,"Bean, purple (=Fine-rayed purple pearly mussel)",Villosa perpurpurea,E,9.83,"$380,845.31",99.53%
+693,"Dace, Ash Meadows speckled",Rhinichthys osculus nevadensis,E,9.65,"$380,854.96",99.53%
+694,"Seal, Caribbean monk",Monachus tropicalis,E,9.6,"$380,864.56",99.53%
+694,"Townsendia, Last Chance",Townsendia aprica,T,9.6,"$380,874.16",99.53%
+696,"Pearlymussel, cracking",Hemistena lata,E,9.5,"$380,883.66",99.54%
+696,"Crayfish, cave [no common name]",Cambarus zophonastes,E,9.5,"$380,893.16",99.54%
+696,"Warea, wide-leaf",Warea amplexifolia,E,9.5,"$380,902.66",99.54%
+699,Haplostachys haplostachya (=Sci name),Haplostachys haplostachya,E,9.44,"$380,912.10",99.54%
+699,Stenogyne angustifolia (=Sci name),Stenogyne angustifolia,E,9.44,"$380,921.55",99.55%
+701,"Malocothrix, Santa Cruz Island",Malacothrix indecora,E,9.4,"$380,930.95",99.55%
+701,"Milk-vetch, Osterhout",Astragalus osterhoutii,E,9.4,"$380,940.35",99.55%
+701,"Phacelia, island",Phacelia insularis var. insularis,E,9.4,"$380,949.75",99.55%
+704,"Orcutt grass, Sacramento",Orcuttia viscida,E,9.3,"$380,959.05",99.56%
+705,"Cactus, Siler pincushion",Pediocactus sileri,T,9.2,"$380,968.25",99.56%
+706,"Dropwort, Canby's",Oxypolis canbyi,E,9.1,"$380,977.35",99.56%
+707,"Kangaroo rat, Morro Bay",Dipodomys heermanni morroensis,E,9.0,"$380,986.35",99.56%
+707,"Iguana, Mona ground",Cyclura stejnegeri,T,9.0,"$380,995.35",99.57%
+707,"Pearlymussel, pale lilliput",Toxolasma cylindrellus,E,9.0,"$381,004.35",99.57%
+707,"Cactus, Lloyd's Mariposa",Echinomastus mariposensis,T,9.0,"$381,013.35",99.57%
+707,"Cactus, Peebles Navajo",Pediocactus peeblesianus var. peeblesianus,E,9.0,"$381,022.35",99.57%
+707,"Centaury, spring-loving",Centaurium namophilum,T,9.0,"$381,031.35",99.58%
+707,Geocarpon minimum (=Sci name),Geocarpon minimum,T,9.0,"$381,040.35",99.58%
+707,"Hypericum, highlands scrub",Hypericum cumulicola,E,9.0,"$381,049.35",99.58%
+707,"Milk-vetch, heliotrope",Astragalus montii,T,9.0,"$381,058.35",99.58%
+707,"Niterwort, Amargosa",Nitrophila mohavensis,E,9.0,"$381,067.35",99.59%
+707,Snakeroot,Eryngium cuneifolium,E,9.0,"$381,076.35",99.59%
+707,"Cladonia, Florida perforate",Cladonia perforata,E,9.0,"$381,085.35",99.59%
+719,"Goldfields, Burke's",Lasthenia burkei,E,8.8,"$381,094.15",99.59%
+720,"Bluet, Roan Mountain",Hedyotis purpurea var. montana,E,8.7,"$381,102.85",99.59%
+720,"Goldenrod, Blue Ridge",Solidago spithamaea,T,8.7,"$381,111.55",99.60%
+720,"Spurge, Garber's",Chamaesyce garberi,T,8.7,"$381,120.25",99.60%
+720,"Vetch, Hawaiian",Vicia menziesii,E,8.7,"$381,128.95",99.60%
+724,Delissea rhytidosperma (=Sci name),Delissea rhytidosperma,E,8.5,"$381,137.45",99.60%
+724,"Heather, mountain golden",Hudsonia montana,T,8.5,"$381,145.95",99.61%
+724,Wawae`iole,Huperzia mannii,E,8.5,"$381,154.45",99.61%
+727,Loulu,Pritchardia affinis,E,8.4,"$381,162.85",99.61%
+728,"Whipsnake, (=striped racer) Alameda",Masticophis lateralis euryxanthus,T,8.3,"$381,171.15",99.61%
+728,"Goldenrod, Short's",Solidago shortii,E,8.3,"$381,179.45",99.61%
+730,"Pearlymussel, yellow-blossom",Epioblasma florentina florentina,E,8.1,"$381,187.55",99.62%
+730,"Phacelia, North Park",Phacelia formosula,E,8.1,"$381,195.65",99.62%
+732,"Daisy, lakeside",Hymenoxys herbacea (=acaulis var. glabra^),T,8.06,"$381,203.71",99.62%
+733,"Boa, Mona",Epicrates monensis monensis,T,8.0,"$381,211.71",99.62%
+733,"Boa, Virgin Islands tree",Epicrates monensis granti,E,8.0,"$381,219.71",99.63%
+733,Guajon,Eleutherodactylus cooki,T,8.0,"$381,227.71",99.63%
+733,"Pigtoe, dark",Pleurobema furvum,E,8.0,"$381,235.71",99.63%
+733,"Blue-star, Kearney's",Amsonia kearneyana,E,8.0,"$381,243.71",99.63%
+733,"Cactus, Nichol's Turk's head",Echinocactus horizonthalonius var. nicholii,E,8.0,"$381,251.71",99.63%
+733,Haha,Cyanea hamatiflora ssp. carlsonii,E,8.0,"$381,259.71",99.64%
+733,"Mallow, Peter's Mountain",Iliamna corei,E,8.0,"$381,267.71",99.64%
+733,Po`e,Portulaca sclerocarpa,E,8.0,"$381,275.71",99.64%
+733,"Wire-lettuce, Malheur",Stephanomeria malheurensis,E,8.0,"$381,283.71",99.64%
+733,Wireweed,Polygonella basiramia,E,8.0,"$381,291.71",99.64%
+744,"Rock-cress, shale barren",Arabis serotina,E,7.9,"$381,299.61",99.65%
+745,"Pearlymussel, white wartyback",Plethobasus cicatricosus,E,7.9,"$381,307.51",99.65%
+746,"Pupfish, Warm Springs",Cyprinodon nevadensis pectoralis,E,7.5,"$381,315.01",99.65%
+746,Viola lanaiensis (=Sci name),Viola lanaiensis,E,7.5,"$381,322.51",99.65%
+748,"Lousewort, Furbish",Pedicularis furbishiae,E,7.5,"$381,330.01",99.65%
+749,"Sheep, bighorn (Peninsular Ranges pop. in CA)",Ovis canadensis cremnobates,E,7.37,"$381,337.38",99.66%
+750,Kaulu,Pteralyxia kauaiensis,E,7.3,"$381,344.68",99.66%
+750,"Bladderpod, Dudley Bluffs",Lesquerella congesta,T,7.3,"$381,351.98",99.66%
+750,"Bush-mallow, San Clemente Island",Malacothamnus clementinus,E,7.3,"$381,359.28",99.66%
+750,"Grass, Colusa",Neostapfia colusana,T,7.3,"$381,366.58",99.66%
+750,"Orcutt grass, San Joaquin",Orcuttia inaequalis,T,7.3,"$381,373.88",99.67%
+750,"Owl's-clover, fleshy",Castilleja campestris ssp. succulenta,T,7.3,"$381,381.18",99.67%
+756,"Mustard, Penland alpine fen",Eutrema penlandii,T,7.2,"$381,388.38",99.67%
+757,"Mouse, Anastasia Island beach",Peromyscus polionotus phasma,E,7.0,"$381,395.38",99.67%
+757,"Lizard, St. Croix ground",Ameiva polops,E,7.0,"$381,402.38",99.67%
+757,"Snail, Chittenango ovate amber",Succinea chittenangoensis,T,7.0,"$381,409.38",99.67%
+757,"Blazingstar, Ash Meadows",Mentzelia leucophylla,T,7.0,"$381,416.38",99.68%
+757,Cordia bellonis,Cordia bellonis,E,7.0,"$381,423.38",99.68%
+757,Eugenia woodburyana (=Sci name),Eugenia woodburyana,E,7.0,"$381,430.38",99.68%
+757,"Geranium, Hawaiian red-flowered",Geranium arboreum,E,7.0,"$381,437.38",99.68%
+757,Gesneria pauciflora (=Sci name),Gesneria pauciflora,T,7.0,"$381,444.38",99.68%
+757,"Gumplant, Ash Meadows",Grindelia fraxino-pratensis,T,7.0,"$381,451.38",99.69%
+757,"Ivesia, Ash Meadows",Ivesia kingii var. eremica,T,7.0,"$381,458.38",99.69%
+757,Mahoe,Alectryon macrococcus,E,7.0,"$381,465.38",99.69%
+757,"Manzanita, Santa Rosa Island",Arctostaphylos confertiflora,E,7.0,"$381,472.38",99.69%
+757,"Milk-vetch, Ash meadows",Astragalus phoenix,T,7.0,"$381,479.38",99.69%
+757,"Rosa, palo de",Ottoschulzia rhodoxylon,E,7.0,"$381,486.38",99.69%
+757,"Sunray, Ash Meadows",Enceliopsis nudicaulis var. corrugata,T,7.0,"$381,493.38",99.70%
+757,Vernonia proctorii (=Sci name),Vernonia proctorii,E,7.0,"$381,500.38",99.70%
+773,Ko`oko`olau,Bidens micrantha ssp. kalealaha,E,6.9,"$381,507.28",99.70%
+774,"Darter, bluemask (=jewel)",Etheostoma (Doration) sp.,E,6.6,"$381,513.88",99.70%
+774,"Pearlymussel, green-blossom",Epioblasma torulosa gubernaculum,E,6.6,"$381,520.48",99.70%
+774,"Pearlymussel, turgid-blossom",Epioblasma turgidula,E,6.6,"$381,527.08",99.71%
+774,"Gilia, Hoffmann's slender-flowered",Gilia tenuiflora ssp. hoffmannii,E,6.6,"$381,533.68",99.71%
+778,"Chub, Chihuahua",Gila nigrescens,T,6.5,"$381,540.18",99.71%
+778,"Pigtoe, rough",Pleurobema plenum,E,6.5,"$381,546.68",99.71%
+778,"Springsnail, Socorro",Pyrgulopsis neomexicana,E,6.5,"$381,553.18",99.71%
+778,"Beauty, Harper's",Harperocallis flava,E,6.5,"$381,559.68",99.71%
+778,"Lead-plant, Crenulate",Amorpha crenulata,E,6.5,"$381,566.18",99.72%
+778,"Milkpea, Small's",Galactia smallii,E,6.5,"$381,572.68",99.72%
+778,"Pawpaw, four-petal",Asimina tetramera,E,6.5,"$381,579.18",99.72%
+778,"Polygala, tiny",Polygala smallii,E,6.5,"$381,585.68",99.72%
+778,"Rosemary, Apalachicola",Conradina glabra,E,6.5,"$381,592.18",99.72%
+778,"Spurge, deltoid",Chamaesyce deltoidea ssp. deltoidea,E,6.5,"$381,598.68",99.72%
+788,"Twinpod, Dudley Bluffs",Physaria obcordata,T,6.4,"$381,605.08",99.73%
+789,Delissea undulata (=Sci name),Delissea undulata,E,6.3,"$381,611.38",99.73%
+789,"Beetle, delta green ground",Elaphrus viridis,T,6.3,"$381,617.68",99.73%
+789,"Butterfly, callippe silverspot",Speyeria callippe callippe,E,6.3,"$381,623.98",99.73%
+789,"Butterfly, Lange's metalmark",Apodemia mormo langei,E,6.3,"$381,630.28",99.73%
+789,"Wild-buckwheat, clay-loving",Eriogonum pelinophilum,E,6.3,"$381,636.58",99.73%
+794,"Grass, Tennessee yellow-eyed",Xyris tennesseensis,E,6.1,"$381,642.68",99.74%
+794,"Primrose, Maguire",Primula maguirei,T,6.1,"$381,648.78",99.74%
+796,"Button, Mohr's Barbara",Marshallia mohrii,T,6.03,"$381,654.81",99.74%
+797,"Catfish, Yaqui",Ictalurus pricei,T,6.0,"$381,660.81",99.74%
+797,"Shiner, beautiful",Cyprinella formosa,T,6.0,"$381,666.81",99.74%
+797,`Aiea,Nothocestrum breviflorum,E,6.0,"$381,672.81",99.74%
+797,"Ambrosia, south Texas",Ambrosia cheiranthifolia,E,6.0,"$381,678.81",99.75%
+797,"Bird's-beak, salt marsh",Cordylanthus maritimus ssp. maritimus,E,6.0,"$381,684.81",99.75%
+797,"Blazingstar, scrub",Liatris ohlingerae,E,6.0,"$381,690.81",99.75%
+797,"Chumbo, higo",Harrisia portoricensis,T,6.0,"$381,696.81",99.75%
+797,Erubia,Solanum drymophilum,E,6.0,"$381,702.81",99.75%
+797,"Evening-primrose, San Benito",Camissonia benitensis,T,6.0,"$381,708.81",99.75%
+797,"Manioc, Walker's",Manihot walkerae,E,6.0,"$381,714.81",99.75%
+797,"Pitaya, Davis' green",Echinocereus viridiflorus var. davisii,E,6.0,"$381,720.81",99.76%
+797,"Plum, scrub",Prunus geniculata,E,6.0,"$381,726.81",99.76%
+797,"Spineflower, Monterey",Chorizanthe pungens var. pungens,T,6.0,"$381,732.81",99.76%
+797,"Tree, pygmy fringe",Chionanthus pygmaeus,E,6.0,"$381,738.81",99.76%
+811,Capa rosa,Callicarpa ampla,E,5.8,"$381,744.61",99.76%
+811,Chupacallos (=Chupagallo),Pleodendron macranthum,E,5.8,"$381,750.41",99.76%
+813,"Sculpin, pygmy",Cottus pygmaeus,T,5.7,"$381,756.11",99.77%
+813,"Gooseberry, Miccosukee (Florida)",Ribes echinellum,T,5.7,"$381,761.81",99.77%
+815,Munroidendron racemosum (=Sci name),Munroidendron racemosum,E,5.6,"$381,767.41",99.77%
+816,"Heartleaf, dwarf-flowered",Hexastylis naniflora,T,5.59,"$381,773.00",99.77%
+817,"Chub, slender",Erimystax cahni,T,5.56,"$381,778.55",99.77%
+818,"Chub, Borax Lake",Gila boraxobius,E,5.5,"$381,784.05",99.77%
+818,"Madtom, pygmy",Noturus stanauli,E,5.5,"$381,789.55",99.77%
+818,"Chaff-flower, round-leaved",Achyranthes splendens var. rotundata,E,5.5,"$381,795.05",99.78%
+821,"Butterfly, San Bruno elfin",Callophrys mossii bayensis,E,5.3,"$381,800.35",99.78%
+821,"Evening-primrose, Antioch Dunes",Oenothera deltoides ssp. howellii,E,5.3,"$381,805.65",99.78%
+821,"Fiddleneck, Large-flowered",Amsinckia grandiflora,E,5.3,"$381,810.95",99.78%
+821,"Sunshine, Sonoma (=Stickyseed, Baker's)",Blennosperma bakeri,E,5.3,"$381,816.25",99.78%
+821,"Trillium, persistent",Trillium persistens,E,5.3,"$381,821.55",99.78%
+821,"Wallflower, Contra Costa",Erysimum capitatum var. angustatum,E,5.3,"$381,826.85",99.78%
+827,"Skink, sand",Neoseps reynoldsi,T,5.2,"$381,832.05",99.79%
+828,"Beaked-rush, Knieskern's",Rhynchospora knieskernii,T,5.1,"$381,837.15",99.79%
+829,"`Aiakeakua, popolo",Solanum sandwicense,E,5.03,"$381,842.18",99.79%
+830,"Snake, Concho water",Nerodia paucimaculata,T,5.0,"$381,847.18",99.79%
+830,"Darter, slackwater",Etheostoma boschungi,T,5.0,"$381,852.18",99.79%
+830,Aristida chaseae (=Sci name),Aristida chaseae,E,5.0,"$381,857.18",99.79%
+830,Bariaco,Trichilia triacantha,E,5.0,"$381,862.18",99.79%
+830,"Boxwood, Vahl's",Buxus vahlii,E,5.0,"$381,867.18",99.79%
+830,Chamaecrista glandulosa var. mirabilis (=Sci,Chamaecrista glandulosa var. mirabilis,E,5.0,"$381,872.18",99.80%
+830,"Goetzea, beautiful (matabuey)",Goetzea elegans,E,5.0,"$381,877.18",99.80%
+830,Higuero de Sierra,Crescentia portoricensis,E,5.0,"$381,882.18",99.80%
+830,"Kuahiwi, laukahi",Plantago hawaiensis,E,5.0,"$381,887.18",99.80%
+830,Lyonia truncata var. proctorii (=Sci name),Lyonia truncata var. proctorii,E,5.0,"$381,892.18",99.80%
+830,Mitracarpus maxwelliae (=Sci name),Mitracarpus maxwelliae,E,5.0,"$381,897.18",99.80%
+830,Mitracarpus polycladus (=Sci name),Mitracarpus polycladus,E,5.0,"$381,902.18",99.80%
+830,Pelos del diablo,Aristida portoricensis,E,5.0,"$381,907.18",99.80%
+830,"Prairie-clover, leafy",Dalea foliosa,E,5.0,"$381,912.18",99.81%
+830,Schoepfia arenaria (=Sci name),Schoepfia arenaria,T,5.0,"$381,917.18",99.81%
+845,"Cycladenia, Jones",Cycladenia humilis var. jonesii,T,4.9,"$381,922.08",99.81%
+846,Uvillo,Eugenia haematocarpa,E,4.8,"$381,926.88",99.81%
+847,"Whale, finback",Balaenoptera physalus,E,4.75,"$381,931.63",99.81%
+847,"Whale, Sei",Balaenoptera borealis,E,4.75,"$381,936.38",99.81%
+847,"Whale, sperm",Physeter macrocephalus (=catodon),E,4.75,"$381,941.13",99.81%
+850,"Barberry, island",Berberis pinnata ssp. insularis,E,4.5,"$381,945.63",99.81%
+850,"Lupine, scrub",Lupinus aridorum,E,4.5,"$381,950.13",99.82%
+850,"Skullcap, Florida",Scutellaria floridana,T,4.5,"$381,954.63",99.82%
+853,"Riversnail, Anthony's",Athearnia anthonyi,E,4.42,"$381,959.05",99.82%
+854,Palo de jazmin,Styrax portoricensis,E,4.4,"$381,963.45",99.82%
+855,"Buckwheat, steamboat",Eriogonum ovalifolium var. williamsiae,E,4.3,"$381,967.75",99.82%
+855,"Goldfields, Contra Costa",Lasthenia conjugens,E,4.3,"$381,972.05",99.82%
+855,Haha,Cyanea lobata,E,4.3,"$381,976.35",99.82%
+855,Diellia pallida (=laciniata) (=Sci name),Diellia pallida (=laciniata),E,4.3,"$381,980.65",99.82%
+859,"Whale, blue",Balaenoptera musculus,E,4.25,"$381,984.90",99.83%
+860,"Shagreen, Magazine Mountain",Mesodon magazinensis,T,4.1,"$381,989.00",99.83%
+860,Haha,Cyanea stictophylla,E,4.1,"$381,993.10",99.83%
+860,"Ischaemum, Hilo",Ischaemum byrone,E,4.1,"$381,997.20",99.83%
+860,Kamakahala,Labordia lydgatei,E,4.1,"$382,001.30",99.83%
+860,"Poppy-mallow, Texas",Callirhoe scabriuscula,E,4.1,"$382,005.40",99.83%
+865,"Naucorid, Ash Meadows",Ambrysus amargosus,T,4.0,"$382,009.40",99.83%
+865,"Isopod, Lee County cave",Lirceus usdagalun,E,4.0,"$382,013.40",99.83%
+865,A`e,Zanthoxylum hawaiiense,E,4.0,"$382,017.40",99.83%
+865,Alani,Melicope haupuensis,E,4.0,"$382,021.40",99.83%
+865,Alani,Melicope quadrangularis,E,4.0,"$382,025.40",99.84%
+865,Auerodendron pauciflorum (=Sci name),Auerodendron pauciflorum,E,4.0,"$382,029.40",99.84%
+865,"Bluegrass, San Bernardino",Poa atropurpurea,E,4.0,"$382,033.40",99.84%
+865,Calyptranthes thomasiana (=Sci name),Calyptranthes thomasiana,E,4.0,"$382,037.40",99.84%
+865,Cyanea undulata (=Sci name),Cyanea undulata,E,4.0,"$382,041.40",99.84%
+865,Haha,Cyanea asarifolia,E,4.0,"$382,045.40",99.84%
+865,Lepanthes eltoroensis (=Sci name),Lepanthes eltoroensis,E,4.0,"$382,049.40",99.84%
+865,Leptocereus grantianus (=Sci name),Leptocereus grantianus,E,4.0,"$382,053.40",99.84%
+865,Makou,Peucedanum sandwicense,T,4.0,"$382,057.40",99.84%
+865,"Negra, cobana",Stahlia monosperma,T,4.0,"$382,061.40",99.85%
+865,Palo de Nigua,Cornutia obovata,E,4.0,"$382,065.40",99.85%
+865,"Peperomia, Wheeler's",Peperomia wheeleri,E,4.0,"$382,069.40",99.85%
+865,Phyllostegia waimeae (=Sci name),Phyllostegia waimeae,E,4.0,"$382,073.40",99.85%
+865,Poa siphonoglossa (=Sci name),Poa siphonoglossa,E,4.0,"$382,077.40",99.85%
+865,Stenogyne campanulata (=Sci name),Stenogyne campanulata,E,4.0,"$382,081.40",99.85%
+865,Ternstroemia subsessilis (=Sci name),Ternstroemia subsessilis,E,4.0,"$382,085.40",99.85%
+865,Xylosma crenatum (=Sci name),Xylosma crenatum,E,4.0,"$382,089.40",99.85%
+886,"Spider, spruce-fir moss",Microhexura montivaga,E,3.9,"$382,093.30",99.85%
+887,"Dace, Kendall Warm Springs",Rhinichthys osculus thermalis,E,3.8,"$382,097.10",99.85%
+887,"Darter, bayou",Etheostoma rubrum,T,3.8,"$382,100.90",99.86%
+887,Palo colorado,Ternstroemia luquillensis,E,3.8,"$382,104.70",99.86%
+890,"Fatmucket, Arkansas",Lampsilis powelli,T,3.7,"$382,108.40",99.86%
+891,"Pigtoe, heavy (=Judge Tait's mussel)",Pleurobema taitianum,E,3.7,"$382,112.10",99.86%
+892,"Snail, flat-spired three-toothed",Triodopsis platysayoides,T,3.67,"$382,115.76",99.86%
+893,Ha`iwale,Cyrtandra limahuliensis,T,3.65,"$382,119.41",99.86%
+894,Heau,Exocarpos luteolus,E,3.6,"$382,123.01",99.86%
+894,Viola helenae (=Sci name),Viola helenae,E,3.6,"$382,126.61",99.86%
+896,Haha,Cyanea shipmannii,E,3.55,"$382,130.16",99.86%
+897,"Springsnail, Alamosa",Tryonia alamosae,E,3.5,"$382,133.66",99.86%
+897,`Aiea,Nothocestrum peltatum,E,3.5,"$382,137.16",99.86%
+897,`Oha wai,Clermontia peleana,E,3.5,"$382,140.66",99.87%
+897,`Oha wai,Clermontia pyrularia,E,3.5,"$382,144.16",99.87%
+897,Alani,Melicope knudsenii,E,3.5,"$382,147.66",99.87%
+897,Alani,Melicope pallida,E,3.5,"$382,151.16",99.87%
+897,"Bluegrass, Hawaiian",Poa sandvicensis,E,3.5,"$382,154.66",99.87%
+897,"Bluegrass, Mann's",Poa mannii,E,3.5,"$382,158.16",99.87%
+897,Chamaesyce halemanui (=Sci name),Chamaesyce halemanui,E,3.5,"$382,161.66",99.87%
+897,Dubautia latifolia (=Sci name),Dubautia latifolia,E,3.5,"$382,165.16",99.87%
+897,Ha`iwale,Cyrtandra tintinnabula,E,3.5,"$382,168.66",99.87%
+897,Haha,Cyanea copelandii ssp. copelandii,E,3.5,"$382,172.16",99.87%
+897,Hesperomannia lydgatei (=Sci name),Hesperomannia lydgatei,E,3.5,"$382,175.66",99.87%
+897,Holei,Ochrosia kilaueaensis,E,3.5,"$382,179.16",99.88%
+897,"Iliau, dwarf",Wilkesia hobdyi,E,3.5,"$382,182.66",99.88%
+897,Lysimachia filifolia (=Sci name),Lysimachia filifolia,E,3.5,"$382,186.16",99.88%
+897,"Mint, Garrett's (=scrub, in part)",Dicerandra christmanii,E,3.5,"$382,189.66",99.88%
+897,"Mint, scrub",Dicerandra frutescens,E,3.5,"$382,193.16",99.88%
+897,"Mustard, Carter's",Warea carteri,E,3.5,"$382,196.66",99.88%
+897,Nehe,Lipochaeta fauriei,E,3.5,"$382,200.16",99.88%
+897,Nehe,Lipochaeta micrantha,E,3.5,"$382,203.66",99.88%
+897,Nehe,Lipochaeta waimeaensis,E,3.5,"$382,207.16",99.88%
+897,"Panicgrass, Carter's",Panicum fauriei var. carteri,E,3.5,"$382,210.66",99.88%
+897,"Pawpaw, Rugel's",Deeringothamnus rugelii,E,3.5,"$382,214.16",99.89%
+897,Remya kauaiensis (=Sci name),Remya kauaiensis,E,3.5,"$382,217.66",99.89%
+897,Remya montgomeryi (=Sci name),Remya montgomeryi,E,3.5,"$382,221.16",99.89%
+897,"Schiedea, Diamond Head",Schiedea adamantis,E,3.5,"$382,224.66",99.89%
+897,"Ziziphus, florida",Ziziphus celata,E,3.5,"$382,228.16",99.89%
+897,Ihi`ihi,Marsilea villosa,E,3.5,"$382,231.66",99.89%
+897,Tectaria estremerana (=Sci name),Tectaria estremerana,E,3.5,"$382,235.16",99.89%
+927,"Phacelia, clay",Phacelia argillacea,E,3.4,"$382,238.56",99.89%
+928,"Chub, Mohave tui",Gila bicolor mohavensis,E,3.3,"$382,241.86",99.89%
+928,Aupaka,Isodendrion hosakae,E,3.3,"$382,245.16",99.89%
+928,"Bedstraw, El Dorado",Galium californicum ssp. sierrae,E,3.3,"$382,248.46",99.89%
+928,"Ceanothus, Pine Hill",Ceanothus roderickii,E,3.3,"$382,251.76",99.89%
+928,Cyanea macrostegia ssp. gibsonii (=Sci name),Cyanea macrostegia ssp. gibsonii,E,3.3,"$382,255.06",99.90%
+928,"Dogweed, ashy",Thymophylla tephroleuca,E,3.3,"$382,258.36",99.90%
+928,"Flannelbush, Pine Hill",Fremontodendron californicum ssp. decumbens,E,3.3,"$382,261.66",99.90%
+928,"Manzanita, pallid",Arctostaphylos pallida,T,3.3,"$382,264.96",99.90%
+928,"Morning-glory, Stebbins'",Calystegia stebbinsii,E,3.3,"$382,268.26",99.90%
+928,"Navarretia, many-flowered",Navarretia leucocephala ssp. plieantha,E,3.3,"$382,271.56",99.90%
+928,Stenogyne bifida (=Sci name),Stenogyne bifida,E,3.3,"$382,274.86",99.90%
+939,Loulu,Pritchardia munroi,E,3.25,"$382,278.11",99.90%
+940,"Curlew, Eskimo",Numenius borealis,E,3.2,"$382,281.31",99.90%
+941,"Rattleweed, hairy",Baptisia arachnifera,E,3.17,"$382,284.48",99.90%
+942,Lipochaeta venosa (=Sci name),Lipochaeta venosa,E,3.15,"$382,287.63",99.90%
+942,Tetramolopium arenarium (=Sci name),Tetramolopium arenarium,E,3.15,"$382,290.78",99.91%
+944,Gahnia lanaiensis (=Sci name),Gahnia lanaiensis,E,3.1,"$382,293.88",99.91%
+944,Haha,Cyanea procera,E,3.1,"$382,296.98",99.91%
+944,"Remya, Maui",Remya mauiensis,E,3.1,"$382,300.08",99.91%
+947,"Snake, Atlantic salt marsh",Nerodia clarkii taeniata,T,3.05,"$382,303.13",99.91%
+948,`Awiwi,Hedyotis cookiana,E,3.0,"$382,306.13",99.91%
+948,`Oha wai,Clermontia oblongifolia ssp. brevipes,E,3.0,"$382,309.13",99.91%
+948,`Oha wai,Clermontia oblongifolia ssp. mauiensis,E,3.0,"$382,312.13",99.91%
+948,Abutilon eremitopetalum (=Sci name),Abutilon eremitopetalum,E,3.0,"$382,315.13",99.91%
+948,Alani,Melicope adscendens,E,3.0,"$382,318.13",99.91%
+948,Alani,Melicope mucronulata,E,3.0,"$382,321.13",99.91%
+948,Alani,Melicope ovalis,E,3.0,"$382,324.13",99.91%
+948,Amaranthus brownii (=Sci. name),Amaranthus brownii,E,3.0,"$382,327.13",99.91%
+948,"Bedstraw, island",Galium buxifolium,E,3.0,"$382,330.13",99.92%
+948,"Cactus, star",Astrophytum asterias,E,3.0,"$382,333.13",99.92%
+948,Ha`iwale,Cyrtandra giffardii,E,3.0,"$382,336.13",99.92%
+948,Ha`iwale,Cyrtandra munroi,E,3.0,"$382,339.13",99.92%
+948,"Hibiscus, Clay's",Hibiscus clayi,E,3.0,"$382,342.13",99.92%
+948,Ko`oloa`ula,Abutilon menziesii,E,3.0,"$382,345.13",99.92%
+948,"Leather flower, Alabama",Clematis socialis,E,3.0,"$382,348.13",99.92%
+948,Mariscus fauriei (=Sci name),Mariscus fauriei,E,3.0,"$382,351.13",99.92%
+948,Myrcia paganii (=Sci name),Myrcia paganii,E,3.0,"$382,354.13",99.92%
+948,Palo de Ramon,Banara vanderbiltii,E,3.0,"$382,357.13",99.92%
+948,Phyllostegia glabra var. lanaiensis (=Sci nam,Phyllostegia glabra var. lanaiensis,E,3.0,"$382,360.13",99.92%
+948,Phyllostegia mannii (=Sci name),Phyllostegia mannii,E,3.0,"$382,363.13",99.92%
+948,"Rock-cress, Hoffmann's",Arabis hoffmannii,E,3.0,"$382,366.13",99.92%
+948,"Rush-rose, island",Helianthemum greenei,T,3.0,"$382,369.13",99.93%
+948,Sandlace,Polygonella myriophylla,E,3.0,"$382,372.13",99.93%
+948,Tetramolopium remyi (=Sci name),Tetramolopium remyi,E,3.0,"$382,375.13",99.93%
+948,Wahane (=Hawane or loulu),Pritchardia aylmer-robinsonii,E,3.0,"$382,378.13",99.93%
+973,"Piperia, Yadon's",Piperia yadonii,E,2.9,"$382,381.03",99.93%
+974,Ilex sintenisii (=Sci name),Ilex sintenisii,E,2.8,"$382,383.83",99.93%
+974,Pilo,Hedyotis mannii,E,2.8,"$382,386.63",99.93%
+976,"Snail, Iowa Pleistocene",Discus macclintocki,E,2.75,"$382,389.38",99.93%
+977,"Naupaka, dwarf",Scaevola coriacea,E,2.7,"$382,392.08",99.93%
+978,"Skink, bluetail mole",Eumeces egregius lividus,T,2.6,"$382,394.68",99.93%
+978,"Cactus, Chisos Mtn. hedgehog",Echinocereus chisoensis var. chisoensis,T,2.6,"$382,397.28",99.93%
+978,Pamakani,Tetramolopium capillare,E,2.6,"$382,399.88",99.93%
+978,Silene alexandri (=Sci name),Silene alexandri,E,2.6,"$382,402.48",99.93%
+982,"Buckwheat, cushenbury",Eriogonum ovalifolium var. vineum,E,2.55,"$382,405.03",99.93%
+983,"Duck, Laysan",Anas laysanensis,E,2.5,"$382,407.53",99.94%
+983,"`Akoko, Ewa Plains",Chamaesyce skottsbergii var. kalaeloana,E,2.5,"$382,410.03",99.94%
+983,`Awikiwiki,Canavalia molokaiensis,E,2.5,"$382,412.53",99.94%
+983,`Olulu,Brighamia insignis,E,2.5,"$382,415.03",99.94%
+983,Alani,Melicope balloui,E,2.5,"$382,417.53",99.94%
+983,Alani,Melicope reflexa,E,2.5,"$382,420.03",99.94%
+983,"Birds-in-a-nest, white",Macbridea alba,T,2.5,"$382,422.53",99.94%
+983,"Bush-mallow, Santa Cruz Island",Malacothamnus fasciculatus var. nesioticus,E,2.5,"$382,425.03",99.94%
+983,"Coneflower, Tennessee purple",Echinacea tennesseensis,E,2.5,"$382,427.53",99.94%
+983,Dubautia pauciflorula (=Sci name),Dubautia pauciflorula,E,2.5,"$382,430.03",99.94%
+983,"Fringepod (=lacepod), Santa Cruz Island",Thysanocarpus conchuliferus,E,2.5,"$382,432.53",99.94%
+983,Gouania hillebrandii (=Sci name),Gouania hillebrandii,E,2.5,"$382,435.03",99.94%
+983,Haha,Cyanea mannii,E,2.5,"$382,437.53",99.94%
+983,Haha,Cyanea mceldowneyi,E,2.5,"$382,440.03",99.94%
+983,"Hedyotis, Na Pali beach",Hedyotis st.-johnii,E,2.5,"$382,442.53",99.94%
+983,Ko`oko`olau,Bidens wiebkei,E,2.5,"$382,445.03",99.95%
+983,Koki`oke`oke`o,Hibiscus arnottianus ssp. immaculatus,E,2.5,"$382,447.53",99.95%
+983,"Kula, wahine noho",Isodendrion pyrifolium,E,2.5,"$382,450.03",99.95%
+983,Lysimachia lydgatei (=Sci name),Lysimachia lydgatei,E,2.5,"$382,452.53",99.95%
+983,Ma`oli`oli,Schiedea apokremnos,E,2.5,"$382,455.03",99.95%
+983,"Malacothrix, island",Malacothrix squalida,E,2.5,"$382,457.53",99.95%
+983,Nehe,Lipochaeta kamolensis,E,2.5,"$382,460.03",99.95%
+983,Nohoanu,Geranium multiflorum,E,2.5,"$382,462.53",99.95%
+983,Pau`ala,Brighamia rockii,E,2.5,"$382,465.03",99.95%
+983,Pritchardia remota (=Sci name),Pritchardia remota,E,2.5,"$382,467.53",99.95%
+983,"Sandalwood, Lanai or `iliahi",Santalum freycinetianum var. lanaiense,E,2.5,"$382,470.03",99.95%
+983,Schiedea haleakalensis (=Sci name),Schiedea haleakalensis,E,2.5,"$382,472.53",99.95%
+983,Schiedea lydgatei (=Sci name),Schiedea lydgatei,E,2.5,"$382,475.03",99.95%
+983,Schiedea spergulina var. leiopoda (=Sci name),Schiedea spergulina var. leiopoda,E,2.5,"$382,477.53",99.95%
+983,Schiedea spergulina var. spergulina (=Sci name),Schiedea spergulina var. spergulina,T,2.5,"$382,480.03",99.95%
+983,Schiedea verticillata (=Sci name),Schiedea verticillata,E,2.5,"$382,482.53",99.96%
+983,"Silversword, Haleakala (`ahinahina)",Argyroxiphium sandwicense ssp. macrocephalum,E,2.5,"$382,485.03",99.96%
+983,"Spurge, telephus",Euphorbia telephioides,T,2.5,"$382,487.53",99.96%
+983,Tetramolopium rockii (=Sci name),Tetramolopium rockii,T,2.5,"$382,490.03",99.96%
+983,Elaphoglossum serpens (=Sci name),Elaphoglossum serpens,E,2.5,"$382,492.53",99.96%
+983,Polystichum calderonense (=Sci name),Polystichum calderonense,E,2.5,"$382,495.03",99.96%
+983,"Quillwort, mat-forming",Isoetes tegetiformans,E,2.5,"$382,497.53",99.96%
+983,Thelypteris inabonensis (=Sci name),Thelypteris inabonensis,E,2.5,"$382,500.03",99.96%
+983,Thelypteris verecunda (=Sci name),Thelypteris verecunda,E,2.5,"$382,502.53",99.96%
+983,Thelypteris yaucoensis (=Sci name),Thelypteris yaucoensis,E,2.5,"$382,505.03",99.96%
+1023,"Grass, Solano",Tuctoria mucronata,E,2.3,"$382,507.33",99.96%
+1023,"Thistle, Suisun",Cirsium hydrophilum var. hydrophilum,E,2.3,"$382,509.63",99.96%
+1025,"Pigtoe, flat (=Marshall's mussel)",Pleurobema marshalli,E,2.22,"$382,511.85",99.96%
+1025,Stirrupshell,Quadrula stapes,E,2.22,"$382,514.07",99.96%
+1027,"Shiner, Cahaba",Notropis cahabae,E,2.2,"$382,516.27",99.96%
+1027,"Fern, Alabama streak-sorus",Thelypteris pilosa var. alabamensis,T,2.2,"$382,518.47",99.96%
+1029,"Bladderpod, San Bernardino Mountains",Lesquerella kingii ssp. bernardina,E,2.05,"$382,520.52",99.97%
+1029,"Daisy, Parish's",Erigeron parishii,T,2.05,"$382,522.56",99.97%
+1029,"Milk-vetch, Cushenbury",Astragalus albens,E,2.05,"$382,524.61",99.97%
+1029,"Oxytheca, cushenbury",Oxytheca parishii var. goodmaniana,E,2.05,"$382,526.66",99.97%
+1033,Rice rat (=silver rice rat),Oryzomys palustris natator,E,2.0,"$382,528.66",99.97%
+1033,"Vole, Amargosa",Microtus californicus scirpensis,E,2.0,"$382,530.66",99.97%
+1033,"Sparrow, San Clemente sage",Amphispiza belli clementeae,T,2.0,"$382,532.66",99.97%
+1033,"Salamander, desert slender",Batrachoseps aridus,E,2.0,"$382,534.66",99.97%
+1033,"Beetle, Mount Hermon June",Polyphylla barbata,E,2.0,"$382,536.66",99.97%
+1033,"Butterfly, Smith's blue",Euphilotes enoptes smithi,E,2.0,"$382,538.66",99.97%
+1033,"Crayfish, cave [no common name]",Cambarus aculabrum,E,2.0,"$382,540.66",99.97%
+1033,"Ayenia, Texas",Ayenia limitaris,E,2.0,"$382,542.66",99.97%
+1033,"Broom, San Clemente Island",Lotus dendroideus ssp. traskiae,E,2.0,"$382,544.66",99.97%
+1033,"Clover, Monterey (=Del Monte)",Trifolium trichocalyx,E,2.0,"$382,546.66",99.97%
+1033,Cranichis ricartii (=Sci name),Cranichis ricartii,E,2.0,"$382,548.66",99.97%
+1033,"Crownbeard, big-leaved",Verbesina dissita,T,2.0,"$382,550.66",99.97%
+1033,"Dudleya, Santa Cruz Island",Dudleya nesiotica,T,2.0,"$382,552.66",99.97%
+1033,"Holly, Cook's",Ilex cookii,E,2.0,"$382,554.66",99.97%
+1033,"Larkspur, San Clemente Island",Delphinium variegatum ssp. kinkiense,E,2.0,"$382,556.66",99.97%
+1033,"Milk-vetch, coastal dunes",Astragalus tener var. titi,E,2.0,"$382,558.66",99.98%
+1033,"Mountain-mahogany, Catalina Island",Cercocarpus traskiae,E,2.0,"$382,560.66",99.98%
+1033,"Potentilla, Hickman's",Potentilla hickmanii,E,2.0,"$382,562.66",99.98%
+1033,"Seablite, California",Suaeda californica,E,2.0,"$382,564.66",99.98%
+1033,"Water-plantain, Kral's",Sagittaria secundifolia,T,2.0,"$382,566.66",99.98%
+1033,"Cypress, Gowen",Cupressus goveniana ssp. goveniana,T,2.0,"$382,568.66",99.98%
+1054,"Pussypaws, Mariposa",Calyptridium pulchellum,T,1.9,"$382,570.56",99.98%
+1055,"Moth, Kern primrose sphinx",Euproserpinus euterpe,T,1.8,"$382,572.36",99.98%
+1055,"Alopecurus, Sonoma",Alopecurus aequalis var. sonomensis,E,1.8,"$382,574.16",99.98%
+1055,"Butterwort, Godfrey's",Pinguicula ionantha,T,1.8,"$382,575.96",99.98%
+1055,"Clover, showy Indian",Trifolium amoenum,E,1.8,"$382,577.76",99.98%
+1059,"Taraxacum, California",Taraxacum californicum,E,1.7,"$382,579.46",99.98%
+1060,"Reed-mustard, Barneby",Schoenocrambe barnebyi,E,1.6,"$382,581.06",99.98%
+1061,"Skipper, Pawnee montane",Hesperia leonardus montana,T,1.5,"$382,582.56",99.98%
+1061,"Cactus, Key tree",Pilosocereus robinii,E,1.5,"$382,584.06",99.98%
+1061,"Gourd, Okeechobee",Cucurbita okeechobeensis ssp. okeechobeensis,E,1.5,"$382,585.56",99.98%
+1061,"Harebells, Avon Park",Crotalaria avonensis,E,1.5,"$382,587.06",99.98%
+1061,"Polygala, Lewton's",Polygala lewtonii,E,1.5,"$382,588.56",99.98%
+1061,"Snowbells, Texas",Styrax texana,E,1.5,"$382,590.06",99.98%
+1061,"Quillwort, black spored",Isoetes melanospora,E,1.5,"$382,591.56",99.98%
+1068,"Water-willow, Cooley's",Justicia cooleyi,E,1.32,"$382,592.88",99.98%
+1069,"Warbler, Bachman's",Vermivora bachmanii,E,1.3,"$382,594.18",99.98%
+1069,"Allocarya, Calistoga",Plagiobothrys strictus,E,1.3,"$382,595.48",99.98%
+1069,"Barberry, Truckee",Berberis sonnei,E,1.3,"$382,596.78",99.98%
+1069,"Bluegrass, Napa",Poa napensis,E,1.3,"$382,598.08",99.99%
+1069,"Brodiaea, Chinese Camp",Brodiaea pallida,T,1.3,"$382,599.38",99.99%
+1069,"Checker-mallow, Kenwood Marsh",Sidalcea oregana ssp. valida,E,1.3,"$382,600.68",99.99%
+1069,"Clarkia, Vine Hill",Clarkia imbricata,E,1.3,"$382,601.98",99.99%
+1069,"Lessingia, San Francisco",Lessingia germanorum (=L. g. var. germanorum),E,1.3,"$382,603.28",99.99%
+1069,"Lily, Pitkin Marsh",Lilium pardalinum ssp. pitkinense,E,1.3,"$382,604.58",99.99%
+1069,"Manzanita, Presido (=Raven's)",Arctostaphylos hookeri var. ravenii,E,1.3,"$382,605.88",99.99%
+1069,"Meadowfoam, Butte County",Limnanthes floccosa ssp. californica,E,1.3,"$382,607.18",99.99%
+1069,"Meadowfoam, Sebastopol",Limnanthes vinculans,E,1.3,"$382,608.48",99.99%
+1069,"Milk-vetch, Clara Hunt's",Astragalus clarianus,E,1.3,"$382,609.78",99.99%
+1069,"Navarretia, few-flowered",Navarretia leucocephala ssp. pauciflora,E,1.3,"$382,611.08",99.99%
+1069,"Sedge, white",Carex albida,E,1.3,"$382,612.38",99.99%
+1069,"Stonecrop, Lake County",Parvisedum leiocarpum,E,1.3,"$382,613.68",99.99%
+1069,"Sunburst, Hartweg's golden",Pseudobahia bahiifolia,E,1.3,"$382,614.98",99.99%
+1069,"Sunburst, San Joaquin adobe",Pseudobahia peirsonii,T,1.3,"$382,616.28",99.99%
+1069,"Thistle, Loch Lomond coyote",Eryngium constancei,E,1.3,"$382,617.58",99.99%
+1069,"Vervain, Red Hills",Verbena californica,T,1.3,"$382,618.88",99.99%
+1089,"Whale, bowhead",Balaena mysticetus,E,1.25,"$382,620.13",99.99%
+1090,"Darter, watercress",Etheostoma nuchale,E,1.2,"$382,621.33",99.99%
+1090,"Silverside, Waccamaw",Menidia extensa,T,1.2,"$382,622.53",99.99%
+1090,"Buttercup, autumn",Ranunculus acriformis var. aestivalis,E,1.2,"$382,623.73",99.99%
+1093,"Bulrush, Northeastern (=barbed bristle)",Scirpus ancistrochaetus,E,1.17,"$382,624.89",99.99%
+1094,"Clubshell, black (=Curtus' mussel)",Pleurobema curtum,E,1.13,"$382,626.02",99.99%
+1095,"Cougar, eastern",Felis concolor couguar,E,1.1,"$382,627.12",99.99%
+1095,"Cactus, Cochise pincushion",Coryphantha robbinsorum,T,1.1,"$382,628.22",99.99%
+1097,"Gambusia, Clear Creek",Gambusia heterochir,E,1.0,"$382,629.22",99.99%
+1097,"Shiner, Palezone",Notropis sp.,E,1.0,"$382,630.22",99.99%
+1097,"Three-ridge (mussel), fat",Amblema neislerii,E,1.0,"$382,631.22",99.99%
+1097,"Marstonia (snail), royal (=obese)",Pyrgulopsis ogmoraphe,E,1.0,"$382,632.22",99.99%
+1097,"Snail, painted snake coiled forest",Anguispira picta,T,1.0,"$382,633.22",99.99%
+1097,"Bonamia, Florida",Bonamia grandiflora,T,1.0,"$382,634.22",99.99%
+1097,"Buckwheat, scrub",Eriogonum longifolium var. gnaphalifolium,T,1.0,"$382,635.22",100.00%
+1097,"Cactus, black lace",Echinocereus reichenbachii var. albertii,E,1.0,"$382,636.22",100.00%
+1097,"Cactus, Lloyd's hedgehog",Echinocereus lloydii,E,1.0,"$382,637.22",100.00%
+1097,"Cactus, Nellie cory",Escobaria minima,E,1.0,"$382,638.22",100.00%
+1097,"Cat's-eye, Terlingua Creek",Cryptantha crassipes,E,1.0,"$382,639.22",100.00%
+1097,"Liveforever, Santa Barbara Island",Dudleya traskiae,E,1.0,"$382,640.22",100.00%
+1097,"Mint, Lakela's",Dicerandra immaculata,E,1.0,"$382,641.22",100.00%
+1097,"Wild-buckwheat, gypsum",Eriogonum gypsophilum,T,1.0,"$382,642.22",100.00%
+1111,"Pocketbook, speckled",Lampsilis streckeri,E,0.8,"$382,643.02",100.00%
+1111,"Sandwort, Cumberland",Arenaria cumberlandensis,E,0.8,"$382,643.82",100.00%
+1113,Rock-cress,Arabis perstellata,E,0.7,"$382,644.52",100.00%
+1114,"Reed-mustard, clay",Schoenocrambe argillacea,T,0.6,"$382,645.12",100.00%
+1114,"Ridge-cress (=pepper-cress), Barneby",Lepidium barnebyanum,E,0.6,"$382,645.72",100.00%
+1114,"Rosemary, Cumberland",Conradina verticillata,T,0.6,"$382,646.32",100.00%
+1117,"Darter, Maryland",Etheostoma sellare,E,0.5,"$382,646.82",100.00%
+1117,"Butterfly, Behren's silverspot",Speyeria zerene behrensii,E,0.5,"$382,647.32",100.00%
+1117,"Butterfly, lotis blue",Lycaeides argyrognomon lotis,E,0.5,"$382,647.82",100.00%
+1117,"Aster, Florida golden",Chrysopsis floridana,E,0.5,"$382,648.32",100.00%
+1117,"Beargrass, Britton's",Nolina brittoniana,E,0.5,"$382,648.82",100.00%
+1117,"Bellflower, Brooksville",Campanula robinsiae,E,0.5,"$382,649.32",100.00%
+1117,"Jacquemontia, beach",Jacquemontia reclinata,E,0.50,"$382,649.82",100.00%
+1117,"Mint, longspurred",Dicerandra cornutissima,E,0.50,"$382,650.32",100.00%
+1117,"Pawpaw, beautiful",Deeringothamnus pulchellus,E,0.50,"$382,650.82",100.00%
+1117,"Prickly-apple, fragrant",Cereus eriophorus var. fragrans,E,0.50,"$382,651.32",100.00%
+1117,"Wings, Pigeon",Clitoria fragrans,T,0.50,"$382,651.82",100.00%
+1128,"Snail, noonday",Mesodon clarki nantahala,T,0.40,"$382,652.22",100.00%
+1128,"Groundsel, San Francisco Peaks",Senecio franciscanus,T,0.40,"$382,652.62",100.00%
+1130,"Bladderpod, Spring Creek",Lesquerella perforata,E,0.30,"$382,652.92",100.00%
+1130,"Irisette, white",Sisyrinchium dichotomum,E,0.30,"$382,653.22",100.00%
+1132,"Woodpecker, ivory-billed",Campephilus principalis,E,0.20,"$382,653.42",100.00%
+1132,"Darter, relict",Etheostoma chienense,E,0.20,"$382,653.62",100.00%
+1132,"Bittercress, small-anthered",Cardamine micranthera,E,0.20,"$382,653.82",100.00%
+1132,"Cress, toad-flax",Schoenocrambe suffrutescens,E,0.20,"$382,654.02",100.00%
+1136,"Beardtongue, Penland",Penstemon penlandii,E,0.10,"$382,654.12",100.00%
+1137,"Birch, Virginia round-leaf",Betula uber,T,0.06,"$382,654.18",100.00%
+1138,"Seal, guadalupe fur",Arctocephalus townsendi,T,-,"$382,654.18",100.00%
+1138,"Vole, Florida salt marsh",Microtus pennsylvanicus dukecampbelli,E,-,"$382,654.18",100.00%
+1138,"Crow, white-necked",Corvus leucognaphalus,E,-,"$382,654.18",100.00%
+1138,"Anole, Culebra Island giant",Anolis roosevelti,E,-,"$382,654.18",100.00%
+1138,"Salamander, Shenandoah",Plethodon shenandoah,E,-,"$382,654.18",100.00%
+1138,"Cavefish, Alabama",Speoplatyrhinus poulsoni,E,-,"$382,654.18",100.00%
+1138,"Slabshell, Chipola",Elliptio chipolaensis,T,-,"$382,654.18",100.00%
+1138,"Snail, Virginia fringed mountain",Polygyriscus virginianus,E,-,"$382,654.18",100.00%
+1138,"Amphipod, Hay's Spring",Stygobromus hayi,E,-,"$382,654.18",100.00%
+1138,"Isopod, Madison Cave",Antrolana lira,T,-,"$382,654.18",100.00%
+1138,"Shrimp, Kentucky cave",Palaemonias ganteri,E,-,"$382,654.18",100.00%
+1138,"Shrimp, Squirrel Chimney Cave (=Florida cave)",Palaemonetes cummingi,T,-,"$382,654.18",100.00%
+1138,"Bidens, cuneate",Bidens cuneata,E,-,"$382,654.18",100.00%
+1138,"Bladderpod, lyrate",Lesquerella lyrata,T,-,"$382,654.18",100.00%
+1138,"Bluecurls, Hidden Lake",Trichostema austromontanum ssp. compactum,T,-,"$382,654.18",100.00%
+1138,"Leather flower, Morefield's",Clematis morefieldii,E,-,"$382,654.18",100.00%
+1138,"Manaca, palma de",Calyptronoma rivalis,T,-,"$382,654.18",100.00%
+1138,"Oak, Hinckley",Quercus hinckleyi,T,-,"$382,654.18",100.00%
+1138,"Paintbrush, ash-grey",Castilleja cinerea,T,-,"$382,654.18",100.00%
+1138,"Pondweed, Little Aguja Creek",Potamogeton clystocarpus,E,-,"$382,654.18",100.00%
+1138,"Prickly-ash, St. Thomas",Zanthoxylum thomasianum,E,-,"$382,654.18",100.00%
+1138,"Rosemary, Etonia",Conradina etonia,E,-,"$382,654.18",100.00%
+1138,"Rosemary, short-leaved",Conradina brevifolia,E,-,"$382,654.18",100.00%
+1138,"Sandwort, Bear Valley",Arenaria ursina,T,-,"$382,654.18",100.00%
+1138,"Walnut, West Indian or nogal",Juglans jamaicensis,E,-,"$382,654.18",100.00%
+1138,"Wild-buckwheat, southern mountain",Eriogonum kennedyi var. austromontanum,T,-,"$382,654.18",100.00%
+1138,Adiantum vivesii (=Sci name),Adiantum vivesii,E,-,"$382,654.18",100.00%
+1138,"Fern, Aleutian shield",Polystichum aleuticum,E,-,"$382,654.18",100.00%
+1138,"Fern, Elfin tree",Cyathea dryopteroides,E,-,"$382,654.18",100.00%

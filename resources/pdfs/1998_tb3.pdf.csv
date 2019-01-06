@@ -1,0 +1,165 @@
+RANK,SPECIES NAME (50 CFR PART 17),STATUS,FWS TOTAL,OTHER FED,FED TOTAL,"STATESTOTAL","SPECIES TOTAL($000)"
+,MAMMALS,,,,,,
+78.0,"Bat, gray",E,0.30,-,0.30,-,0.30
+246.0,"Bat, Hawaiian hoary",E,556.00,-,556.00,-,556.00
+33.0,"Bat, Indiana",E,0.30,8.00,8.30,-,8.30
+15.0,"Bear, grizzly",T,-,30.00,30.00,-,30.00
+87.0,"Bear, Louisiana black",T,40.50,-,40.50,-,40.50
+1095.0,"Cougar, eastern",E,0.50,-,0.50,-,0.50
+161.0,"Deer, Columbian white-tailed",E,60.00,-,60.00,-,60.00
+118.0,"Deer, key",E,5.50,-,5.50,-,5.50
+65.0,"Fox, San Joaquin kit",E,79.00,367.00,446.00,-,446.00
+229.0,Jaguarundi,E,167.00,-,167.00,-,167.00
+285.0,Jaguarundi,E,167.00,-,167.00,-,167.00
+148.0,"Kangaroo rat, Tipton",E,167.00,-,167.00,-,167.00
+39.0,"Manatee, West Indian (=Florida)",E,314.20,-,314.20,-,314.20
+185.0,"Mouse, Alabama beach",E,710.00,-,710.00,-,710.00
+487.0,"Mouse, Key Largo cotton",E,49.50,-,49.50,-,49.50
+17.0,"Panther, Florida",E,0.70,-,0.70,-,0.70
+164.0,"Rabbit, Lower Keys",E,5.50,-,5.50,-,5.50
+1033.0,Rice rat (=silver rice rat),E,5.60,-,5.60,-,5.60
+59.0,"Wolf, red",E,4.60,-,4.60,-,4.60
+516.0,"Woodrat, Key Largo",E,49.50,-,49.50,-,49.50
+,,,,,,,
+,BIRDS,,,,,,
+258.0,"`Akepa, Hawaii (honeycreeper)",E,556.00,-,556.00,-,556.00
+258.0,`Akiapola`au (honeycreeper),E,556.00,-,556.00,-,556.00
+536.0,`O`u (honeycreeper),E,556.00,-,556.00,-,556.00
+421.0,"Caracara, Audubon's crested",T,0.70,-,0.70,-,0.70
+61.0,"Crane, Mississippi sandhill",E,3.00,-,3.00,-,3.00
+255.0,"Creeper, Hawaii",E,556.00,-,556.00,-,556.00
+79.0,"Duck, Hawaiian (=koloa)",E,556.00,-,556.00,-,556.00
+13.0,"Eagle, bald",T,"4,252.90","1,304.60","5,557.50",-,"5,557.50"
+26.0,"Falcon, American peregrine",E,"3,680.90",-,"3,680.90",276.10,"3,957.00"
+10.0,"Flycatcher, southwestern willow",E,272.00,105.00,377.00,-,377.00
+34.0,"Gnatcatcher, coastal California",T,272.00,-,272.00,-,272.00
+107.0,"Goose, Aleutian Canada",T,"1,014.00",-,"1,014.00",-,"1,014.00"
+140.0,"Goose, Hawaiian (=nene)",E,556.00,-,556.00,-,556.00
+302.0,"Hawk, Hawaiian (=io)",E,556.00,-,556.00,-,556.00
+81.0,"Jay, Florida scrub",T,321.10,-,321.10,-,321.10
+206.0,"Kite, Everglade snail",E,117.70,-,117.70,-,117.70
+155.0,"Pelican, brown",E,"1,003.00",-,"1,003.00",-,"1,003.00"
+30.0,"Plover, piping","E, T","1,667.40",-,"1,667.40",-,"1,667.40"
+131.0,"Rail, Yuma clapper",E,-,-,-,2.13,2.13
+77.0,"Stork, wood",E,238.20,-,238.20,-,238.20
+50.0,"Tern, least",E,23.90,-,23.90,-,23.90
+50.0,"Vireo, black-capped",E,400.00,-,400.00,-,400.00
+32.0,"Vireo, least Bell's",E,622.00,-,622.00,-,622.00
+55.0,"Warbler, golden-cheeked",E,"1,300.00",-,"1,300.00",-,"1,300.00"
+75.0,"Warbler, Kirtland's",E,-,402.00,402.00,-,402.00
+8.0,"Woodpecker, red-cockaded",E,942.20,-,942.20,-,942.20
+,,,-,,,,
+,REPTILES,,-,,,,
+215.0,"Crocodile, American",E,69.50,-,69.50,-,69.50
+137.0,"Lizard, blunt-nosed leopard",E,79.00,367.00,446.00,-,446.00
+978.0,"Skink, bluetail mole",T,56.00,-,56.00,-,56.00
+827.0,"Skink, sand",T,56.00,-,56.00,-,56.00
+138.0,"Snake, eastern indigo",T,244.40,-,244.40,-,244.40
+86.0,"Snake, giant garter",T,567.00,-,567.00,-,567.00
+16.0,"Tortoise, desert",T,-,"25,035.00","25,035.00",-,"25,035.00"
+89.0,"Tortoise, gopher",T,"1,216.00",-,"1,216.00",-,"1,216.00"
+43.0,"Turtle, green sea","E, T",173.20,-,173.20,-,173.20
+60.0,"Turtle, hawksbill sea (=carey)",E,163.00,-,163.00,-,163.00
+51.0,"Turtle, Kemp's ridley sea",E,0.60,-,0.60,-,0.60
+54.0,"Turtle, leatherback sea",E,163.70,-,163.70,-,163.70
+37.0,"Turtle, loggerhead sea",T,936.50,-,936.50,-,936.50
+486.0,"Turtle, ringed map (=sawback)",T,2.00,-,2.00,-,2.00
+,,,,,,,
+,AMPHIBIANS,,,,,,
+74.0,"Frog, California red-legged",T,272.00,100.00,372.00,-,372.00
+63.0,"Toad, Arroyo southwestern",E,272.00,-,272.00,-,272.00
+,,,,,,,
+,FISHES,,,,,,
+47.0,"Chub, bonytail",E,-,1.00,1.00,-,1.00
+42.0,"Chub, humpback",E,-,2.00,2.00,-,2.00
+226.0,"Darter, leopard",T,-,66.00,66.00,-,66.00
+818.0,"Madtom, pygmy",E,0.20,-,0.20,-,0.20
+36.0,"Salmon, chinook, Sacramento R. winter",T,113.00,-,113.00,-,113.00
+3.0,"Salmon, chinook, Snake R. fall run",T,-,500.00,500.00,-,500.00
+2.0,"Salmon, chinook, Snake R. spring/sum",T,-,500.00,500.00,-,500.00
+1.0,"Salmon, coho",T,-,520.00,520.00,-,520.00
+4.0,"Salmon, sockeye (=red, =blueback), Sn",E,-,500.00,500.00,-,500.00
+172.0,"Spinedace, Little Colorado",T,-,-,-,"1,824.30","1,824.30"
+18.0,"Squawfish, Colorado",E,-,5.00,5.00,-,5.00
+5.0,Steelhead (Snake R. Basin),T,-,500.00,500.00,-,500.00
+31.0,Steelhead (upper Columbia R. Basin),E,-,-,-,976.70,976.70
+90.0,"Sturgeon, Gulf",T,2.00,-,2.00,-,2.00
+12.0,"Sucker, razorback",E,-,5.00,5.00,-,5.00
+,,,,,,,
+,CLAMS,,,,,,
+254.0,"Moccasinshell, Alabama",T,-,600.00,600.00,-,600.00
+534.0,"Mussel, ring pink (=golf stick pearly)",E,0.20,-,0.20,-,0.20
+281.0,"Pearlymussel, orange-foot pimpleback",E,0.20,-,0.20,-,0.20
+179.0,"Pearlymussel, pink mucket",E,5.20,-,5.20,-,5.20
+778.0,"Pigtoe, rough",E,0.20,-,0.20,-,0.20
+,,,,,,,
+,SNAILS,,,,,,
+321.0,"Snail, Stock Island tree",T,5.50,-,5.50,-,5.50
+,,,,,,,
+,INSECTS,,,,,,
+124.0,"Beetle, valley elderberry longhorn",T,674.00,-,674.00,-,674.00
+71.0,"Butterfly, Karner blue",E,-,29.00,29.00,125.00,154.00
+94.0,"Butterfly, Mitchell's satyr",E,-,80.00,80.00,-,80.00
+199.0,"Butterfly, Quino checkerspot",E,272.00,-,272.00,-,272.00
+310.0,"Butterfly, Schaus swallowtail",E,44.00,-,44.00,-,44.00
+,,,,,,,
+,CRUSTACEANS,,,,,,
+154.0,"Fairy shrimp, riverside",E,272.00,-,272.00,-,272.00
+134.0,"Fairy shrimp, San Diego",E,272.00,-,272.00,-,272.00
+93.0,"Fairy shrimp, vernal pool",T,797.00,370.00,"1,167.00",-,"1,167.00"
+113.0,"Tadpole shrimp, vernal pool",E,797.00,370.00,"1,167.00",-,"1,167.00"
+,,,,,,,
+,FLOWERING PLANTS,,,,,,
+797.0,`Aiea (Nothocestrum breviflorum),E,556.00,-,556.00,-,556.00
+897.0,`Oha wai (Clermontia pyrularia),E,556.00,-,556.00,-,556.00
+159.0,"Amaranth, seabeach",T,3.00,-,3.00,-,3.00
+1117.0,"Beargrass, Britton's",E,56.00,-,56.00,-,56.00
+928.0,"Bedstraw, El Dorado",E,-,110.00,110.00,-,110.00
+165.0,"Bird's beak, palmate-bracted",E,59.00,70.00,129.00,-,129.00
+797.0,"Blazingstar, scrub",E,56.00,-,56.00,-,56.00
+1097.0,"Bonamia, Florida",T,56.00,-,56.00,-,56.00
+1097.0,"Buckwheat, scrub",T,56.00,-,56.00,-,56.00
+126.0,"Button-celery, San Diego",E,272.00,-,272.00,-,272.00
+1061.0,"Cactus, Key tree",E,5.50,-,5.50,-,5.50
+928.0,"Ceanothus, Pine Hill",E,-,110.00,110.00,-,110.00
+157.0,"Chaffseed, American",E,9.00,-,9.00,-,9.00
+928.0,"Flannelbush, Pine Hill",E,-,110.00,110.00,-,110.00
+245.0,"Grass, California Orcutt",E,272.00,-,272.00,-,272.00
+948.0,Ha`iwale (Cyrtandra munroi ),E,556.00,-,556.00,-,556.00
+860.0,Haha (Cyanea stictophylla ),E,556.00,-,556.00,-,556.00
+1061.0,"Harebells, Avon Park",E,56.00,-,56.00,-,56.00
+135.0,"Howellia, water",T,48.00,-,48.00,-,48.00
+707.0,"Hypericum, highlands scrub",E,56.00,-,56.00,-,56.00
+372.0,"Iris, dwarf lake",T,-,-,-,40.00,40.00
+570.0,"Locoweed, Fassett's",T,-,-,-,43.00,43.00
+850.0,"Lupine, scrub",E,56.00,-,56.00,-,56.00
+204.0,"Mesa-mint, Otay",E,272.00,-,272.00,-,272.00
+211.0,"Mesa-mint, San Diego",E,272.00,-,272.00,-,272.00
+897.0,"Mint, Garrett's (=scrub, in part)",E,56.00,-,56.00,-,56.00
+1097.0,"Mint, Lakela's",E,0.60,-,0.60,-,0.60
+897.0,"Mint, scrub",E,56.00,-,56.00,-,56.00
+928.0,"Morning-glory, Stebbins'",E,-,110.00,110.00,-,110.00
+897.0,"Mustard, Carter's",E,56.00,-,56.00,-,56.00
+147.0,"Orchid, eastern prairie fringed",T,-,-,-,30.00,30.00
+778.0,"Pawpaw, four-petal",E,0.60,-,0.60,-,0.60
+598.0,Phyllostegia velutina (=Sci. name),E,556.00,-,556.00,-,556.00
+797.0,"Plum, scrub",E,56.00,-,56.00,-,56.00
+1061.0,"Polygala, Lewton's",E,56.00,-,56.00,-,56.00
+1138.0,"Rosemary, short-leaved",E,56.00,-,56.00,-,56.00
+948.0,Sandlace,E,56.00,-,56.00,-,56.00
+707.0,Snakeroot,E,56.00,-,56.00,-,56.00
+188.0,"Spineflower, slender-horned",E,-,414.00,414.00,-,414.00
+720.0,"Spurge, Garber's",T,5.50,-,5.50,-,5.50
+797.0,"Tree, pygmy fringe",E,56.00,-,56.00,-,56.00
+673.0,"Whitlow-wort, papery",T,56.00,-,56.00,-,56.00
+1117.0,"Wings, Pigeon",T,56.00,-,56.00,-,56.00
+733.0,Wireweed,E,56.00,-,56.00,-,56.00
+897.0,"Ziziphus, florida",E,56.00,-,56.00,-,56.00
+,,,,,,,
+,FERNS AND ALLIES,,,,,,
+643.0,Asplenium fragile var. insulare (=Sci na,E,556.00,-,556.00,-,556.00
+,,,,,,,
+,LICHENS,,,,,,
+707.0,"Cladonia, Florida perforate",E,56.00,-,56.00,-,56.00
+,,,,,,,
+,TOTAL,,"35,662.30","32,690.60","68,352.90","3,317.23","71,670.13"

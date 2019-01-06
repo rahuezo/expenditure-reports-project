@@ -3,16 +3,18 @@ from aesthetics import fix_rows
 
 import numpy as np
 import csv
-
+import unicodecsv as ucsv
 # COLUMNS = [77, 164, 207, 414, 466, 560, 655, 767, 871, 983]
 
 
 def write_to_csv(f, rows): 
     print "\nWriting {} rows to {}\n".format(len(rows), f)
 
+
     with open(f, "wb") as out_csv: 
-        writer = csv.writer(out_csv, delimiter=",")
+        writer = ucsv.writer(out_csv, delimiter=",")
         writer.writerows(rows)
+
 
     print "\tFinished!\n"
 
@@ -30,7 +32,7 @@ def pdf_to_csv(f, outf=None):
 
     while True: 
         try: 
-            df = read_pdf(f, lattice=True, pages=page_count) # Only get ith page in pdf
+            df = read_pdf(f, spreadsheet=True, pages=page_count) # Only get ith page in pdf
             df = df.replace(np.nan, "", regex=True)
 
             if page_count == 1: 
@@ -38,9 +40,12 @@ def pdf_to_csv(f, outf=None):
 
             rows_container.extend(df.values.tolist())
             page_count += 1
-        except: 
+        except Exception as e: 
             break
     
+    if df is None: 
+        raise Exception("Table couldn't be extracted from {}".format(f))
+
     print "\tPage Count: {}".format(page_count)
 
     avg_columns = get_average_columns(rows_container)

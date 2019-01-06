@@ -1,0 +1,174 @@
+Land Rank,Species (50 CFR Part 17),Status,"FWSTotal ($)","OtherFed ($)","FedTotal ($)","StatesTotal ($)","SpeciesTotal ($)"
+6.0,"Bat, Indiana (Myotis sodalis)",E,0,"3,953,405","3,953,405",0,"3,953,405"
+22.0,"Bear, grizzly (Ursus arctos horribilis)",T,0,"815,000","815,000","384,400","1,199,400"
+2.0,"Bear, Louisiana black (Ursus americanusluteolus)",T,"7,707,000","6,502,900","14,209,900",0,"14,209,900"
+85.0,"Deer, key (Odocoileus virginianus clavium)",E,"215,722",0,"215,722",0,"215,722"
+120.0,"Ferret, black-footed (Mustela nigripes)",E,"32,000",0,"32,000",0,"32,000"
+108.0,"Fox, San Joaquin kit (Vulpes macrotismutica)",E,"81,400",0,"81,400",0,"81,400"
+25.0,"Kangaroo rat, Morro Bay (Dipodomysheermanni morroensis)",E,0,"94,000","94,000","1,030,000","1,124,000"
+48.0,"Lynx, Canada (Lynx canadensis)",T,0,"1,000","1,000","394,400","395,400"
+7.0,"Manatee, West Indian (Trichechus manatus)",E,"3,258,456",0,"3,258,456",0,"3,258,456"
+92.0,"Mouse, Alabama beach (Peromyscuspolionotus ammobates)",E,"126,000",0,"126,000",0,"126,000"
+98.0,"Rabbit, Lower Keys marsh (Sylvilaguspalustris hefneri)",E,"111,722",0,"111,722",0,"111,722"
+10.0,"Rabbit, riparian brush (Sylvilagus bachmaniriparius)",E,"2,962,500",0,"2,962,500",0,"2,962,500"
+98.0,Rice rat (Oryzomys palustris natator),E,"111,722",0,"111,722",0,"111,722"
+106.0,"Sheep, bighorn (Ovis canadensis)",E,"100,000",0,"100,000",0,"100,000"
+8.0,"Sheep, bighorn (Ovis canadensiscaliforniana)",E,0,0,0,"3,020,000","3,020,000"
+48.0,"Wolf, gray (Canis lupus)","E,T",0,"1,000","1,000","394,400","395,400"
+,Mammals Subtotal,,"14,706,522","11,367,305","26,073,827","5,223,200","31,297,027"
+,,,,,,,
+40.0,"Crane, Mississippi sandhill (Gruscanadensis pulla)",E,"598,000",0,"598,000",0,"598,000"
+1.0,"Eagle, bald (Haliaeetus leucocephalus)",T,"20,073,093","1,350,260","21,423,353","320,800","21,744,153"
+54.0,"Elepaio, Oahu (Chasiempis sandwichensisibidis)",E,"355,045",0,"355,045",0,"355,045"
+18.0,"Flycatcher, southwestern willow(Empidonax traillii extimus)",E,"1,408,100",0,"1,408,100",0,"1,408,100"
+71.0,"Gnatcatcher, coastal California (Polioptilacalifornica californica)",T,"336,000",0,"336,000",0,"336,000"
+134.0,"Jay, Florida scrub (Aphelocomacoerulescens)",T,"11,217",0,"11,217",0,"11,217"
+44.0,"Murrelet, marbled (Brachyramphusmarmoratus marmoratus)",T,"543,000",0,"543,000",0,"543,000"
+118.0,"Owl, northern spotted (Strix occidentaliscaurina)",T,"36,100",0,"36,100",0,"36,100"
+23.0,Palila (honeycreeper) (Loxioides bailleui),E,0,"1,180,000","1,180,000",0,"1,180,000"
+9.0,"Pelican, brown (Pelecanus occidentalis)",E,"2,996,350",0,"2,996,350",0,"2,996,350"
+87.0,"Plover, piping (Charadrius melodus)","E,T","188,000",0,"188,000",0,"188,000"
+113.0,"Plover, western snowy (Charadriusalexandrinus nivosus)",T,"63,100",0,"63,100",0,"63,100"
+45.0,"Prairie-chicken, Attwater's greater(Tympanuchus cupido attwateri)",E,"517,916",0,"517,916",0,"517,916"
+136.0,"Rail, Yuma clapper (Rallus longirostris",E,0,0,0,"1,500","1,500"
+,yumanensis),,,,,,
+32.0,"Stork, wood (Mycteria americana)",E,"1,027,178",0,"1,027,178",0,"1,027,178"
+5.0,"Vireo, black-capped (Vireo atricapilla)",E,"1,894,230",0,"1,894,230","2,127,300","4,021,530"
+71.0,"Vireo, least Bell's (Vireo bellii pusillus)",E,"336,000",0,"336,000",0,"336,000"
+4.0,"Warbler (=wood), golden-cheeked(Dendroica chrysoparia)",E,"1,894,231",0,"1,894,231","2,127,300","4,021,531"
+14.0,"Woodpecker, red-cockaded (Picoidesborealis)",E,"820,000","983,000","1,803,000",0,"1,803,000"
+,Birds Subtotal,,"33,097,560","3,513,260","36,610,820","4,576,900","41,187,720"
+,,,,,,,
+108.0,"Lizard, blunt-nosed leopard (Gambeliasilus)",E,"81,400",0,"81,400",0,"81,400"
+12.0,"Lizard, Coachella Valley fringe-toed (Umainornata)",T,"2,000,000",0,"2,000,000","35,000","2,035,000"
+13.0,"Sea turtle, green (Chelonia mydas)","E,T","1,875,806",0,"1,875,806",0,"1,875,806"
+38.0,"Sea turtle, hawksbill (Eretmochelysimbricata)",E,"683,706",0,"683,706",0,"683,706"
+47.0,"Sea turtle, Kemp's ridley (Lepidochelyskempii)",E,"430,556",0,"430,556",0,"430,556"
+81.0,"Sea turtle, leatherback (Dermochelyscoriacea)",E,"325,350",0,"325,350",0,"325,350"
+15.0,"Sea turtle, loggerhead (Caretta caretta)",T,"1,769,558",0,"1,769,558",0,"1,769,558"
+147.0,"Skink, sand (Neoseps reynoldsi)",T,213,0,213,0,213
+50.0,"Snake, Atlantic salt marsh (Nerodia clarkiitaeniata)",T,"394,456",0,"394,456",0,"394,456"
+96.0,"Snake, eastern indigo (Drymarchon coraiscouperi)",T,"111,939",0,"111,939",0,"111,939"
+102.0,"Snake, giant garter (Thamnophis gigas)",T,"105,100",0,"105,100",0,"105,100"
+3.0,"Tortoise, desert (Gopherus agassizii)",T,0,"12,132,000","12,132,000","657,000","12,789,000"
+20.0,"Tortoise, gopher (Gopherus polyphemus)",T,"832,000","486,500","1,318,500",0,"1,318,500"
+110.0,"Turtle, bog (=Muhlenberg) (Clemmysmuhlenbergii)",T,0,0,0,"80,000","80,000"
+131.0,"Turtle, ringed map (Graptemys oculifera)",T,"12,000",0,"12,000",0,"12,000"
+,,,,,,,
+34.0,"Frog, California red-legged (Rana auroradraytonii)",T,"827,000",0,"827,000",0,"827,000"
+46.0,"Salamander, California tiger (Ambystomacaliforniense)",E,"491,000",0,"491,000",0,"491,000"
+84.0,"Salamander, Santa Cruz long-toed(Ambystoma macrodactylum croceum)",E,"250,000",0,"250,000",0,"250,000"
+71.0,"Toad, arroyo (=arroyo southwestern) (Bufocalifornicus (=microscaphus))",E,"336,000",0,"336,000",0,"336,000"
+,Amphibians Subtotal,,"1,904,000",0,"1,904,000",0,"1,904,000"
+,,,,,,,
+111.0,"Darter, watercress (Etheostoma nuchale)",E,"77,000",0,"77,000",0,"77,000"
+121.0,"Goby, tidewater (Eucyclogobius newberryi)",E,"27,000",0,"27,000",0,"27,000"
+128.0,"Pupfish, Owens (Cyprinodon radiosus)",E,0,"15,000","15,000",0,"15,000"
+53.0,"Salmon, AtlanticGulf of Maine Atlantic Salmon DPS (Salmo",E,0,0,0,"369,400","369,400"
+,salar),,,,,,
+92.0,"Salmon, chinookfall Snake R. (Oncorhynchus (=Salmo)tshawytscha)",T,0,"126,000","126,000",0,"126,000"
+92.0,"Salmon, chinookspring/summer Snake R. (Oncorhynchus(=Salmo) tshawytscha)",T,0,"126,000","126,000",0,"126,000"
+125.0,"Salmon, chinookwinter Sacramento R. (Oncorhynchus(=Salmo) tshawytscha)",E,"25,400",0,"25,400",0,"25,400"
+37.0,"Salmon, chinookPuget Sound (Oncorhynchus (=Salmo)tshawytscha)",T,0,"126,000","126,000","569,000","695,000"
+92.0,"Salmon, chinooklower Columbia R. (Oncorhynchus(=Salmo) tshawytscha)",T,0,"126,000","126,000",0,"126,000"
+91.0,"Salmon, chinookspring upper Columbia R. (Oncorhynchus(=Salmo) tshawytscha)",T,"25,400","127,000","152,400",0,"152,400"
+89.0,"Salmon, chumColumbia R. (Oncorhynchus (=Salmo) keta)",T,0,0,0,"174,600","174,600"
+114.0,"Salmon, chumsummer-run Hood Canal (Oncorhynchus(=Salmo) keta)",T,0,"63,000","63,000",0,"63,000"
+121.0,"Salmon, cohoOR, CA pop. (Oncorhynchus (=Salmo)kisutch)",T,"27,000",0,"27,000",0,"27,000"
+114.0,"Salmon, sockeyeU.S.A. (Snake River, ID stock whereverfound. (Oncorhynchus (=Salmo) nerka)",E,0,"63,000","63,000",0,"63,000"
+128.0,"Shiner, Pecos bluntnose (Notropis simuspecosensis)",T,0,"15,000","15,000",0,"15,000"
+24.0,"Spinedace, Little Colorado (Lepidomedavittata)",T,0,0,0,"1,143,500","1,143,500"
+28.0,"Splittail, Sacramento (Pogonichthysmacrolepidotus)",T,"1,072,100",0,"1,072,100",0,"1,072,100"
+35.0,"SteelheadSnake R. Basin (Oncorhynchus (=Salmo)mykiss)",T,0,"105,000","105,000","664,400","769,400"
+103.0,"Steelheadcentral CA coast (Oncorhynchus (=Salmo)mykiss)",T,0,"105,000","105,000",0,"105,000"
+103.0,"Steelheadlower Columbia R. (Oncorhynchus(=Salmo) mykiss)",T,0,"105,000","105,000",0,"105,000"
+103.0,"Steelheadupper Columbia R. Basin (Oncorhynchus(=Salmo) mykiss)",E,0,"105,000","105,000",0,"105,000"
+112.0,"Steelheadupper Willamette R. (Oncorhynchus(=Salmo) mykiss)",T,0,"76,303","76,303",0,"76,303"
+121.0,"Stickleback, unarmored threespine(Gasterosteus aculeatus williamsoni)",E,"27,000",0,"27,000",0,"27,000"
+131.0,"Sturgeon, gulf (Acipenser oxyrinchusdesotoi)",T,"12,000",0,"12,000",0,"12,000"
+19.0,"Sturgeon, pallid (Scaphirhynchus albus)",E,0,"1,322,000","1,322,000",0,"1,322,000"
+82.0,"Sucker, Lost River (Deltistes luxatus)",E,"222,700","68,130","290,830",0,"290,830"
+82.0,"Sucker, shortnose (Chasmistesbrevirostris)",E,"222,700","68,130","290,830",0,"290,830"
+16.0,"Trout, bull (Salvelinus confluentus)",T,"506,900","126,000","632,900","1,049,600","1,682,500"
+,Fishes Subtotal,,"2,245,200","2,867,563","5,112,763","3,970,500","9,083,263"
+,,,,,,,
+135.0,"Pocketbook, fat (Potamilus capax)",E,"3,000",0,"3,000",0,"3,000"
+131.0,"Wedgemussel, dwarf (Alasmidontaheterodon)",E,0,0,0,"12,000","12,000"
+,Clams Subtotal,,"3,000",0,"3,000","12,000","15,000"
+,,,,,,,
+25.0,"Snail, Morro shoulderband (=Banded dune)(Helminthoglypta walkeriana)",E,0,"94,000","94,000","1,030,000","1,124,000"
+97.0,"Snail, Stock Island tree (Orthalicus reses(not incl. nesodryas))",T,"111,724",0,"111,724",0,"111,724"
+33.0,"Snails, Oahu tree (Achatinella spp.)",E,"848,690",0,"848,690",0,"848,690"
+,Snails Subtotal,,"960,414","94,000","1,054,414","1,030,000","2,084,414"
+,,,,,,,
+27.0,"Beetle, valley elderberry longhorn(Desmocerus californicus dimorphus)",T,"1,096,000",0,"1,096,000",0,"1,096,000"
+71.0,"Butterfly, Quino checkerspot (Euphydryaseditha quino (=E. e. wrighti))",E,"336,000",0,"336,000",0,"336,000"
+,Insects Subtotal,,"1,432,000",0,"1,432,000",0,"1,432,000"
+,,,,,,,
+28.0,"Fairy shrimp, Conservancy (Branchinectaconservatio)",E,"1,072,100",0,"1,072,100",0,"1,072,100"
+28.0,"Fairy shrimp, longhorn (Branchinectalongiantenna)",E,"1,072,100",0,"1,072,100",0,"1,072,100"
+71.0,"Fairy shrimp, Riverside (Streptocephaluswoottoni)",E,"336,000",0,"336,000",0,"336,000"
+71.0,"Fairy shrimp, San Diego (Branchinectasandiegonensis)",E,"336,000",0,"336,000",0,"336,000"
+17.0,"Fairy shrimp, vernal pool (Branchinectalynchi)",T,"1,072,100","562,500","1,634,600",0,"1,634,600"
+21.0,"Tadpole shrimp, vernal pool (Lepiduruspackardi)",E,"1,072,100","160,000","1,232,100",0,"1,232,100"
+,Crustaceans Subtotal,,"4,960,400","722,500","5,682,900",0,"5,682,900"
+,,,,,,,
+54.0,Aupaka (Isodendrion laurifolium),E,"355,045",0,"355,045",0,"355,045"
+116.0,"Bedstraw, El Dorado (Galium californicumssp. sierrae)",E,0,"62,500","62,500",0,"62,500"
+126.0,"Bird's beak, palmate-bracted (Cordylanthuspalmatus)",E,"23,800",0,"23,800",0,"23,800"
+138.0,"Blazingstar, scrub (Liatris ohlingerae)",E,217,0,217,0,217
+138.0,"Bonamia, Florida (Bonamia grandiflora)",T,217,0,217,0,217
+41.0,"Brodiaea, thread-leaved (Brodiaea filifolia)",T,0,0,0,"560,000","560,000"
+138.0,"Buckwheat, scrub (Eriogonum longifoliumvar. gnaphalifolium)",T,217,0,217,0,217
+51,"Butterweed, Layne's (Senecio layneae)",T,0,"385,500","385,500",0,"385,500"
+71,"Button-celery, San Diego (Eryngiumaristulatum var. parishii)",E,"336,000",0,"336,000",0,"336,000"
+98,"Cactus, Key tree (Pilosocereus robinii)",E,"111,722",0,"111,722",0,"111,722"
+51,"Ceanothus, Pine Hill (Ceanothus roderickii)",E,0,"385,500","385,500",0,"385,500"
+88,"Checker-mallow, Keck's (Sidalcea keckii)",E,0,"184,500","184,500",0,"184,500"
+41,"Crownscale, San Jacinto Valley (Atriplexcoronata var. notatior)",E,0,0,0,"560,000","560,000"
+11,"Daisy, Willamette (Erigeron decumbens var.decumbens)",E,0,"2,500,000","2,500,000",0,"2,500,000"
+116,"Flannelbush, Pine Hill (Fremontodendroncalifornicum ssp. decumbens)",E,0,"62,500","62,500",0,"62,500"
+138,"Fringe-tree, pygmy (Chionanthuspygmaeus)",E,217,0,217,0,217
+54,Haha (Cyanea acuminata),E,"355,045",0,"355,045",0,"355,045"
+54,Haha (Cyanea humboldtiana),E,"355,045",0,"355,045",0,"355,045"
+54,Haha (Cyanea koolauensis),E,"355,045",0,"355,045",0,"355,045"
+54,Ha`iwale (Cyrtandra subumbellata),E,"355,045",0,"355,045",0,"355,045"
+54,Ha`iwale (Cyrtandra viridiflora),E,"355,045",0,"355,045",0,"355,045"
+127,"Iris, dwarf lake (Iris lacustris)",T,0,0,0,"15,100","15,100"
+36,"Ladies'-tresses, Ute (Spiranthes diluvialis)",T,0,"764,000","764,000",0,"764,000"
+121,"Layia, beach (Layia carnosa)",E,"27,000",0,"27,000",0,"27,000"
+107,"Manzanita, Ione (Arctostaphylos myrtifolia)",T,0,"94,000","94,000",0,"94,000"
+71,"Mesa-mint, Otay (Pogogyne nudiuscula)",E,"336,000",0,"336,000",0,"336,000"
+71,"Mesa-mint, San Diego (Pogogyne abramsii)",E,"336,000",0,"336,000",0,"336,000"
+119,"Milk-vetch, Coachella Valley (Astragaluslentiginosus var. coachellae)",E,0,0,0,"35,000","35,000"
+138,"Mint, Garrett's (Dicerandra christmanii)",E,217,0,217,0,217
+31,"Mountain balm, Indian Knob (Eriodictyonaltissimum)",E,0,0,0,"1,030,000","1,030,000"
+54,Nanu (Gardenia mannii),E,"355,045",0,"355,045",0,"355,045"
+41,"Navarretia, spreading (Navarretia fossalis)",T,0,0,0,"560,000","560,000"
+54,Hesperomannia arborescens (=Sci name),E,"355,045",0,"355,045",0,"355,045"
+54,"Lobelia gaudichaudii ssp. koolauensis(=Sci name)",E,"355,045",0,"355,045",0,"355,045"
+54,Lobelia oahuensis (=Sci name),E,"355,045",0,"355,045",0,"355,045"
+54,Phyllostegia hirsuta (=Sci name),E,"355,045",0,"355,045",0,"355,045"
+54,Sanicula purpurea (=Sci name),E,"355,045",0,"355,045",0,"355,045"
+54,Viola oahuensis (=Sci name),E,"355,045",0,"355,045",0,"355,045"
+136,"Orchid, western prairie fringed (Platantherapraeclara)",T,0,"1,500","1,500",0,"1,500"
+71,"Orcutt grass, California (Orcuttiacalifornica)",E,"336,000",0,"336,000",0,"336,000"
+90,"Owl's-clover, fleshy (Castilleja campestrisssp. succulenta)",T,0,"160,000","160,000",0,"160,000"
+138,Pigeon wings (Clitoria fragrans),T,217,0,217,0,217
+39,"Pitcher-plant, mountain sweet (Sarraceniarubra ssp. jonesii)",E,0,0,0,"615,000","615,000"
+138.0,"Plum, scrub (Prunus geniculata)",E,217,0,217,0,217
+98.0,"Spurge, Garber's (Chamaesyce garberi)",T,"111,722",0,"111,722",0,"111,722"
+128.0,"Sunflower, Pecos (=puzzle, =paradox)(Helianthus paradoxus)",T,0,"15,000","15,000",0,"15,000"
+138.0,"Whitlow-wort, papery (Paronychiachartacea)",T,217,0,217,0,217
+138.0,Wireweed (Polygonella basiramia),E,217,0,217,0,217
+54.0,`Akoko (Chamaesyce rockii),E,"355,045",0,"355,045",0,"355,045"
+86.0,`Ohe`ohe (Tetraplasandra gymnocarpa),E,"190,500",0,"190,500",0,"190,500"
+,Flowering Plants Subtotal,,"6,781,327","4,615,000","11,396,327","3,375,100","14,771,427"
+,,,,,,,
+54.0,Pteris lidgatei (=Sci name),E,"355,045",0,"355,045",0,"355,045"
+54.0,"Wawae`iole (Lycopodium (=Phlegmariurus)nutans)",E,"355,045",0,"355,045",0,"355,045"
+,Ferns and Allies Subtotal,,"710,090",0,"710,090",0,"710,090"
+,,,,,,,
+,Subtotal,,"75,422,597","35,798,128","111,220,725","18,959,700","130,180,425"
+,Other ESA Expenses,,"44,227,545","3,075,000","47,302,545",0,"47,302,545"
+,Total,,"119,650,142","38,873,128","158,523,270","18,959,700","177,482,970"
