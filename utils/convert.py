@@ -1,10 +1,10 @@
 from tabula import read_pdf
 from aesthetics import fix_rows
+from logging import log_error
 
 import numpy as np
 import csv
 import unicodecsv as ucsv
-# COLUMNS = [77, 164, 207, 414, 466, 560, 655, 767, 871, 983]
 
 
 def write_to_csv(f, rows): 
@@ -32,7 +32,7 @@ def pdf_to_csv(f, outf=None):
 
     while True: 
         try: 
-            df = read_pdf(f, spreadsheet=True, pages=page_count) # Only get ith page in pdf
+            df = read_pdf(f, lattice=True, pages=page_count) # Only get ith page in pdf
             df = df.replace(np.nan, "", regex=True)
 
             if page_count == 1: 
@@ -51,7 +51,9 @@ def pdf_to_csv(f, outf=None):
     avg_columns = get_average_columns(rows_container)
 
     if not avg_columns.is_integer(): 
-        raise Exception("Number of columns is not consistent among pages!")
+        log_error(f, "Number of columns is not consistent among pages!")
+
+    #     raise Exception("Number of columns is not consistent among pages!")
 
     print "\n\tAvg. Columns: {}".format(avg_columns)
 

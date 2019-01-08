@@ -10,7 +10,6 @@ def main():
 		try:
 			pdf_to_csv(pdf)
 		except Exception as e: 
-			print e
 			log_error(pdf, e)
 			continue            
 

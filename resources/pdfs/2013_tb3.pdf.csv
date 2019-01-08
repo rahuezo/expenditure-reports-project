@@ -374,3 +374,384 @@ Fishes,,23,,"Chub, Oregon (Oregonichthys",,T,,$0,,"$3,291,726",,"$3,291,726",,$0
 ,,,,Valley spring-run ESU,,,,,,,,,,,,
 ,,36,,"Salmon, coho (Oncorhynchus",,T,,$0,,"$1,739,000",,"$1,739,000",,$0,,"$1,739,000"
 ,,,,,,,,,,,,,,,,
+,,,(=Salmo) kisutch) – So. OR/No.,,,,,,,,,,,,,
+,,,,CA Coast ESU,,,,,,,,,,,,
+,,60,,"Salmon, coho (Oncorhynchus",,T,,$0,,$0,,$0,,"$527,150",,"$527,150"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) kisutch) - OR Coast,,,,,,,,,,,,,
+,,,,ESU,,,,,,,,,,,,
+,,10,,"Salmon, sockeye (Oncorhynchus",,E,,$0,,"$7,709,651",,"$7,709,651",,$0,,"$7,709,651"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) nerka) - Snake River,,,,,,,,,,,,,
+,,,,ESU,,,,,,,,,,,,
+,,116,,"Shiner, Arkansas River",,T,,$0,,"$2,000",,"$2,000",,$0,,"$2,000"
+,,,,,,,,,,,,,,,,
+,,,(Notropis girardi) - Arkansas R.,,,,,,,,,,,,,
+,,,,Basin,,,,,,,,,,,,
+,,42,,"Shiner, Pecos bluntnose",,T,,$0,,"$1,000,000",,"$1,000,000",,$0,,"$1,000,000"
+,,,,,,,,,,,,,,,,
+,,(Notropis simus pecosensis),,,,,,,,,,,,,,
+,,49,,"Shiner, Topeka (Notropis topeka",,E,,"$816,926",,$0,,"$816,926",,$0,,"$816,926"
+,,,,,,,,,,,,,,,,
+,,,(=tristis)),,,,,,,,,,,,,
+,,92,,Steelhead (Oncorhynchus,,T,,$0,,"$136,000",,"$136,000",,$0,,"$136,000"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) mykiss) - CA Central,,,,,,,,,,,,,
+,,,,Valley DPS,,,,,,,,,,,,
+,,63,,Steelhead (Oncorhynchus,,T,,$0,,"$515,614",,"$515,614",,$0,,"$515,614"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) mykiss) - Snake River,,,,,,,,,,,,,
+,,,,Basin DPS,,,,,,,,,,,,
+,,25,,Steelhead (Oncorhynchus,,T,,$0,,"$2,156,541",,"$2,156,541",,"$527,000",,"$2,683,541"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) mykiss) - Lower,,,,,,,,,,,,,
+,,,,Columbia River DPS,,,,,,,,,,,,
+,,57,,Steelhead (Oncorhynchus,,E,,"$573,924",,$0,,"$573,924",,$0,,"$573,924"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) mykiss) – So. CA DPS,,,,,,,,,,,,,
+,,61,,Steelhead (Oncorhynchus,,T,,$0,,"$310,077",,"$310,077",,"$217,000",,"$527,077"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) mykiss) - Upper,,,,,,,,,,,,,
+,,,,Columbia River DPS,,,,,,,,,,,,
+,,14,,Steelhead (Oncorhynchus,,T,,$0,,"$4,980,795",,"$4,980,795",,$0,,"$4,980,795"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) mykiss) - Upper,,,,,,,,,,,,,
+,,,,Willamette River DPS,,,,,,,,,,,,
+,,8,,Steelhead (Oncorhynchus,,T,,$0,,"$7,030,547",,"$7,030,547",,"$2,356,000",,"$9,386,547"
+,,,,,,,,,,,,,,,,
+,,,(=Salmo) mykiss) - Middle,,,,,,,,,,,,,
+,,,,Columbia River DPS,,,,,,,,,,,,
+,,76,,"Sturgeon, Atlantic (Acipenser",,T,,"$308,358",,$0,,"$308,358",,$0,,"$308,358"
+,,,,,,,,,,,,,,,,
+,,,oxyrinchus),,,,,,,,,,,,,
+,,119,,"Sturgeon, Atlantic (Acipenser",,T,,$0,,$500,,$500,,$0,,$500
+,,,,,,,,,,,,,,,,
+,,,oxyrinchus oxyrinchus) - Gulf of,,,,,,,,,,,,,
+,,,,Maine DPS,,,,,,,,,,,,
+,,90,,"Sturgeon, Green (Acipenser",,T,,$0,,"$144,000",,"$144,000",,$0,,"$144,000"
+,,,,,,,,,,,,,,,,
+,,,medirostris) - Southern DPS,,,,,,,,,,,,,
+,,18,,"Sturgeon, pallid",,E,,"$744,010",,"$3,417,000",,"$4,161,010",,$0,,"$4,161,010"
+,,,,,,,,,,,,,,,,
+,,,(Scaphirhynchus albus),,,,,,,,,,,,,
+,,78,,"Sturgeon, shortnose (Acipenser",,E,,"$245,874",,$500,,"$246,374",,$0,,"$246,374"
+,,,,,,,,,,,,,,,,
+,,,brevirostrum),,,,,,,,,,,,,
+,,22,,"Sturgeon, white (Acipenser",,E,,$0,,"$3,302,899",,"$3,302,899",,$0,,"$3,302,899"
+,,,,,,,,,,,,,,,,
+,,"transmontanus) - ID, MT,",,,,,,,,,,,,,,
+,"Canada (B.C.), Kootenai R.",,,,,,,,,,,,,,,
+,system,,,,,,,,,,,,,,,
+,,27.0,,"Sucker, Lost River (Deltistes",,E,,$0,,"$2,595,000",,"$2,595,000",,$0,,"$2,595,000"
+,,,,,,,,,,,,,,,,
+,,,luxatus),,,,,,,,,,,,,
+,,27.0,,"Sucker, shortnose (Chasmistes",,E,,$0,,"$2,595,000",,"$2,595,000",,$0,,"$2,595,000"
+,,,,,,,,,,,,,,,,
+,,,brevirostris),,,,,,,,,,,,,
+,,12.0,,"Trout, bull (Salvelinus",,T,,"$493,750",,"$3,890,272",,"$4,384,022",,"$1,900,000",,"$6,284,022"
+,,,,,,,,,,,,,,,,
+,,,"confluentus) -  conterminous,",,,,,,,,,,,,,
+,,,,lower 48 states,,,,,,,,,,,,
+Fishes subtotal,,,,,,,,"$4,639,705",,"$62,396,599",,"$67,036,304",,"$6,754,234",,"$73,790,538"
+,,,,,,,,,,,,,,,,
+Clams,,89.0,,"Bankclimber, purple (mussel)",,T,,"$144,167",,$0,,"$144,167",,$0,,"$144,167"
+,,,(Elliptoideus sloatianus),,,,,,,,,,,,,
+,,101.0,,"Heelsplitter, Alabama",,T,,"$63,325",,$0,,"$63,325",,$0,,"$63,325"
+,,,,,,,,,,,,,,,,
+,,,(=inflated) (Potamilus inflatus),,,,,,,,,,,,,
+,,86.0,,Higgins eye (pearlymussel),,E,,"$154,625",,$0,,"$154,625",,$0,,"$154,625"
+,,,,,,,,,,,,,,,,
+,,,(Lampsilis higginsii),,,,,,,,,,,,,
+,,71.0,,"Mucket, pink (pearlymussel)",,E,,"$431,286",,$0,,"$431,286",,$0,,"$431,286"
+,,,,,,,,,,,,,,,,
+,,,(Lampsilis abrupta),,,,,,,,,,,,,
+,,71.0,,"Mussel, scaleshell (Leptodea",,E,,"$431,286",,$0,,"$431,286",,$0,,"$431,286"
+,,,,,,,,,,,,,,,,
+,,,leptodon),,,,,,,,,,,,,
+,,86.0,,"Mussel, sheepnose (Plethobasus",,E,,"$154,625",,$0,,"$154,625",,$0,,"$154,625"
+,,,,,,,,,,,,,,,,
+,,,cyphyus),,,,,,,,,,,,,
+,,119.0,,"Pimpleback, orangefoot",,E,,$0,,$500,,$500,,$0,,$500
+,,,,,,,,,,,,,,,,
+,,,(pearlymussel) (Plethobasus,,,,,,,,,,,,,
+,,,,cooperianus),,,,,,,,,,,,
+,,71.0,,"Pocketbook, fat (Potamilus",,E,,"$431,286",,$0,,"$431,286",,$0,,"$431,286"
+,,,,,,,,,,,,,,,,
+,,,capax),,,,,,,,,,,,,
+,,120.0,,"Pocketbook, shinyrayed",,E,,$0,,$100,,$100,,$0,,$100
+,,,,,,,,,,,,,,,,
+,,,(Lampsilis subangulata),,,,,,,,,,,,,
+,,94.0,,"Riffleshell, northern",,E,,"$104,000",,$0,,"$104,000",,$0,,"$104,000"
+,,,,,,,,,,,,,,,,
+,,,(Epioblasma torulosa rangiana),,,,,,,,,,,,,
+,,86.0,,Spectaclecase (mussel),,E,,"$154,625",,$0,,"$154,625",,$0,,"$154,625"
+,,,,,,,,,,,,,,,,
+,,,(Cumberlandia monodonta),,,,,,,,,,,,,
+,,65.0,,"Wedgemussel, dwarf",,E,,"$510,086",,$0,,"$510,086",,$0,,"$510,086"
+,,,,,,,,,,,,,,,,
+,,,(Alasmidonta heterodon),,,,,,,,,,,,,
+Clams subtotal,,,,,,,,"$2,579,311",,$600,,"$2,579,911",,$0,,"$2,579,911"
+,,,,,,,,,,,,,,,,
+Snails,,82.0,,"Snail, Iowa Pleistocene (Discus",,E,,"$214,667",,$0,,"$214,667",,$0,,"$214,667"
+,,,macclintocki),,,,,,,,,,,,,
+Snails subtotal,,,,,,,,"$214,667",,$0,,"$214,667",,$0,,"$214,667"
+,,,,,,,,,,,,,,,,
+Insects,,77,,"Beetle, American burying",,E,,"$243,250",,"$55,100",,"$298,350",,$0,,"$298,350"
+,,,(Nicrophorus americanus),,,,,,,,,,,,,
+,,53,,"Beetle, Comal Springs dryopid",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,(Stygoparnus comalensis),,,,,,,,,,,,,
+,,53,,"Beetle, Comal Springs riffle",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,(Heterelmis comalensis),,,,,,,,,,,,,
+,,53,,"Beetle, Helotes mold",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,(Batrisodes venyivi),,,,,,,,,,,,,
+,,53,,Beetle [no common name],,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,(Rhadine exilis),,,,,,,,,,,,,
+,,53,,Beetle [no common name],,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,(Rhadine infernalis),,,,,,,,,,,,,
+,,54,,"Beetle, valley elderberry",,T,,$0,,"$610,500",,"$610,500",,$0,,"$610,500"
+,,,,,,,,,,,,,,,,
+,,,longhorn (Desmocerus,,,,,,,,,,,,,
+,,,,californicus dimorphus),,,,,,,,,,,,
+,,100,,"Butterfly, Karner blue",,E,,"$72,250",,$0,,"$72,250",,$0,,"$72,250"
+,,,,,,,,,,,,,,,,
+,,,(Lycaeides melissa samuelis),,,,,,,,,,,,,
+,,113,,"Butterfly, Quino checkerspot",,E,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,(Euphydryas editha quino (=E.,,,,,,,,,,,,,
+,,,,e. wrighti)),,,,,,,,,,,,
+,,114,,"Naucorid, Ash Meadows",,T,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,(Ambrysus amargosus),,,,,,,,,,,,,
+,,65,,"Tiger beetle, Puritan (Cicindela",,T,,"$510,086",,$0,,"$510,086",,$0,,"$510,086"
+,,,,,,,,,,,,,,,,
+,,,puritana),,,,,,,,,,,,,
+,,72,,"Tiger beetle, Salt Creek",,E,,$0,,$0,,$0,,"$375,000",,"$375,000"
+,,,,,,,,,,,,,,,,
+,,,(Cicindela nevadica lincolniana),,,,,,,,,,,,,
+Insects subtotal,,,,,,,,"$859,300",,"$665,600",,"$1,524,900",,"$3,442,710",,"$4,967,610"
+,,,,,,,,,,,,,,,,
+Arachnids,,53,,"Harvestman, Cokendolpher",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,Cave (Texella cokendolpheri),,,,,,,,,,,,,
+,,53,,"Meshweaver, Government",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,Canyon Bat Cave (Cicurina,,,,,,,,,,,,,
+,,,,vespera),,,,,,,,,,,,
+,,53,,"Meshweaver, Madla's Cave",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,(Cicurina madla),,,,,,,,,,,,,,
+Arachnids,,,,,,,,$0,,$0,,$0,,"$1,840,626",,"$1,840,626"
+,,,,,,,,,,,,,,,,
+subtotal,,,,,,,,,,,,,,,,
+Crustaceans,,53,,"Amphipod, Peck's cave",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,(Stygobromus (=Stygonectes),,,,,,,,,,,,,
+,,,,pecki),,,,,,,,,,,,
+,,47,,"Fairy shrimp, Conservancy",,E,,"$776,413",,"$125,000",,"$901,413",,$0,,"$901,413"
+,,,,,,,,,,,,,,,,
+,,,(Branchinecta conservatio),,,,,,,,,,,,,
+,,83,,"Fairy shrimp, longhorn",,E,,"$202,489",,$0,,"$202,489",,$0,,"$202,489"
+,,,,,,,,,,,,,,,,
+,,,(Branchinecta longiantenna),,,,,,,,,,,,,
+,,113,,"Fairy shrimp, San Diego",,E,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,(Branchinecta sandiegonensis),,,,,,,,,,,,,
+,,31,,"Fairy shrimp, vernal pool",,T,,"$867,038",,"$1,316,000",,"$2,183,038",,$0,,"$2,183,038"
+,,,,,,,,,,,,,,,,
+,,,(Branchinecta lynchi),,,,,,,,,,,,,
+,,33,,"Tadpole shrimp, vernal pool",,E,,"$776,413",,"$1,174,000",,"$1,950,413",,$0,,"$1,950,413"
+,,,,,,,,,,,,,,,,
+,,,(Lepidurus packardi),,,,,,,,,,,,,
+Crustaceans,,,,,,,,"$2,640,353",,"$2,615,000",,"$5,255,353",,"$613,542",,"$5,868,895"
+,,,,,,,,,,,,,,,,
+subtotal,,,,,,,,,,,,,,,,
+Flowering,,113,,"Ambrosia, San Diego (Ambrosia",,E,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+Plants,,,pumila),,,,,,,,,,,,,
+,,118,,"Beargrass, Britton's (Nolina",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,brittoniana),,,,,,,,,,,,,
+,,114,,"Blazingstar, Ash Meadows",,T,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,(Mentzelia leucophylla),,,,,,,,,,,,,
+,,118,,"Blazingstar, scrub (Liatris",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,ohlingerae),,,,,,,,,,,,,
+,,118,,"Bonamia, Florida (Bonamia",,T,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,grandiflora),,,,,,,,,,,,,
+,,118,,"Buckwheat, scrub (Eriogonum",,T,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,longifolium var. gnaphalifolium),,,,,,,,,,,,,
+,,43,,"Bulrush, Northeastern (Scirpus",,E,,"$940,086",,$0,,"$940,086",,$0,,"$940,086"
+,,,,,,,,,,,,,,,,
+,,,ancistrochaetus),,,,,,,,,,,,,
+,,113,,"Button-celery, San Diego",,E,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,(Eryngium aristulatum var.,,,,,,,,,,,,,
+,,,,parishii),,,,,,,,,,,,
+,,114,,"Centaury, spring-loving",,T,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,(Centaurium namophilum),,,,,,,,,,,,,,
+,,97,,"Checker-mallow, Nelson's",,T,,"$82,500",,$0,,"$82,500",,$0,,"$82,500"
+,,,,,,,,,,,,,,,,
+,,,(Sidalcea nelsoniana),,,,,,,,,,,,,
+,,113,,"Flannelbush, Mexican",,E,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,(Fremontodendron mexicanum),,,,,,,,,,,,,
+,,118,,"Fringe-tree, pygmy",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,(Chionanthus pygmaeus),,,,,,,,,,,,,
+,,83,,"Grass, Colusa (Neostapfia",,T,,"$202,489",,$0,,"$202,489",,$0,,"$202,489"
+,,,,,,,,,,,,,,,,
+,,,colusana),,,,,,,,,,,,,
+,,114,,"Gumplant, Ash Meadows",,T,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,(Grindelia fraxinipratensis),,,,,,,,,,,,,
+,,118,,"Harebells, Avon Park",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,(Crotalaria avonensis),,,,,,,,,,,,,
+,,67,,"Howellia, water (Howellia",,T,,"$493,750",,$0,,"$493,750",,$0,,"$493,750"
+,,,,,,,,,,,,,,,,
+,,,aquatilis),,,,,,,,,,,,,
+,,118,,"Hypericum, highlands scrub",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,(Hypericum cumulicola),,,,,,,,,,,,,
+,,114,,"Ivesia, Ash Meadows (Ivesia",,T,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,kingii var. eremica),,,,,,,,,,,,,
+,,107,,"Jewelflower, California",,E,,"$29,375",,$0,,"$29,375",,$0,,"$29,375"
+,,,,,,,,,,,,,,,,
+,,,(Caulanthus californicus),,,,,,,,,,,,,
+,,88,,"Loosestrife, rough-leaved",,E,,$0,,$0,,$0,,"$147,605",,"$147,605"
+,,,,,,,,,,,,,,,,
+,,,(Lysimachia asperulaefolia),,,,,,,,,,,,,
+,,118,,"Lupine, scrub (Lupinus",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,aridorum),,,,,,,,,,,,,
+,,107,,"Mallow, Kern (Eremalche",,E,,"$29,375",,$0,,"$29,375",,$0,,"$29,375"
+,,,,,,,,,,,,,,,,
+,,,kernensis),,,,,,,,,,,,,
+,,113,,"Manzanita, Del Mar",,E,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,(Arctostaphylos glandulosa ssp.,,,,,,,,,,,,,
+,,,,crassifolia),,,,,,,,,,,,
+,,113,,"Mesa-mint, Otay (Pogogyne",,E,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,nudiuscula),,,,,,,,,,,,,
+,,113,,"Mesa-mint, San Diego",,E,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,(Pogogyne abramsii),,,,,,,,,,,,,
+,,114,,"Milk-vetch, Ash meadows",,T,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,(Astragalus phoenix),,,,,,,,,,,,,,
+,,65,,"Milk-vetch, Jesup's (Astragalus",,E,,"$510,086",,$0,,"$510,086",,$0,,"$510,086"
+,,,,,,,,,,,,,,,,
+,,,robbinsii var. jesupi),,,,,,,,,,,,,
+,,118,,"Mint, Garrett's (Dicerandra",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,christmanii),,,,,,,,,,,,,
+,,82,,"Monkshood, northern wild",,T,,"$214,667",,$0,,"$214,667",,$0,,"$214,667"
+,,,,,,,,,,,,,,,,
+,,,(Aconitum noveboracense),,,,,,,,,,,,,
+,,118,,"Mustard, Carter's (Warea",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,carteri),,,,,,,,,,,,,
+,,113,,"Navarretia, spreading",,T,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,(Navarretia fossalis),,,,,,,,,,,,,
+,,114,,"Niterwort, Amargosa (Nitrophila",,E,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,mohavensis),,,,,,,,,,,,,
+,,85,,Ohai (Sesbania tomentosa),,E,,"$162,213",,$0,,"$162,213",,$0,,"$162,213"
+,,,,,,,,,,,,,,,,
+,,100,,"Orchid, eastern prairie fringed",,T,,"$72,250",,$0,,"$72,250",,$0,,"$72,250"
+,,,,,,,,,,,,,,,,
+,,,(Platanthera leucophaea),,,,,,,,,,,,,
+,,40,,"Orchid, western prairie fringed",,T,,"$1,175,000",,$0,,"$1,175,000",,"$60,000",,"$1,235,000"
+,,,,,,,,,,,,,,,,
+,,,(Platanthera praeclara),,,,,,,,,,,,,
+,,113,,"Orcutt grass, California",,E,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,(Orcuttia californica),,,,,,,,,,,,,
+,,83,,"Owl's-clover, fleshy (Castilleja",,T,,"$202,489",,$0,,"$202,489",,$0,,"$202,489"
+,,,,,,,,,,,,,,,,
+,,,campestris ssp. succulenta),,,,,,,,,,,,,
+,,118,,Pigeon wings (Clitoria fragrans),,T,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,91,,"Pink, swamp (Helonias bullata)",,T,,"$140,000",,$0,,"$140,000",,$0,,"$140,000"
+,,,,,,,,,,,,,,,,
+,,118,,"Plum, scrub (Prunus geniculata)",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,65,,"Pogonia, small whorled (Isotria",,T,,"$510,086",,$0,,"$510,086",,$0,,"$510,086"
+,,,,,,,,,,,,,,,,
+,,,medeoloides),,,,,,,,,,,,,
+,,118,,"Polygala, Lewton's (Polygala",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,lewtonii),,,,,,,,,,,,,
+,,70,,Pondberry (Lindera melissifolia),,E,,"$441,143",,$0,,"$441,143",,$0,,"$441,143"
+,,,,,,,,,,,,,,,,
+,,118,,"Rosemary, short-leaved",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,(Conradina brevifolia),,,,,,,,,,,,,
+,,82,,"Roseroot, Leedy's (Rhodiola",,T,,"$214,667",,$0,,"$214,667",,$0,,"$214,667"
+,,,,,,,,,,,,,,,,
+,,,integrifolia ssp. leedyi),,,,,,,,,,,,,
+,,118,,Sandlace (Polygonella,,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,myriophylla),,,,,,,,,,,,,,
+,,118.0,,Snakeroot (Eryngium,,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,cuneifolium),,,,,,,,,,,,,
+,,74.0,,"Spurge, Hoover's (Chamaesyce",,T,,"$202,489",,"$125,000",,"$327,489",,$0,,"$327,489"
+,,,,,,,,,,,,,,,,
+,,,hooveri),,,,,,,,,,,,,
+,,114.0,,"Sunray, Ash Meadows",,T,,"$15,714",,$0,,"$15,714",,$0,,"$15,714"
+,,,,,,,,,,,,,,,,
+,,,(Enceliopsis nudicaulis var.,,,,,,,,,,,,,
+,,,,corrugata),,,,,,,,,,,,
+,,113.0,,"Tarplant, Otay (Deinandra",,T,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,(=Hemizonia) conjugens),,,,,,,,,,,,,
+,,113.0,,"Thornmint, San Diego",,T,,"$18,000",,$0,,"$18,000",,$0,,"$18,000"
+,,,,,,,,,,,,,,,,
+,,,(Acanthomintha ilicifolia),,,,,,,,,,,,,
+,,93.0,,"Tuctoria, Greene's (Tuctoria",,E,,$0,,"$125,000",,"$125,000",,$0,,"$125,000"
+,,,,,,,,,,,,,,,,
+,,,greenei),,,,,,,,,,,,,
+,,118.0,,"Whitlow-wort, papery",,T,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,(Paronychia chartacea),,,,,,,,,,,,,
+,,53.0,,"Wild-rice, Texas (Zizania",,E,,$0,,$0,,$0,,"$613,542",,"$613,542"
+,,,,,,,,,,,,,,,,
+,,,texana),,,,,,,,,,,,,
+,,118.0,,Wireweed (Polygonella,,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,basiramia),,,,,,,,,,,,,
+,,107.0,,"Wooly-threads, San Joaquin",,E,,"$29,375",,$0,,"$29,375",,$0,,"$29,375"
+,,,,,,,,,,,,,,,,
+,,,(Monolopia (=Lembertia),,,,,,,,,,,,,
+,,,,congdonii),,,,,,,,,,,,
+,,118.0,,"Ziziphus, Florida (Ziziphus",,E,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+,,,celata),,,,,,,,,,,,,
+Flowering,,,,,,,,"$5,955,186",,"$250,000",,"$6,205,186",,"$821,147",,"$7,026,333"
+,,,,,,,,,,,,,,,,
+Plants subtotal,,,,,,,,,,,,,,,,
+Ferns and,,111.0,,"Fern, Aleutian shield",,E,,"$24,000",,$0,,"$24,000",,$0,,"$24,000"
+Allies,,,(Polystichum aleuticum),,,,,,,,,,,,,
+Ferns and,,,,,,,,"$24,000",,$0,,"$24,000",,$0,,"$24,000"
+,,,,,,,,,,,,,,,,
+Allies subtotal,,,,,,,,,,,,,,,,
+Lichens,,118.0,,"Cladonia, Florida perforate",,E,,$692,,$0,,$692,,$0,,$692
+,,,(Cladonia perforata),,,,,,,,,,,,,
+Lichens,,,,,,,,$692,,$0,,$692,,$0,,$692
+,,,,,,,,,,,,,,,,
+subtotal,,,,,,,,,,,,,,,,
+Multi-species,,,,,,,,$0,,"$3,866,869",,"$3,866,869",,$0,,"$3,866,869"
+,,,,,,,,,,,,,,,,
+Total Land,,,,,,,,"$52,639,807",,"$346,406,837",,"$399,046,644",,"$25,321,482",,"$424,368,126"
+,,,,,,,,,,,,,,,,
+Expenditures,,,,,,,,,,,,,,,,

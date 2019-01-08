@@ -10,3 +10,15 @@ E:/expenditure-reports-project/resources/pdfs/2015_tb2.pdf,[Errno 13] Permission
 E:/expenditure-reports-project/resources/pdfs/2015_tb2.pdf,'ascii' codec can't encode character u'\xc2' in position 0: ordinal not in range(128)
 E:/expenditure-reports-project/resources/pdfs/2015_tb2.pdf,'encoding' is an invalid keyword argument for this function
 E:/expenditure-reports-project/resources/pdfs/2015_tb2.pdf,'encoding' is an invalid keyword argument for this function
+E:/expenditure-reports-project/resources/pdfs/2012_tb3.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2010_tb3.pdf,list index out of range
+E:/expenditure-reports-project/resources/pdfs/2010_tb2.pdf,list index out of range
+E:/expenditure-reports-project/resources/pdfs/2009_tb3.pdf,list index out of range
+E:/expenditure-reports-project/resources/pdfs/2010_tb3.pdf,global name 'pdf' is not defined
+E:/expenditure-reports-project/resources/pdfs/2010_tb3.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2010_tb3.pdf,list index out of range
+E:/expenditure-reports-project/resources/pdfs/2010_tb3.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2010_tb2.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2009_tb3.pdf,Number of columns is not consistent among pages!
+E:/expenditure-reports-project/resources/pdfs/2009_tb2.pdf,local variable 'df' referenced before assignment
+E:/expenditure-reports-project/resources/pdfs/2008_tb3.pdf,Number of columns is not consistent among pages!
