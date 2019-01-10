@@ -1,0 +1,94 @@
+TABLE 3. REPORTED LAND ACQUISITION EXPENDITURES ($000) FOR FY 1997 FOR ENDANGERED AND								
+	THREATENED SPECIES.							
+RANK	SPECIES (50 CFR Part 1 7)	STATUS	FWS	OTHER	FED	STATES	SPECIES	
+			TOTAL	FED	TOTAL	TOTAL	TOTAL	
+61	"Bat, gray"	E	$0.00 	$0.00 	$0.00 	$22.00 		$22.00 
+150	"Bat, Ozark big-eared"	E	$40.50 	$0.00 	$40.50 	"$0.00"""		$40.50 
+72	"Fox, San Joaquin kit"	E	$264.00 	$66.00 	$330.00 	$0.00 		$330.00 
+331	Jaguarundi (AZ)	E	$5.00 	$0.00 	$5.00 	$0.00 		$5.00 
+115	"Mouse, salt marsh harvest"	E	$0.00 	"$1,950.00 "	"$1,950.00 "	$0.00 	$1.950.00	
+145	Ocelot	E	$5.00 	$0.00 	$5.00 	$0.00 		$5.00 
+314	"Vole, Amargosa"	E	$0.00 	$500.00 	$500.00 	$0.00 		$500.00 
+197	"Bobwhite, masked (quail)"	E	$560.00 	$0.00 	$560.00 	$0.00 		$560.00 
+40	"Condor, California"	E	$15.00 	$0.00 	$15.00 	$0.00 		"$1,500 "
+10	"Eagle, bald"	T	$4.072.50	$827.00 	"$4,899.50 "	$299.30 	$5.198.80	
+20	"Falcon, American peregrine"	E	"$4,072.50 "	$0.00 	"$4,072.50 "	$0.00 	$4.072.50	
+13	"Flycatcher, southwestern willow"	E	$142.00 	"$1,827.00 "	"$1,969.00 "	$12.50 	$1.981.50	
+"1 1 Gnatcatcher, coastal California"		T	$142.00 	$0.00 	$142.00 	$0.00 		$142.00 
+139	"Goose, Aleutian Canada"	T	"$1,595.00 "	$0.00 	"$1,595.00 "	$0.00 	"$1,595.00 "	
+55	"Jay, Florida scrub"	T	$7.26 	$0.00 	$7.26 	$0.00 		""" $7.26"
+4	"Owl, northern spotted"	T	$0.00 	$20.00 	$20.00 	$0.00 		$20.00 
+108	"Pelican, brown"	E	$182.00 	$0.00 	$182.00 	$0.00 	""""	$182.00 
+207	"Pigeon, Puerto Rican plain"	E	$0.00 	$0.00 	$0.00 	$23.00 		$23.00 
+51	"Plover, western snowy"	T	$0.00 	$60.00 	$60.00 	$0.00 		$60.00 
+119	"Rail, Yuma clapper"	E	$0.00 	$60.00 	$60.00 	$7.50 		$67.50 
+"47 Vireo, least Bell's"		E	$142.00 	$500.00 	$642.00 	$0.00 		$642.00 
+48	"Warbler, golden-cheeked"	E	"$1,894.60 "	$0.00 	$1.894.60	$0.00 	"$1,894^60"""	
+126	"Lizard, blunt-nosed leopard"	E	$249.00 	$0.00 	$249.00 	$0.00 	""""	$249.00 
+1061	"Skink, bluetail mole"	T	$7.26 	$0.00 	$7.26 	$0.00 		$7.26 
+739	"Skink, sand"	T	$7.26 	$0.00 	$7.26 	$0.00 '		$7.26 
+160	"Snake, eastern indigo"	T	$7.26 	$0.00 	$7.26 	$0.00 '		$7.26 
+54	"Snake, giant garter"	T	"$1,595.00 "	30	"$1,595.00 "	$0.00 	"$1,595.00 "	
+9	"Tortoise, desert"	T	$750.00 	"$6,600.00 "	"$7,350.00 "	$0.00 	$7.350.00	
+58	"Frog, California red-legged"	T	$142.00 	$0.00 	$142.00 	$0.00 		$142.00 
+70	"Toad, Arroyo southwestern"	E	$142.00 	§0.00	$142.00 	$0.00 		$142.00 
+233	"Catfish, Yaqui"	T	$0.00 	$0.00 	$0.00 	$7.50 		$7.50 
+30	"Chub, bonytail"	E	$0.00 	§0.60	$0.60 	$0.00 		$0.60 
+32	"Chub, humpback"	E	$0.00 	$0.60 	$0.60 	$0.00 		$0.60 
+255	"Chub, Yaqui"	E	$0.00 	$0.00 	$0.00 	$7.50 		$7.50 
+152	"Pupfish, desert"	E	$0.00 	$0.00 	$0.00 	$7.50 		$7.50 
+355	"Pupfish, Leon Springs"	E	$15.00 	$0.00 	$15.00 	$0.00 		$15.00 
+16	"Salmon, Chinook, Sacramento R. winter run"	T	$128.00 	$0.00 	$128.00 	$0.00 		$128.00 
+2	"Salmon, Chinook, Snake R. fall run"	T	$128.00 	$0.00 	$128.00 	$0.00 		$128.00 
+1	"Salmon, Chinook, Snake R. spring/summer run"	T	$128.00 	$0.00 	$128.00 	$0.00 		$128.00 
+80	"Smelt, delta"	T	$0.00 	"$1,950.00 "	"$1,950.00 "	$0.00 	"$1,950.00 "	
+12	"Squawfish, Colorado"	E	$0.00 	$0.50 	$0.50 	$0.00 		$0.50 
+36	"Sucker, Lost River"	E	$0.00 	$29.00 	$29.00 	$0.00 		$29.00 
+6	"Sucker, razorback"	E	$0.00 	$0.50 	$0.50 	$0.00 		$0.50 
+37	"Sucker, shortnose"	E	$0.00 	$29.00 	$29.00 	$0.00 		$29.00 
+123	"Topminnow, Gila (incl. Yaqui)"	E	$0.00 	$0.00 	$0.00 	$7.50 		$7.50 
+94	"Trout, Apache (=Arizona)"	T	$0.00 	$0.00 	$0.00 	$30.00 		$30.00 
+114	"Beetle, valley elderberry longhorn"	T	$886.00 	$0.00 	$886.00 	$0.00 		$886.00 
+113	"Butterfly, Quino checkerspot"	E	$142.00 	$0.00 	$142.00 	$0.00 		$142.00 
+96	"Fairy shrimp, riverside"	E	$142.00 	$0.00 	$142.00 	$0.00 		$142.00 
+82	"Fairy shrimp, San Diego"	E	$142.00 	$0.00 	$142.00 	$0.00 		$142.00 
+369	"Beargrass, Britton's"	E	$7.26 	$0.00 	$7.26 	$0.00 		$7.26 
+824	"Bedstraw, El Dorado"	E	$0.00 	$200.00 	$200.00 	$0.00 		$200.00 
+151	"Bird's beak, palmate-bracted"	E	$385.00 	$0.00 	$385.00 	$0.00 		"$385.00 ,"
+1061	"Blazingstar, scrub"	E	$7.26 	$0.00 	$7.26 	$0.00 		$7.26 
+716	"Bonamia, Florida"	T	$7.26 	$0.00 	$7.26 	$0.00 		$7.26 
+791	"Buckwheat, scrub"	T	$7.26 	$0.00 	$7.26 	$0.00 		$7.26 
+721	"Butterweed, Layne's"	T	$0.00	$200.00	$200.00	$0.00		"$20,000 "
+120	"Button-celery, San Diego"	E	$142.00	$0.00	$142.00	$0.00		$142.00 
+824	"Ceanothus, Pine Hill"	E	SO.OO	$200.00	$200.00	$0.00		$200.00 
+749	Cordia bellonis	E	$0.00	$46.00	$46.00	$0.00		$46.00 
+749	Daphnopsis hellerana (=Sci name)	E	$0.00	$46.00	$46.00	$0.00		$46.00 
+749	Erubia	E	$0.00	$46.00	$46.00	$0.00		$46.00 
+824	"Flannelbush, Pine Hill"	E	$0.00	$200.00	$200.00	$0.00		$200.00 
+277	"Grass, California Orcutt"	E	$142.00	$0.00	$142.00	$0.00		$142.00 
+1061	"Harebells, Avon Park"	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+575	"Hypericum, highlands scrub"	E	$7.26	$0.00	$7.26	$0.00		"""""$7.26"
+586	"Iris, dwarf lake"	T	$0.00	$0.00	$0.00	$8.00		$8.00 
+695	"Lupine, scrub"	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+583	Manioc. Walker's	E	$5.00	$0.00	$5.00	$0.00		$5.00 
+220	"Mesa-mint, Otay"	E	$142.00	$0.00	$142.00	$0.00		$142.00 
+131	"Mesa-mint, San Diego"	E	$142.00	$0.00	$142.00	$0.00		$142.00 
+1061	"Mint, Garrett's (=scrub, in part)"	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+1061	"Mint, scrub"	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+824	"Morning-glory, Stebbins'"	E	$0.00	$200.00	$200.00	$0.00		$200.00 
+1061	"Mustard, Carter's"	E	$7.26	$0.00	$7.26	$0.00'		$7.26 
+274	"Orchid, eastern prairie fringed"	T	$0.00	$0.00	$0.00	$76.50		$76.50 
+916	Palode Nigua	E	$0.00	$46.00	$46.00	$0.00		$46.00 
+1061	"Plum, scrub"	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+916	"Polygala, Lewton's"	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+695	"Rosa, palo de"	E	$0.00	$46.00	$46.00	"$0.00 """	""""	$46.00 
+1061	"Rosemary, short-leaved"	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+1061	Sandlace	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+1020	Snakeroot	E	$7.26	$0.00	$7.26	$0.00		"""$7.26"
+1061	"Tree, pygmy fringe"	E	$7.26	$0.00	$7.26	$0.00		""" $7.26"""
+1020	"Whitlow-wort, papery"	T	$7.26	$0.00	$7.26	$0.00		$7.26 
+1061	"Wings, Pigeon"	T	$7.26	$0.00	$7.26	$0.00		""""" $7.26"
+1061	Wireweed	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+1061	"Ziziphus, florida"	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+621	"Cladonia, Florida perforate"	E	$7.26	$0.00	$7.26	$0.00		$7.26 
+TOTALS	species:	89	"$18,860.60"	"$15,650.20"	$34.510.80	$508.80	"$35,019.60"	
