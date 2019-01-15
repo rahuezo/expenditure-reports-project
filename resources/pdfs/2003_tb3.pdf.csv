@@ -1,124 +1,140 @@
-Rank,Species (50 CFR Part 17),Status,"FWSTotal ($)","OtherFed ($)","FedTotal ($)","StatesTotal ($)","SpeciesTotal ($)"
-11.0,"Bear, grizzlylower 48 States, except where listed as anexperimental population (Ursus arctos horribilis)",T,0,"123,000","123,000","2,004,100","2,127,100"
-1.0,"Bear, Louisiana black (Ursus americanusluteolus)",T,0,"20,000,000","20,000,000",0,"20,000,000"
-67.0,"Deer, key (Odocoileus virginianus clavium)",E,"133,333",0,"133,333",0,"133,333"
-34.0,"Fox, San Joaquin kit (Vulpes macrotis mutica)",E,"248,296","365,000","613,296",0,"613,296"
-14.0,"Lynx, Canadalower 48 States DPS (Lynx canadensis)",T,0,0,0,"1,998,100","1,998,100"
-54.0,"Manatee, West Indian (Trichechus manatus)",E,"223,750",0,"223,750",0,"223,750"
-22.0,"Mouse, Alabama beach (Peromyscus polionotusammobates)",E,"1,192,500",0,"1,192,500",0,"1,192,500"
-77.0,"Mouse, Preble's meadow jumping (Zapushudsonius preblei)",T,0,0,0,"65,500","65,500"
-5.0,"Mouse, salt marsh harvest (Reithrodontomysraviventris)",E,"4,000,035",0,"4,000,035",0,"4,000,035"
-81.0,"Rabbit, Lower Keys marsh (Sylvilagus palustrishefneri)",E,"13,333",0,"13,333",0,"13,333"
-81.0,"Rice ratlower FL Keys (Oryzomys palustris natator)",E,"13,333",0,"13,333",0,"13,333"
-10.0,"Wolf, grayWestern Distinct Population Segment (Canislupus)",T,"200,000",0,"200,000","2,004,100","2,204,100"
-9.0,"Wolf, red[XN] (Canis rufus)",EXPN,"116,000","2,150,000","2,266,000",0,"2,266,000"
-,Mammals Subtotal,,"6,140,580","22,638,000","28,778,580","6,071,800","34,850,380"
-,,,,,,,
-86.0,"Crane, Mississippi sandhill (Grus canadensispulla)",E,"12,500",0,"12,500",0,"12,500"
-3.0,"Eagle, baldlower 48 States (Haliaeetus leucocephalus)",T,"2,927,706","3,362,000","6,289,706","1,911,900","8,201,606"
-92.0,"Jay, Florida scrub (Aphelocoma coerulescens)",T,"1,962",0,"1,962",0,"1,962"
-50.0,"Murrelet, marbledCA, OR, WA (Brachyramphus marmoratusmarmoratus)",T,"284,737",0,"284,737",0,"284,737"
-19.0,"Pelican, brownexcept U.S. Atlantic coast, FL, AL (Pelecanusoccidentalis)",E,"1,490,564",0,"1,490,564",0,"1,490,564"
-31.0,"Plover, pipingexcept Great Lakes watershed (Charadriusmelodus)",T,"720,008",0,"720,008",0,"720,008"
-4.0,"Plover, western snowyPacific coastal pop. (Charadrius alexandrinusnivosus)",T,"4,073,539",0,"4,073,539",0,"4,073,539"
-6.0,"Rail, California clapper (Rallus longirostrisobsoletus)",E,"4,000,033",0,"4,000,033",0,"4,000,033"
-20.0,"Stork, woodAL, FL, GA, SC (Mycteria americana)",E,"1,470,337",0,"1,470,337",0,"1,470,337"
-17.0,"Tern, leastinterior pop. (Sterna antillarum)",E,"1,333,333",0,"1,333,333","300,000","1,633,333"
-29.0,"Vireo, black-capped (Vireo atricapilla)",E,"740,000",0,"740,000",0,"740,000"
-29.0,"Warbler (=wood), golden-cheeked (Dendroicachrysoparia)",E,"740,000",0,"740,000",0,"740,000"
-21.0,"Woodpecker, red-cockaded (Picoides borealis)",E,"241,000",0,"241,000","1,080,000","1,321,000"
-,Birds Subtotal,,"18,035,719","3,362,000","21,397,719","3,291,900","24,689,619"
-,,,,,,,
-54.0,"Crocodile, American (Crocodylus acutus)",E,"223,750",0,"223,750",0,"223,750"
-46.0,"Lizard, blunt-nosed leopard (Gambelia silus)",E,"288,796",0,"288,796",0,"288,796"
-2.0,"Sea turtle, greenexcept where endangered (Chelonia mydas)",T,"8,993,725",0,"8,993,725",0,"8,993,725"
-73.0,"Sea turtle, hawksbill (Eretmochelys imbricata)",E,"93,725",0,"93,725",0,"93,725"
-73.0,"Sea turtle, leatherback (Dermochelys coriacea)",E,"93,725",0,"93,725",0,"93,725"
-72.0,"Sea turtle, loggerhead (Caretta caretta)",T,"95,500",0,"95,500",0,"95,500"
-93.0,"Skink, sand (Neoseps reynoldsi)",T,"1,958",0,"1,958",0,"1,958"
-80.0,"Snake, eastern indigo (Drymarchon coraiscouperi)",T,"15,291",0,"15,291",0,"15,291"
-43.0,"Snake, giant garter (Thamnophis gigas)",T,"326,646",0,"326,646",0,"326,646"
-36.0,"Tortoise, gopherW of of Mobile/Tombigbee Rs. (Gopheruspolyphemus)",T,0,"480,000","480,000",0,"480,000"
-,Reptiles Subtotal,,"10,133,116","480,000","10,613,116",0,"10,613,116"
-,,,,,,,
-41.0,"Frog, California red-leggedsubspecies range clarified (Rana auroradraytonii)",T,0,"345,000","345,000",0,"345,000"
-51.0,"Salamander, Santa Cruz long-toed (Ambystomamacrodactylum croceum)",E,"270,100",0,"270,100",0,"270,100"
-61.0,"Toad, Wyoming (Bufo baxteri (=hemiophrys))",E,"200,000",0,"200,000",0,"200,000"
-,Amphibians Subtotal,,"470,100","345,000","815,100",0,"815,100"
-,,,,,,,
-62.0,"Minnow, loach (Tiaroga cobitis)",T,0,"192,000","192,000",0,"192,000"
-8.0,"Salmon, AtlanticGulf of Maine Atlantic Salmon DPS (Salmo salar)",E,0,0,0,"2,800,000","2,800,000"
-35.0,"Salmon, chinookfall Snake R. (Oncorhynchus (=Salmo)tshawytscha)",T,0,"126,282","126,282","425,000","551,282"
-37.0,"Salmon, chinookspring/summer Snake R. (Oncorhynchus(=Salmo) tshawytscha)",T,0,"10,000","10,000","425,000","435,000"
-32.0,"Salmon, chinookPuget Sound (Oncorhynchus (=Salmo)tshawytscha)",T,"221,231","81,000","302,231","414,900","717,131"
-71.0,"Salmon, chinooklower Columbia R. (Oncorhynchus (=Salmo)tshawytscha)",T,0,"13,000","13,000","86,000","99,000"
-79.0,"Salmon, chinookupper Willamette R. (Oncorhynchus (=Salmo)tshawytscha)",T,"24,333",0,"24,333",0,"24,333"
-12.0,"Salmon, chinookspring upper Columbia R. (Oncorhynchus(=Salmo) tshawytscha)",T,0,"38,000","38,000","1,998,100","2,036,100"
-89.0,"Salmon, chumColumbia R. (Oncorhynchus (=Salmo) keta)",T,0,"8,000","8,000",0,"8,000"
-42.0,"Salmon, chumsummer-run Hood Canal (Oncorhynchus(=Salmo) keta)",T,0,"7,000","7,000","329,200","336,200"
-38.0,"Salmon, cohoOregon coast (Oncorhynchus (=Salmo) kisutch)",T,"63,506","363,080","426,586",0,"426,586"
-90.0,"Salmon, sockeyeU.S.A. (Snake River, ID stock wherever found.(Oncorhynchus (=Salmo) nerka)",E,0,"3,000","3,000",0,"3,000"
-90.0,"Salmon, sockeyeU.S.A. (Ozette Lake, WA (Oncorhynchus(=Salmo) nerka)",T,0,"3,000","3,000",0,"3,000"
-44.0,"Shiner, Arkansas RiverArkansas R. Basin (Notropis girardi)",T,0,0,0,"300,000","300,000"
-24.0,"Shiner, Cahaba (Notropis cahabae)",E,"941,500",0,"941,500",0,"941,500"
-62.0,Spikedace (Meda fulgida),T,0,"192,000","192,000",0,"192,000"
-27.0,"Springfish, Railroad Valley (Crenichthysnevadae)",T,"900,000",0,"900,000",0,"900,000"
-56.0,"SteelheadSnake R. Basin (Oncorhynchus (=Salmo) mykiss)",T,0,"138,282","138,282","70,000","208,282"
-28.0,"Steelheadlower Columbia R. (Oncorhynchus (=Salmo)mykiss)",T,0,"12,000","12,000","850,000","862,000"
-13.0,"Steelheadupper Columbia R. Basin (Oncorhynchus(=Salmo) mykiss)",E,0,"23,000","23,000","1,998,100","2,021,100"
-53.0,"Steelheadupper Willamette R. (Oncorhynchus (=Salmo)mykiss)",T,"24,333","139,741","164,074","86,000","250,074"
-23.0,"Steelheadmiddle Columbia R. (Oncorhynchus (=Salmo)mykiss)",T,0,"1,105,229","1,105,229",0,"1,105,229"
-62.0,"Sucker, razorback (Xyrauchen texanus)",E,0,"192,000","192,000",0,"192,000"
-62.0,"Topminnow, Gila (incl. Yaqui)U.S.A. only (Poeciliopsis occidentalis)",E,0,"192,000","192,000",0,"192,000"
-33.0,"Trout, bullU.S.A., conterminous, lower 48 states (Salvelinusconfluentus)",T,"421,231","196,993","618,224",0,"618,224"
-,Fishes Subtotal,,"2,596,134","3,035,607","5,631,741","9,782,300","15,414,041"
-,,,,,,,
-24.0,"Lioplax, cylindrical (snail) (Lioplaxcyclostomaformis)",E,"941,500",0,"941,500",0,"941,500"
-24.0,"Rocksnail, round (Leptoxis ampla)",T,"941,500",0,"941,500",0,"941,500"
-45.0,"Snail, flat-spired three-toothed (Triodopsisplatysayoides)",T,"295,485",0,"295,485",0,"295,485"
-81.0,"Snail, Stock Island tree (Orthalicus reses (notincl. nesodryas))",T,"13,333",0,"13,333",0,"13,333"
-,Snails Subtotal,,"2,191,818",0,"2,191,818",0,"2,191,818"
-,,,,,,,
-78.0,"Beetle, valley elderberry longhorn (Desmoceruscalifornicus dimorphus)",T,"37,850",0,"37,850",0,"37,850"
-47.0,"Butterfly, callippe silverspot (Speyeria callippecallippe)",E,"286,700",0,"286,700",0,"286,700"
-40.0,"Butterfly, Karner blue (Lycaeides melissasamuelis)",E,"347,380",0,"347,380","20,000","367,380"
-47.0,"Butterfly, mission blue (Icaricia icarioidesmissionensis)",E,"286,700",0,"286,700",0,"286,700"
-7.0,"Butterfly, Oregon silverspot (Speyeria zerenehippolyta)",T,0,0,0,"3,603,300","3,603,300"
-47.0,"Butterfly, San Bruno elfin (Callophrys mossiibayensis)",E,"286,700",0,"286,700",0,"286,700"
-,Insects Subtotal,,"1,245,330",0,"1,245,330","3,623,300","4,868,630"
-,,,,,,,
-39.0,"Fairy shrimp, vernal pool (Branchinecta lynchi)",T,"248,296","130,000","378,296",0,"378,296"
-16.0,"Tadpole shrimp, vernal pool (Lepidurus packardi)",E,"1,581,629","130,000","1,711,629",0,"1,711,629"
-,Crustaceans Subtotal,,"1,829,925","260,000","2,089,925",0,"2,089,925"
-,,,,,,,
-58.0,"Bedstraw, El Dorado (Galium californicum ssp.sierrae)",E,"93,000","113,000","206,000",0,"206,000"
-93.0,"Blazingstar, scrub (Liatris ohlingerae)",E,"1,958",0,"1,958",0,"1,958"
-93.0,"Bonamia, Florida (Bonamia grandiflora)",T,"1,958",0,"1,958",0,"1,958"
-93.0,"Buckwheat, scrub (Eriogonum longifolium var.gnaphalifolium)",T,"1,958",0,"1,958",0,"1,958"
-87.0,"Bush-clover, prairie (Lespedeza leptostachya)",T,0,0,0,"12,000","12,000"
-60.0,"Butterweed, Layne's (Senecio layneae)",T,"93,000","112,000","205,000",0,"205,000"
-70.0,"Cactus, Bakersfield (Opuntia treleasei)",E,0,"112,000","112,000",0,"112,000"
-81.0,"Cactus, Key tree (Pilosocereus robinii)",E,"13,333",0,"13,333",0,"13,333"
-75.0,"Ceanothus, Pine Hill (Ceanothus roderickii)",E,"93,000",0,"93,000",0,"93,000"
-75.0,"Flannelbush, Pine Hill (Fremontodendroncalifornicum ssp. decumbens)",E,"93,000",0,"93,000",0,"93,000"
-93.0,"Fringe-tree, pygmy (Chionanthus pygmaeus)",E,"1,958",0,"1,958",0,"1,958"
-15.0,"Ladies'-tresses, Ute (Spiranthes diluvialis)",T,0,"1,880,000","1,880,000",0,"1,880,000"
-88.0,"Layia, beach (Layia carnosa)",E,"10,000",0,"10,000",0,"10,000"
-93.0,"Mint, Garrett's (Dicerandra christmanii)",E,"1,958",0,"1,958",0,"1,958"
-58.0,"Morning-glory, Stebbins' (Calystegia stebbinsii)",E,"93,000","113,000","206,000",0,"206,000"
-68.0,Geocarpon minimum (=Sci name),T,0,0,0,"133,000","133,000"
-18.0,"Paintbrush, golden (Castilleja levisecta)",T,"1,500,000",0,"1,500,000",0,"1,500,000"
-69.0,"Phlox, Yreka (Phlox hirsuta)",E,"122,000",0,"122,000",0,"122,000"
-93.0,Pigeon wings (Clitoria fragrans),T,"1,958",0,"1,958",0,"1,958"
-93.0,"Plum, scrub (Prunus geniculata)",E,"1,958",0,"1,958",0,"1,958"
-57.0,"Sneezeweed, Virginia (Helenium virginicum)",T,"206,050",0,"206,050",0,"206,050"
-51.0,"Spineflower, Robust (incl. Scotts Valley)(Chorizanthe robusta (incl. vars. robusta andhartwegii))",E,"270,100",0,"270,100",0,"270,100"
-81.0,"Spurge, Garber's (Chamaesyce garberi)",T,"13,333",0,"13,333",0,"13,333"
-66.0,"Trillium, relict (Trillium reliquum)",E,0,0,0,"135,000","135,000"
-93.0,"Whitlow-wort, papery (Paronychia chartacea)",T,"1,958",0,"1,958",0,"1,958"
-93.0,Wireweed (Polygonella basiramia),E,"1,958",0,"1,958",0,"1,958"
-,Flowering Plants Subtotal,,"2,617,438","2,330,000","4,947,438","280,000","5,227,438"
-,,,,,,,
-,Subtotal,,"45,260,160","32,450,607","77,710,767","23,049,300","100,760,067"
-,Other ESA Expenses,,"30,643,891",0,"30,643,891","275,000","30,918,891"
-,Total,,"75,904,051","32,450,607","108,354,658","23,324,300","131,678,958"
+TABLE 3. REPORTED LAND ACQUISITION EXPENDITURES FOR FY 2003 FOR ENDANGERED AND THREATENED SPECIES ,,,,,,,,
+,,,,,,,,
+Rank,Species (50 CFR Part 17),Status,FWS Total ($),Other Fed ($),Fed Total ($),States Total ($),Species Total ($),Type
+11,"Bear, grizzlylower 48 States, except where listed as anexperimental population (Ursus arctos horribilis)",T,0,"123,000","123,000","2,004,100","2,127,100",MAMMALS
+1,"Bear, Louisiana black (Ursus americanusluteolus)",T,0,"20,000,000","20,000,000",0,"20,000,000",MAMMALS
+67,"Deer, key (Odocoileus virginianus clavium)",E,"133,333",0,"133,333",0,"133,333",MAMMALS
+34,"Fox, San Joaquin kit (Vulpes macrotis mutica)",E,"248,296","365,000","613,296",0,"613,296",MAMMALS
+14,"Lynx, Canadalower 48 States DPS (Lynx canadensis)",T,0,0,0,"1,998,100","1,998,100",MAMMALS
+54,"Manatee, West Indian (Trichechus manatus)",E,"223,750",0,"223,750",0,"223,750",MAMMALS
+22,"Mouse, Alabama beach (Peromyscus polionotusammobates)",E,"1,192,500",0,"1,192,500",0,"1,192,500",MAMMALS
+77,"Mouse, Preble's meadow jumping (Zapushudsonius preblei)",T,0,0,0,"65,500","65,500",MAMMALS
+5,"Mouse, salt marsh harvest (Reithrodontomysraviventris)",E,"4,000,035",0,"4,000,035",0,"4,000,035",MAMMALS
+81,"Rabbit, Lower Keys marsh (Sylvilagus palustrishefneri)",E,"13,333",0,"13,333",0,"13,333",MAMMALS
+81,"Rice ratlower FL Keys (Oryzomys palustris natator)",E,"13,333",0,"13,333",0,"13,333",MAMMALS
+10,"Wolf, grayWestern Distinct Population Segment (Canislupus)",T,"200,000",0,"200,000","2,004,100","2,204,100",MAMMALS
+9,"Wolf, red[XN] (Canis rufus)",EXPN,"116,000","2,150,000","2,266,000",0,"2,266,000",MAMMALS
+,Mammals Subtotal,,"6,140,580","22,638,000","28,778,580","6,071,800","34,850,380",
+,Mammals Subtotal Verified,,"6,140,580","22,638,000","28,778,580","6,071,800","34,850,380",
+,,,,,,,,
+86,"Crane, Mississippi sandhill (Grus canadensispulla)",E,"12,500",0,"12,500",0,"12,500",BIRDS
+3,"Eagle, baldlower 48 States (Haliaeetus leucocephalus)",T,"2,927,706","3,362,000","6,289,706","1,911,900","8,201,606",BIRDS
+92,"Jay, Florida scrub (Aphelocoma coerulescens)",T,"1,962",0,"1,962",0,"1,962",BIRDS
+50,"Murrelet, marbledCA, OR, WA (Brachyramphus marmoratusmarmoratus)",T,"284,737",0,"284,737",0,"284,737",BIRDS
+19,"Pelican, brownexcept U.S. Atlantic coast, FL, AL (Pelecanusoccidentalis)",E,"1,490,564",0,"1,490,564",0,"1,490,564",BIRDS
+31,"Plover, pipingexcept Great Lakes watershed (Charadriusmelodus)",T,"720,008",0,"720,008",0,"720,008",BIRDS
+4,"Plover, western snowyPacific coastal pop. (Charadrius alexandrinusnivosus)",T,"4,073,539",0,"4,073,539",0,"4,073,539",BIRDS
+6,"Rail, California clapper (Rallus longirostrisobsoletus)",E,"4,000,033",0,"4,000,033",0,"4,000,033",BIRDS
+20,"Stork, woodAL, FL, GA, SC (Mycteria americana)",E,"1,470,337",0,"1,470,337",0,"1,470,337",BIRDS
+17,"Tern, leastinterior pop. (Sterna antillarum)",E,"1,333,333",0,"1,333,333","300,000","1,633,333",BIRDS
+29,"Vireo, black-capped (Vireo atricapilla)",E,"740,000",0,"740,000",0,"740,000",BIRDS
+29,"Warbler (=wood), golden-cheeked (Dendroicachrysoparia)",E,"740,000",0,"740,000",0,"740,000",BIRDS
+21,"Woodpecker, red-cockaded (Picoides borealis)",E,"241,000",0,"241,000","1,080,000","1,321,000",BIRDS
+,Birds Subtotal,,"18,035,719","3,362,000","21,397,719","3,291,900","24,689,619",
+,Birds Subtotal Verified,,"18,035,719","3,362,000","21,397,719","3,291,900","24,689,619",
+,,,,,,,,
+54,"Crocodile, American (Crocodylus acutus)",E,"223,750",0,"223,750",0,"223,750",REPTILES
+46,"Lizard, blunt-nosed leopard (Gambelia silus)",E,"288,796",0,"288,796",0,"288,796",REPTILES
+2,"Sea turtle, greenexcept where endangered (Chelonia mydas)",T,"8,993,725",0,"8,993,725",0,"8,993,725",REPTILES
+73,"Sea turtle, hawksbill (Eretmochelys imbricata)",E,"93,725",0,"93,725",0,"93,725",REPTILES
+73,"Sea turtle, leatherback (Dermochelys coriacea)",E,"93,725",0,"93,725",0,"93,725",REPTILES
+72,"Sea turtle, loggerhead (Caretta caretta)",T,"95,500",0,"95,500",0,"95,500",REPTILES
+93,"Skink, sand (Neoseps reynoldsi)",T,"1,958",0,"1,958",0,"1,958",REPTILES
+80,"Snake, eastern indigo (Drymarchon coraiscouperi)",T,"15,291",0,"15,291",0,"15,291",REPTILES
+43,"Snake, giant garter (Thamnophis gigas)",T,"326,646",0,"326,646",0,"326,646",REPTILES
+36,"Tortoise, gopherW of of Mobile/Tombigbee Rs. (Gopheruspolyphemus)",T,0,"480,000","480,000",0,"480,000",REPTILES
+,Reptiles Subtotal,,"10,133,116","480,000","10,613,116",0,"10,613,116",
+,Reptiles Subtotal Verified,,"10,133,116","480,000","10,613,116",0,"10,613,116",
+,,,,,,,,
+41,"Frog, California red-leggedsubspecies range clarified (Rana auroradraytonii)",T,0,"345,000","345,000",0,"345,000",AMPHIBIANS
+51,"Salamander, Santa Cruz long-toed (Ambystomamacrodactylum croceum)",E,"270,100",0,"270,100",0,"270,100",AMPHIBIANS
+61,"Toad, Wyoming (Bufo baxteri (=hemiophrys))",E,"200,000",0,"200,000",0,"200,000",AMPHIBIANS
+,Amphibians Subtotal,,"470,100","345,000","815,100",0,"815,100",
+,Amphibians Subtotal Verified,,"470,100","345,000","815,100",0,"815,100",
+,,,,,,,,
+62,"Minnow, loach (Tiaroga cobitis)",T,0,"192,000","192,000",0,"192,000",FISHES
+8,"Salmon, AtlanticGulf of Maine Atlantic Salmon DPS (Salmo salar)",E,0,0,0,"2,800,000","2,800,000",FISHES
+35,"Salmon, chinookfall Snake R. (Oncorhynchus (=Salmo)tshawytscha)",T,0,"126,282","126,282","425,000","551,282",FISHES
+37,"Salmon, chinookspring/summer Snake R. (Oncorhynchus(=Salmo) tshawytscha)",T,0,"10,000","10,000","425,000","435,000",FISHES
+32,"Salmon, chinookPuget Sound (Oncorhynchus (=Salmo)tshawytscha)",T,"221,231","81,000","302,231","414,900","717,131",FISHES
+71,"Salmon, chinooklower Columbia R. (Oncorhynchus (=Salmo)tshawytscha)",T,0,"13,000","13,000","86,000","99,000",FISHES
+79,"Salmon, chinookupper Willamette R. (Oncorhynchus (=Salmo)tshawytscha)",T,"24,333",0,"24,333",0,"24,333",FISHES
+12,"Salmon, chinookspring upper Columbia R. (Oncorhynchus(=Salmo) tshawytscha)",T,0,"38,000","38,000","1,998,100","2,036,100",FISHES
+89,"Salmon, chumColumbia R. (Oncorhynchus (=Salmo) keta)",T,0,"8,000","8,000",0,"8,000",FISHES
+42,"Salmon, chumsummer-run Hood Canal (Oncorhynchus(=Salmo) keta)",T,0,"7,000","7,000","329,200","336,200",FISHES
+38,"Salmon, cohoOregon coast (Oncorhynchus (=Salmo) kisutch)",T,"63,506","363,080","426,586",0,"426,586",FISHES
+90,"Salmon, sockeyeU.S.A. (Snake River, ID stock wherever found.(Oncorhynchus (=Salmo) nerka)",E,0,"3,000","3,000",0,"3,000",FISHES
+90,"Salmon, sockeyeU.S.A. (Ozette Lake, WA (Oncorhynchus(=Salmo) nerka)",T,0,"3,000","3,000",0,"3,000",FISHES
+44,"Shiner, Arkansas RiverArkansas R. Basin (Notropis girardi)",T,0,0,0,"300,000","300,000",FISHES
+24,"Shiner, Cahaba (Notropis cahabae)",E,"941,500",0,"941,500",0,"941,500",FISHES
+62,Spikedace (Meda fulgida),T,0,"192,000","192,000",0,"192,000",FISHES
+27,"Springfish, Railroad Valley (Crenichthysnevadae)",T,"900,000",0,"900,000",0,"900,000",FISHES
+56,"SteelheadSnake R. Basin (Oncorhynchus (=Salmo) mykiss)",T,0,"138,282","138,282","70,000","208,282",FISHES
+28,"Steelheadlower Columbia R. (Oncorhynchus (=Salmo)mykiss)",T,0,"12,000","12,000","850,000","862,000",FISHES
+13,"Steelheadupper Columbia R. Basin (Oncorhynchus(=Salmo) mykiss)",E,0,"23,000","23,000","1,998,100","2,021,100",FISHES
+53,"Steelheadupper Willamette R. (Oncorhynchus (=Salmo)mykiss)",T,"24,333","139,741","164,074","86,000","250,074",FISHES
+23,"Steelheadmiddle Columbia R. (Oncorhynchus (=Salmo)mykiss)",T,0,"1,105,229","1,105,229",0,"1,105,229",FISHES
+62,"Sucker, razorback (Xyrauchen texanus)",E,0,"192,000","192,000",0,"192,000",FISHES
+62,"Topminnow, Gila (incl. Yaqui)U.S.A. only (Poeciliopsis occidentalis)",E,0,"192,000","192,000",0,"192,000",FISHES
+33,"Trout, bullU.S.A., conterminous, lower 48 states (Salvelinusconfluentus)",T,"421,231","196,993","618,224",0,"618,224",FISHES
+,Fishes Subtotal,,"2,596,134","3,035,607","5,631,741","9,782,300","15,414,041",
+,FIshes Subtotal Verified,,"2,596,134","3,035,607","5,631,741","9,782,300","15,414,041",
+,,,,,,,,
+24,"Lioplax, cylindrical (snail) (Lioplaxcyclostomaformis)",E,"941,500",0,"941,500",0,"941,500",SNAILS
+24,"Rocksnail, round (Leptoxis ampla)",T,"941,500",0,"941,500",0,"941,500",SNAILS
+45,"Snail, flat-spired three-toothed (Triodopsisplatysayoides)",T,"295,485",0,"295,485",0,"295,485",SNAILS
+81,"Snail, Stock Island tree (Orthalicus reses (notincl. nesodryas))",T,"13,333",0,"13,333",0,"13,333",SNAILS
+,Snails Subtotal,,"2,191,818",0,"2,191,818",0,"2,191,818",
+,Snails Subtotal Verified,,"2,191,818",0,"2,191,818",0,"2,191,818",
+,,,,,,,,
+78,"Beetle, valley elderberry longhorn (Desmoceruscalifornicus dimorphus)",T,"37,850",0,"37,850",0,"37,850",INSECTS
+47,"Butterfly, callippe silverspot (Speyeria callippecallippe)",E,"286,700",0,"286,700",0,"286,700",INSECTS
+40,"Butterfly, Karner blue (Lycaeides melissasamuelis)",E,"347,380",0,"347,380","20,000","367,380",INSECTS
+47,"Butterfly, mission blue (Icaricia icarioidesmissionensis)",E,"286,700",0,"286,700",0,"286,700",INSECTS
+7,"Butterfly, Oregon silverspot (Speyeria zerenehippolyta)",T,0,0,0,"3,603,300","3,603,300",INSECTS
+47,"Butterfly, San Bruno elfin (Callophrys mossiibayensis)",E,"286,700",0,"286,700",0,"286,700",INSECTS
+,Insects Subtotal,,"1,245,330",0,"1,245,330","3,623,300","4,868,630",
+,Insects Subtotal Verified,,"1,245,330",0,"1,245,330","3,623,300","4,868,630",
+,,,,,,,,
+39,"Fairy shrimp, vernal pool (Branchinecta lynchi)",T,"248,296","130,000","378,296",0,"378,296",CRUSTACEANS
+16,"Tadpole shrimp, vernal pool (Lepidurus packardi)",E,"1,581,629","130,000","1,711,629",0,"1,711,629",CRUSTACEANS
+,Crustaceans Subtotal,,"1,829,925","260,000","2,089,925",0,"2,089,925",
+,Crustaceans Subtotal Verified,,"1,829,925","260,000","2,089,925",0,"2,089,925",
+,,,,,,,,
+58,"Bedstraw, El Dorado (Galium californicum ssp.sierrae)",E,"93,000","113,000","206,000",0,"206,000",FLOWERING PLANTS
+93,"Blazingstar, scrub (Liatris ohlingerae)",E,"1,958",0,"1,958",0,"1,958",FLOWERING PLANTS
+93,"Bonamia, Florida (Bonamia grandiflora)",T,"1,958",0,"1,958",0,"1,958",FLOWERING PLANTS
+93,"Buckwheat, scrub (Eriogonum longifolium var.gnaphalifolium)",T,"1,958",0,"1,958",0,"1,958",FLOWERING PLANTS
+87,"Bush-clover, prairie (Lespedeza leptostachya)",T,0,0,0,"12,000","12,000",FLOWERING PLANTS
+60,"Butterweed, Layne's (Senecio layneae)",T,"93,000","112,000","205,000",0,"205,000",FLOWERING PLANTS
+70,"Cactus, Bakersfield (Opuntia treleasei)",E,0,"112,000","112,000",0,"112,000",FLOWERING PLANTS
+81,"Cactus, Key tree (Pilosocereus robinii)",E,"13,333",0,"13,333",0,"13,333",FLOWERING PLANTS
+75,"Ceanothus, Pine Hill (Ceanothus roderickii)",E,"93,000",0,"93,000",0,"93,000",FLOWERING PLANTS
+75,"Flannelbush, Pine Hill (Fremontodendroncalifornicum ssp. decumbens)",E,"93,000",0,"93,000",0,"93,000",FLOWERING PLANTS
+93,"Fringe-tree, pygmy (Chionanthus pygmaeus)",E,"1,958",0,"1,958",0,"1,958",FLOWERING PLANTS
+15,"Ladies'-tresses, Ute (Spiranthes diluvialis)",T,0,"1,880,000","1,880,000",0,"1,880,000",FLOWERING PLANTS
+88,"Layia, beach (Layia carnosa)",E,"10,000",0,"10,000",0,"10,000",FLOWERING PLANTS
+93,"Mint, Garrett's (Dicerandra christmanii)",E,"1,958",0,"1,958",0,"1,958",FLOWERING PLANTS
+58,"Morning-glory, Stebbins' (Calystegia stebbinsii)",E,"93,000","113,000","206,000",0,"206,000",FLOWERING PLANTS
+68,Geocarpon minimum (=Sci name),T,0,0,0,"133,000","133,000",FLOWERING PLANTS
+18,"Paintbrush, golden (Castilleja levisecta)",T,"1,500,000",0,"1,500,000",0,"1,500,000",FLOWERING PLANTS
+69,"Phlox, Yreka (Phlox hirsuta)",E,"122,000",0,"122,000",0,"122,000",FLOWERING PLANTS
+93,Pigeon wings (Clitoria fragrans),T,"1,958",0,"1,958",0,"1,958",FLOWERING PLANTS
+93,"Plum, scrub (Prunus geniculata)",E,"1,958",0,"1,958",0,"1,958",FLOWERING PLANTS
+57,"Sneezeweed, Virginia (Helenium virginicum)",T,"206,050",0,"206,050",0,"206,050",FLOWERING PLANTS
+51,"Spineflower, Robust (incl. Scotts Valley)(Chorizanthe robusta (incl. vars. robusta andhartwegii))",E,"270,100",0,"270,100",0,"270,100",FLOWERING PLANTS
+81,"Spurge, Garber's (Chamaesyce garberi)",T,"13,333",0,"13,333",0,"13,333",FLOWERING PLANTS
+66,"Trillium, relict (Trillium reliquum)",E,0,0,0,"135,000","135,000",FLOWERING PLANTS
+93,"Whitlow-wort, papery (Paronychia chartacea)",T,"1,958",0,"1,958",0,"1,958",FLOWERING PLANTS
+93,Wireweed (Polygonella basiramia),E,"1,958",0,"1,958",0,"1,958",FLOWERING PLANTS
+,Flowering Plants Subtotal,,"2,617,438","2,330,000","4,947,438","280,000","5,227,438",
+,Flowering Plants Subtotal Verified,,"2,617,438","2,330,000","4,947,438","280,000","5,227,438",
+,,,,,,,,
+,Subtotal,,"45,260,160","32,450,607","77,710,767","23,049,300","100,760,067",
+,Other ESA Expenses,,"30,643,891",0,"30,643,891","275,000","30,918,891",
+,Total,,"75,904,051","32,450,607","108,354,658","23,324,300","131,678,958",
+,,,,,,,,
+,,,,,,,,
+,Subtotal Verified,,"45,260,160","32,450,607","77,710,767","23,049,300","100,760,067",
+,Other ESA Expenses Verified,,,,,,,
+,Total Verified,,,,,,,
